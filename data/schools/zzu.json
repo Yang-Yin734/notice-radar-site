@@ -3,9 +3,14 @@
  "name": "郑州大学",
  "province": "河南省",
  "city": "郑州市",
- "generatedAt": "2026-11-03T10:17:43.852Z",
- "total": 102,
+ "generatedAt": "2026-11-03T10:56:32.032Z",
+ "total": 103,
  "bySource": [
+  {
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务部·通知公告",
+   "count": 13
+  },
   {
    "sourceId": "gs-gg",
    "sourceName": "研究生院·公告",
@@ -19,11 +24,6 @@
   {
    "sourceId": "news",
    "sourceName": "新闻网·综合",
-   "count": 12
-  },
-  {
-   "sourceId": "jwc-tzgg",
-   "sourceName": "教务部·通知公告",
    "count": 12
   },
   {
@@ -54,7 +54,7 @@
     "教务部·通知公告",
     "教务部·新闻快递"
    ],
-   "count": 27
+   "count": 28
   },
   {
    "id": "新闻网",
@@ -74,6 +74,21 @@
   }
  ],
  "items": [
+  {
+   "id": "156b766c1b429a75",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务部·通知公告",
+   "school": "zzu",
+   "title": "关于郑州大学2026届普通本科生校级优秀毕业论文（设计）评选结果公示的通知",
+   "url": "https://www5.zzu.edu.cn/jwc/info/1125/5434.htm",
+   "date": "2026-11-03",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-03T10:20:28.576Z",
+   "unit": "教务部"
+  },
   {
    "id": "ff8799fefa42b78f",
    "sourceId": "gs-gg",
