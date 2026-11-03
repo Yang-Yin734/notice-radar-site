@@ -3,13 +3,13 @@
  "name": "北京师范大学",
  "province": "北京市",
  "city": "",
- "generatedAt": "2026-11-03T11:15:41.445Z",
- "total": 26,
+ "generatedAt": "2026-11-03T18:31:10.393Z",
+ "total": 28,
  "bySource": [
   {
    "sourceId": "jwb-tzgg",
    "sourceName": "教务部·通知公告",
-   "count": 26
+   "count": 28
   }
  ],
  "units": [
@@ -19,10 +19,40 @@
    "sources": [
     "教务部·通知公告"
    ],
-   "count": 26
+   "count": 28
   }
  ],
  "items": [
+  {
+   "id": "731a9df952d823ef",
+   "sourceId": "jwb-tzgg",
+   "sourceName": "教务部·通知公告",
+   "school": "bnu",
+   "title": "【国际交流】 关于启动2027年瑞士互换奖学金遴选工作的通知",
+   "url": "https://jwb.bnu.edu.cn/pygc/gjjl/gjgpxmxsl/900c2bf3caba4de487d5a437a31f7d4a.htm",
+   "date": "2026-11-03",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-03T18:30:26.736Z",
+   "unit": "教务部"
+  },
+  {
+   "id": "d861d28fe78f3e6b",
+   "sourceId": "jwb-tzgg",
+   "sourceName": "教务部·通知公告",
+   "school": "bnu",
+   "title": "【国际交流】 关于启动2027-2028年度加拿大魁北克省政府奖学金遴选通知",
+   "url": "https://jwb.bnu.edu.cn/pygc/gjjl/gjgpxmxsl/ccd19dff71ca4a1e823d6239c63be685.htm",
+   "date": "2026-11-03",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-03T18:30:26.736Z",
+   "unit": "教务部"
+  },
   {
    "id": "3a248429ee192993",
    "sourceId": "jwb-tzgg",

@@ -3,13 +3,13 @@
  "name": "西北工业大学",
  "province": "陕西省",
  "city": "西安市",
- "generatedAt": "2026-11-03T11:15:41.445Z",
- "total": 22,
+ "generatedAt": "2026-11-03T18:31:10.393Z",
+ "total": 23,
  "bySource": [
   {
    "sourceId": "jiaowu-tzgg",
    "sourceName": "教务部·通知公告",
-   "count": 22
+   "count": 23
   }
  ],
  "units": [
@@ -19,10 +19,25 @@
    "sources": [
     "教务部·通知公告"
    ],
-   "count": 22
+   "count": 23
   }
  ],
  "items": [
+  {
+   "id": "b6ede81823acd1a3",
+   "sourceId": "jiaowu-tzgg",
+   "sourceName": "教务部·通知公告",
+   "school": "nwpu",
+   "title": "关于组织参加第二十届全国大学生软件创新大赛报名工作的通知",
+   "url": "https://jiaowu.nwpu.edu.cn/info/1164/30688.htm",
+   "date": "2026-11-03",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-03T18:30:43.602Z",
+   "unit": "教务部"
+  },
   {
    "id": "426a3c4fa823df3c",
    "sourceId": "jiaowu-tzgg",
