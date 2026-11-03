@@ -10,7 +10,7 @@
 
 这是 Apple 官方给**网页应用**的安装方式，体验和原生应用基本一致：
 
-1. 用 **Safari** 打开 <https://yang-yin734.github.io/notice-radar/>
+1. 用 **Safari** 打开 <https://yang-yin734.github.io/notice-radar-site/>
    （必须是 Safari，Chrome/微信内置浏览器都不行——iOS 上它们调不出这个入口）
 2. 点底部中间的 **分享** 按钮
 3. 选 **添加到主屏幕** → 右上角 **添加**

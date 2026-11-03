@@ -3,7 +3,7 @@
 ## 安装方式（截至 2026-11-03 的实际情况）
 
 **npm registry 上还没有这个包**（`notice-radar` 仍是 404），Release 里的 `.tgz` 只到 v0.10.0。
-所以现在唯一可靠的方式是从仓库跑：
+仓库自 2026-11-03 起转为私有，外部拿不到包，只能从仓库跑（需要仓库权限）：
 
 ```bash
 git clone https://github.com/Yang-Yin734/notice-radar.git
