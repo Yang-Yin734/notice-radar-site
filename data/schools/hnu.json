@@ -1,0 +1,175 @@
+{
+ "school": "hnu",
+ "name": "湖南大学",
+ "province": "湖南省",
+ "city": "长沙市",
+ "generatedAt": "2026-11-03T03:29:13.726Z",
+ "total": 11,
+ "bySource": [
+  {
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "count": 11
+  }
+ ],
+ "units": [
+  {
+   "id": "教务处",
+   "name": "教务处",
+   "sources": [
+    "教务处·通知公告"
+   ],
+   "count": 11
+  }
+ ],
+ "items": [
+  {
+   "id": "3744aa21cc38eb2b",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "hnu",
+   "title": "2026年“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛英语组短视频专项赛湖南大学校赛获奖名单公示",
+   "url": "https://jwc.hnu.edu.cn/info/1022/14836.htm",
+   "date": "2026-10-22",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-22T10:04:26.685Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "8175ddde3304162b",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "hnu",
+   "title": "2026年“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛英语组 “四新”专项赛湖南大学校赛获奖名单公示",
+   "url": "https://jwc.hnu.edu.cn/info/1022/14835.htm",
+   "date": "2026-10-22",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-22T10:04:26.685Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "f53ca5dc80b2e3ca",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "hnu",
+   "title": "2026年“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛英语组笔译专项赛湖南大学校赛获奖名单公示",
+   "url": "https://jwc.hnu.edu.cn/info/1022/14834.htm",
+   "date": "2026-10-22",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-22T10:04:26.685Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "dc3503ac428a810c",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "hnu",
+   "title": "关于公布第二十三届湖南大学力学竞赛获奖名单的通知",
+   "url": "https://jwc.hnu.edu.cn/info/1022/14833.htm",
+   "date": "2026-10-22",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-22T10:04:26.685Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "a76a386d324d57cd",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "hnu",
+   "title": "关于做好2027届本科毕业论文（设计）工作的通知",
+   "url": "https://jwc.hnu.edu.cn/info/1021/14830.htm",
+   "date": "2026-10-19",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-21T10:26:18.771Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "770e5d79f0e279ce",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "hnu",
+   "title": "关于发放2026年上半年日本语能力测试(JLPT)成绩单及合格证书的通知",
+   "url": "https://jwc.hnu.edu.cn/info/1022/14831.htm",
+   "date": "2026-10-19",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-19T09:20:35.271Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "2773b14398b8fdc1",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "hnu",
+   "title": "关于开展2026级本科新生学籍信息自查的通知",
+   "url": "https://jwc.hnu.edu.cn/info/1022/14826.htm",
+   "date": "2026-10-12",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-12T03:28:05.568Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "91414ea4413bd1ec",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "hnu",
+   "title": "关于举行2026-2027-1学期课程期中考试的通知",
+   "url": "https://jwc.hnu.edu.cn/info/1083/14824.htm",
+   "date": "2026-10-12",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-12T02:02:11.310Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "2782d18da7de7776",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "hnu",
+   "title": "关于本科生课程考试网上电子阅卷的工作通知",
+   "url": "https://jwc.hnu.edu.cn/info/1083/14822.htm",
+   "date": "2026-09-28",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-04T07:10:02.472Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "f1fec3351c1746e4",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "hnu",
+   "title": "关于2026年中秋、国庆假期本科教学安排的通知",
+   "url": "https://jwc.hnu.edu.cn/info/1021/14803.htm",
+   "date": "2026-09-15",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-04T07:10:02.472Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "e85b7d724dc3e8d0",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "hnu",
+   "title": "关于2026-2027学年秋季学期中南大学、湖南师范大学优质课程面向我校本科生开放选课的通知",
+   "url": "https://jwc.hnu.edu.cn/info/1021/14795.htm",
+   "date": "2026-09-08",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-04T07:10:02.472Z",
+   "deadline": "2026-09-18",
+   "unit": "教务处"
+  }
+ ]
+}

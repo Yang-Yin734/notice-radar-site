@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.yangyin734.noticeradar",
+      "sha256_cert_fingerprints": [
+        "43:53:93:93:17:5E:76:72:66:FB:39:68:ED:10:A0:1E:96:7F:88:36:5A:8E:BF:E6:42:29:D9:42:A2:AD:3D:70"
+      ]
+    }
+  }
+]

@@ -1,0 +1,216 @@
+{
+ "school": "xjtu",
+ "name": "西安交通大学",
+ "province": "陕西省",
+ "city": "西安市",
+ "generatedAt": "2026-11-03T03:29:13.726Z",
+ "total": 14,
+ "bySource": [
+  {
+   "sourceId": "jwc-jxtz",
+   "sourceName": "教务处·教学通知",
+   "count": 14
+  }
+ ],
+ "units": [
+  {
+   "id": "教务处",
+   "name": "教务处",
+   "sources": [
+    "教务处·教学通知"
+   ],
+   "count": 14
+  }
+ ],
+ "items": [
+  {
+   "id": "4b70ba412bfe8b42",
+   "sourceId": "jwc-jxtz",
+   "sourceName": "教务处·教学通知",
+   "school": "xjtu",
+   "title": "[实践教学]关于2026年度“人工智能+”虚拟仿真实验教学项目推荐结果的公示",
+   "url": "https://jwc.xjtu.edu.cn/info/1179/10611.htm",
+   "date": "2026-10-30",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-30T09:55:07.304Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "dd7076fb47a26935",
+   "sourceId": "jwc-jxtz",
+   "sourceName": "教务处·教学通知",
+   "school": "xjtu",
+   "title": "[考试安排]关于2026年秋季体质健康标准测试的通知",
+   "url": "https://jwc.xjtu.edu.cn/info/1171/10574.htm",
+   "date": "2026-10-21",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-21T08:18:04.705Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "f56a70c5090dfc32",
+   "sourceId": "jwc-jxtz",
+   "sourceName": "教务处·教学通知",
+   "school": "xjtu",
+   "title": "[课程建设]关于首批陕西省普通本科高校精品教学资源平台公开发布拟推荐名单的公示",
+   "url": "https://jwc.xjtu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1175&wbnewsid=10573",
+   "date": "2026-10-21",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-21T07:34:47.453Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "fcb894b1443dc080",
+   "sourceId": "jwc-jxtz",
+   "sourceName": "教务处·教学通知",
+   "school": "xjtu",
+   "title": "[竞赛安排]关于组织开展第十八届蓝桥杯大赛数字科技创新赛(智能装备数字化建模大赛)报名工作的通知",
+   "url": "https://jwc.xjtu.edu.cn/info/1172/10543.htm",
+   "date": "2026-10-19",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-19T10:00:27.131Z",
+   "deadline": "2026-12-07",
+   "unit": "教务处"
+  },
+  {
+   "id": "a5658d7e15e4c693",
+   "sourceId": "jwc-jxtz",
+   "sourceName": "教务处·教学通知",
+   "school": "xjtu",
+   "title": "[竞赛安排]关于组织第十二届国际大学生智能农业装备创新大赛报名的通知",
+   "url": "https://jwc.xjtu.edu.cn/info/1172/10541.htm",
+   "date": "2026-10-16",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-16T10:02:11.984Z",
+   "deadline": "2026-11-30",
+   "unit": "教务处"
+  },
+  {
+   "id": "95085a1f711fa741",
+   "sourceId": "jwc-jxtz",
+   "sourceName": "教务处·教学通知",
+   "school": "xjtu",
+   "title": "[竞赛安排]关于组织华为ICT大赛2026-2027报名的通知",
+   "url": "https://jwc.xjtu.edu.cn/info/1172/10521.htm",
+   "date": "2026-10-15",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-15T10:02:42.019Z",
+   "deadline": "2026-10-31",
+   "unit": "教务处"
+  },
+  {
+   "id": "bde8ba093dcb7f26",
+   "sourceId": "jwc-jxtz",
+   "sourceName": "教务处·教学通知",
+   "school": "xjtu",
+   "title": "[竞赛安排]关于组织全国大学生计算机应用能力与数字素养大赛暨第九届传智杯全国大学生数智创新与AI应用大赛报名的...",
+   "url": "https://jwc.xjtu.edu.cn/info/1172/10505.htm",
+   "date": "2026-10-09",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-09T09:14:09.993Z",
+   "deadline": "2026-09-01",
+   "unit": "教务处"
+  },
+  {
+   "id": "85016446a2417a2d",
+   "sourceId": "jwc-jxtz",
+   "sourceName": "教务处·教学通知",
+   "school": "xjtu",
+   "title": "[竞赛安排]关于公布2026年新文科实践创新大赛校赛答辩入围名单的通知",
+   "url": "https://jwc.xjtu.edu.cn/info/1172/10503.htm",
+   "date": "2026-10-09",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-09T02:54:28.419Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "e13e0e315112ec41",
+   "sourceId": "jwc-jxtz",
+   "sourceName": "教务处·教学通知",
+   "school": "xjtu",
+   "title": "[学籍管理]关于本科生办理火车票优惠资质核验的通知",
+   "url": "https://jwc.xjtu.edu.cn/info/1095/10502.htm",
+   "date": "2026-10-09",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-09T02:35:12.069Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "acc604b625081315",
+   "sourceId": "jwc-jxtz",
+   "sourceName": "教务处·教学通知",
+   "school": "xjtu",
+   "title": "[学籍管理]关于2026级新生自查学信网学籍信息的通知",
+   "url": "https://jwc.xjtu.edu.cn/info/1095/10501.htm",
+   "date": "2026-10-09",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-09T02:35:12.069Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "bad0f8988a77b2b4",
+   "sourceId": "jwc-jxtz",
+   "sourceName": "教务处·教学通知",
+   "school": "xjtu",
+   "title": "[竞赛安排]关于第42届全国部分地区大学生物理竞赛西安交通大学报名的通知",
+   "url": "https://jwc.xjtu.edu.cn/info/1172/10496.htm",
+   "date": "2026-09-30",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-04T06:04:28.338Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "5663e52be4b5a612",
+   "sourceId": "jwc-jxtz",
+   "sourceName": "教务处·教学通知",
+   "school": "xjtu",
+   "title": "[竞赛安排]关于第 3 届学研杯大学物理强基邀请赛II卷西安交通大学报名的通知",
+   "url": "https://jwc.xjtu.edu.cn/info/1172/10495.htm",
+   "date": "2026-09-30",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-04T06:04:28.338Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "975c2294e2698071",
+   "sourceId": "jwc-jxtz",
+   "sourceName": "教务处·教学通知",
+   "school": "xjtu",
+   "title": "[学籍管理]关于开展2026年学籍处理与毕业年级确认工作的通知",
+   "url": "https://jwc.xjtu.edu.cn/info/1095/10494.htm",
+   "date": "2026-09-30",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-04T06:04:28.338Z",
+   "deadline": "2026-10-23",
+   "unit": "教务处"
+  },
+  {
+   "id": "980da35b457d4aeb",
+   "sourceId": "jwc-jxtz",
+   "sourceName": "教务处·教学通知",
+   "school": "xjtu",
+   "title": "[考试安排]关于2026年下半年全国大学英语四、六级考试报名的通知",
+   "url": "https://jwc.xjtu.edu.cn/info/1171/10445.htm",
+   "date": "2026-09-09",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-04T06:04:28.338Z",
+   "deadline": "2026-11-22",
+   "unit": "教务处"
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "校园通知雷达",
+  "short_name": "通知雷达",
+  "description": "高校官网通知的自动归档与检索：只抓公开页面，不登录、不存储个人信息。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#FBFAF7",
+  "theme_color": "#B23A2E",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

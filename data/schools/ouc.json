@@ -1,0 +1,205 @@
+{
+ "school": "ouc",
+ "name": "中国海洋大学",
+ "province": "山东省",
+ "city": "青岛市",
+ "generatedAt": "2026-11-03T03:29:13.726Z",
+ "total": 13,
+ "bySource": [
+  {
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "count": 13
+  }
+ ],
+ "units": [
+  {
+   "id": "教务处",
+   "name": "教务处",
+   "sources": [
+    "教务处·通知公告"
+   ],
+   "count": 13
+  }
+ ],
+ "items": [
+  {
+   "id": "251e83c0a1645fb0",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "ouc",
+   "title": "关于2026年秋季学期本科课程期末考试试卷命题及印制工作的通知",
+   "url": "https://jwc.ouc.edu.cn/2026/1102/c6517a540974/page.htm",
+   "date": "2026-11-02",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-02T04:37:59.564Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "38b7172ee3565362",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "ouc",
+   "title": "（公示已到期）关于公布2026年秋季学期转换院系、班级学习拟通过学生名单的通知",
+   "url": "https://jwc.ouc.edu.cn/2026/1027/c6517a540363/page.htm",
+   "date": "2026-10-27",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-02T04:37:59.564Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "816c74e0fdeddb81",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "ouc",
+   "title": "关于公布2026年秋季学期转换院系、班级学习拟通过学生名单的通知",
+   "url": "https://jwc.ouc.edu.cn/2026/1027/c6517a540363/page.htm",
+   "date": "2026-10-27",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-27T03:07:42.651Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "4f9d3544eef09a3f",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "ouc",
+   "title": "关于启动2027届本科毕业论文（设计）工作的通知",
+   "url": "https://jwc.ouc.edu.cn/2026/1023/c6517a540119/page.htm",
+   "date": "2026-10-23",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-23T10:24:28.151Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "5505bc75be053b6d",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "ouc",
+   "title": "关于2026年秋季学期本科课程期中考试的通知",
+   "url": "https://jwc.ouc.edu.cn/2026/1019/c6517a539550/page.htm",
+   "date": "2026-10-19",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-20T00:47:59.593Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "7d7e97f129bda4c7",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "ouc",
+   "title": "关于组织2026年秋季学期本科课程期末考试的通知",
+   "url": "https://jwc.ouc.edu.cn/2026/1019/c6517a539551/page.htm",
+   "date": "2026-10-19",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-20T00:47:59.593Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "3172a1781db5791d",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "ouc",
+   "title": "关于大学英语选课学生登录U校园AI版注册课程的通知",
+   "url": "https://jwc.ouc.edu.cn/2026/1013/c6517a539017/page.htm",
+   "date": "2026-10-13",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-13T02:40:11.651Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "6a991d485cad2120",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "ouc",
+   "title": "关于全日制本科生申请2026年10月批次毕业的通知",
+   "url": "https://jwc.ouc.edu.cn/2026/1012/c6517a538866/page.htm",
+   "date": "2026-10-12",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-12T03:28:21.051Z",
+   "deadline": "2026-10-22",
+   "unit": "教务处"
+  },
+  {
+   "id": "4ed2b5189d7d53ff",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "ouc",
+   "title": "关于公布2026年秋季学期准予参加结业后返校重考名单的通知",
+   "url": "https://jwc.ouc.edu.cn/2026/1010/c6517a538795/page.htm",
+   "date": "2026-10-10",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-10T02:49:23.527Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "604000a399b76133",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "ouc",
+   "title": "公示",
+   "url": "https://jwc.ouc.edu.cn/2026/0930/c6517a538405/page.htm",
+   "date": "2026-09-30",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-04T06:59:49.589Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "705955dede38ab5a",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "ouc",
+   "title": "关于组织中国海洋大学2026年秋季学期学生普通话水平测试报名的通知",
+   "url": "https://jwc.ouc.edu.cn/2026/0920/c6517a537768/page.htm",
+   "date": "2026-09-20",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-04T06:59:49.589Z",
+   "deadline": "2026-09-25",
+   "unit": "教务处"
+  },
+  {
+   "id": "33877a69bf3a418d",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "ouc",
+   "title": "中国海洋大学2026级蓝梦拔尖人才实验班拟录取名单公示",
+   "url": "https://jwc.ouc.edu.cn/2026/0912/c6517a537028/page.htm",
+   "date": "2026-09-12",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-04T06:59:49.589Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "bccfceb9994797e0",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "ouc",
+   "title": "关于2026年下半年全国大学英语四六级考试报名工作的通知",
+   "url": "https://jwc.ouc.edu.cn/2026/0909/c6517a536805/page.htm",
+   "date": "2026-09-09",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-04T06:59:49.589Z",
+   "deadline": "2026-09-16",
+   "unit": "教务处"
+  }
+ ]
+}

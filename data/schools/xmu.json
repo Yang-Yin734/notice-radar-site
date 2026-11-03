@@ -1,0 +1,214 @@
+{
+ "school": "xmu",
+ "name": "厦门大学",
+ "province": "福建省",
+ "city": "厦门市",
+ "generatedAt": "2026-11-03T03:29:13.726Z",
+ "total": 14,
+ "bySource": [
+  {
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "count": 14
+  }
+ ],
+ "units": [
+  {
+   "id": "教务处",
+   "name": "教务处",
+   "sources": [
+    "教务处·通知公告"
+   ],
+   "count": 14
+  }
+ ],
+ "items": [
+  {
+   "id": "72fefb2171499c87",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "xmu",
+   "title": "2026年基础学科人才国际化培养项目本科插班生推荐人选公示",
+   "url": "https://jwc.xmu.edu.cn/info/1911/69942.htm",
+   "date": "2026-10-26",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-27T01:18:17.501Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "a21ad384efcbe0d6",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "xmu",
+   "title": "关于组织2026级本科新生开展学籍信息核对工作的通知",
+   "url": "https://jwc.xmu.edu.cn/info/1911/69962.htm",
+   "date": "2026-10-26",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-26T19:23:13.322Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "c294a2303fad660b",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "xmu",
+   "title": "关于2026年12月12日全国大学英语四、六级考试教学楼封闭的通知",
+   "url": "https://jwc.xmu.edu.cn/info/1921/69912.htm",
+   "date": "2026-10-09",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-09T14:40:20.324Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "b9cc8351aa2320a3",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "xmu",
+   "title": "关于2026-2027学年第一学期公共数学、大学物理、公共计算机期中考试安排的通知",
+   "url": "https://jwc.xmu.edu.cn/info/1921/69902.htm",
+   "date": "2026-10-09",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-09T14:40:20.324Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "301f2df9e815a714",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "xmu",
+   "title": "关于2026年12月19日-20日全国硕士研究生招生考试（初试）教学楼封闭的通知",
+   "url": "https://jwc.xmu.edu.cn/info/1921/69872.htm",
+   "date": "2026-10-08",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-08T13:00:56.914Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "44be26716726a35e",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "xmu",
+   "title": "关于2026—2027学年第一学期转专业工作安排的通知",
+   "url": "https://jwc.xmu.edu.cn/info/1911/69852.htm",
+   "date": "2026-09-30",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-04T07:10:30.627Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "c44493fb4495a4c8",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "xmu",
+   "title": "关于公布2026年第二批大学生创新训练计划项目名单的通知",
+   "url": "https://jwc.xmu.edu.cn/info/1951/69842.htm",
+   "date": "2026-09-30",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-04T07:10:30.627Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "fbe6fbefcd8648db",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "xmu",
+   "title": "关于2026-2027学年第一学期中期退课的通知",
+   "url": "https://jwc.xmu.edu.cn/info/1921/69772.htm",
+   "date": "2026-09-17",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-04T07:10:30.627Z",
+   "deadline": "2026-09-17",
+   "unit": "教务处"
+  },
+  {
+   "id": "dbf1488d475baf71",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "xmu",
+   "title": "关于2026年第二批大学生创新训练计划项目拟立项名单的公示",
+   "url": "https://jwc.xmu.edu.cn/info/1951/69762.htm",
+   "date": "2026-09-16",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-04T07:10:30.627Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "5b337341f2fe0091",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "xmu",
+   "title": "关于2026年下半年全国大学英语四、六级考试报名工作的通知",
+   "url": "https://jwc.xmu.edu.cn/info/1911/69672.htm",
+   "date": "2026-09-02",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-04T07:10:30.627Z",
+   "deadline": "2026-11-22",
+   "unit": "教务处"
+  },
+  {
+   "id": "2be6fa05ef61c8c0",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "xmu",
+   "title": "关于组织2026级本科新生选课的通知",
+   "url": "https://jwc.xmu.edu.cn/info/1921/69632.htm",
+   "date": "2026-08-27",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-04T07:10:30.627Z",
+   "deadline": "2026-08-27",
+   "unit": "教务处"
+  },
+  {
+   "id": "601670b9c1d7af7e",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "xmu",
+   "title": "关于2026年下半年全国大学英语四、六级考试照片采集的预通知",
+   "url": "https://jwc.xmu.edu.cn/info/1911/69662.htm",
+   "date": "2026-08-27",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-04T07:10:30.627Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "3896cf0b7fafc4c2",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "xmu",
+   "title": "关于2026级新生参加大学英语分类考试补考的通知",
+   "url": "https://jwc.xmu.edu.cn/info/1921/69652.htm",
+   "date": "2026-08-24",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-04T07:10:30.627Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "a3c087aecc629554",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "xmu",
+   "title": "关于2026级新生参加大学英语分类考试的通知",
+   "url": "https://jwc.xmu.edu.cn/info/1921/69602.htm",
+   "date": "2026-08-08",
+   "tag": null,
+   "alsoIn": [],
+   "firstSeenAt": "2026-10-04T07:10:30.627Z",
+   "unit": "教务处"
+  }
+ ]
+}
