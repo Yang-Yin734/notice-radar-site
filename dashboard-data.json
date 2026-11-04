@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-04T18:37:04.723Z",
-  "total": 416,
+  "generatedAt": "2026-11-04T23:55:30.351Z",
+  "total": 422,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
       "sourceName": "教务部·通知公告",
-      "count": 95
+      "count": 97
     },
     {
       "sourceId": "jwb-tzgg",
@@ -53,6 +53,11 @@
       "count": 18
     },
     {
+      "sourceId": "news",
+      "sourceName": "新闻网·综合",
+      "count": 15
+    },
+    {
       "sourceId": "jw-ggtz",
       "sourceName": "本科生院·公告通知",
       "count": 15
@@ -78,14 +83,9 @@
       "count": 13
     },
     {
-      "sourceId": "news",
-      "sourceName": "新闻网·综合",
-      "count": 12
-    },
-    {
       "sourceId": "rsc-tzgg",
       "sourceName": "人事部·通知公告",
-      "count": 11
+      "count": 12
     },
     {
       "sourceId": "jwc-important",
@@ -104,6 +104,62 @@
     }
   ],
   "items": [
+    {
+      "id": "637591cef7d47dac",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务部·通知公告",
+      "school": "zzu",
+      "title": "关于拟推荐申报2026年“人工智能＋”虚拟仿真实验教学项目的公示",
+      "url": "https://www5.zzu.edu.cn/jwc/info/1125/5442.htm",
+      "date": "2026-11-04",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-04T23:55:29.998Z"
+    },
+    {
+      "id": "9dbeae46e087203e",
+      "sourceId": "rsc-tzgg",
+      "sourceName": "人事部·通知公告",
+      "school": "zzu",
+      "title": "郑州大学关于开展2027年上半年高级专家申请延长退休年龄工作的通知",
+      "url": "https://www.zzu.edu.cn/tzcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1481&wbnewsid=89346",
+      "date": "2026-11-04",
+      "tag": null,
+      "category": "人事",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-04T23:55:29.998Z"
+    },
+    {
+      "id": "3b03b059dc3b251f",
+      "sourceId": "news",
+      "sourceName": "新闻网·综合",
+      "school": "zzu",
+      "title": "郑州大学承办中国城市论坛（2026）黄河城市发展分论坛",
+      "url": "http://www.zzu.edu.cn/info/1217/89342.htm",
+      "date": "2026-11-04",
+      "tag": null,
+      "category": "综合",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-04T23:55:29.998Z"
+    },
+    {
+      "id": "00dd77f584476ebf",
+      "sourceId": "news",
+      "sourceName": "新闻网·综合",
+      "school": "zzu",
+      "title": "郑州大学第五附属医院承办2026年河南省康复技能竞赛省级决赛",
+      "url": "http://www.zzu.edu.cn/info/1217/89340.htm",
+      "date": "2026-11-04",
+      "tag": null,
+      "category": "综合",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-04T23:55:29.998Z"
+    },
     {
       "id": "82835d7e0aea6311",
       "sourceId": "jiaowu-tzgg",
@@ -131,6 +187,20 @@
       "alsoIn": [],
       "tier": "urgent",
       "firstSeenAt": "2026-11-04T11:06:32.299Z"
+    },
+    {
+      "id": "bcde6e49ec82492e",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务部·通知公告",
+      "school": "zzu",
+      "title": "关于郑州大学2026届普通本科生校级优秀毕业论文（设计）评选结果的公示",
+      "url": "https://www5.zzu.edu.cn/jwc/info/1125/5434.htm",
+      "date": "2026-11-03",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-04T23:55:29.998Z"
     },
     {
       "id": "b6ede81823acd1a3",
@@ -217,6 +287,20 @@
       "alsoIn": [],
       "tier": "digest",
       "firstSeenAt": "2026-11-03T03:28:06.138Z"
+    },
+    {
+      "id": "69b1d5966366aca6",
+      "sourceId": "news",
+      "sourceName": "新闻网·综合",
+      "school": "zzu",
+      "title": "郑州大学承办第五届建筑加固工程质量控制学术交流会",
+      "url": "http://www.zzu.edu.cn/info/1217/89324.htm",
+      "date": "2026-11-02",
+      "tag": null,
+      "category": "综合",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-04T23:55:29.998Z"
     },
     {
       "id": "3a248429ee192993",
