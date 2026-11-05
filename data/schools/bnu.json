@@ -3,13 +3,13 @@
  "name": "北京师范大学",
  "province": "北京市",
  "city": "",
- "generatedAt": "2026-11-05T13:08:35.190Z",
- "total": 28,
+ "generatedAt": "2026-11-05T20:39:03.460Z",
+ "total": 30,
  "bySource": [
   {
    "sourceId": "jwb-tzgg",
    "sourceName": "教务部·通知公告",
-   "count": 28
+   "count": 30
   }
  ],
  "units": [
@@ -19,10 +19,40 @@
    "sources": [
     "教务部·通知公告"
    ],
-   "count": 28
+   "count": 30
   }
  ],
  "items": [
+  {
+   "id": "9e5799c736079bf6",
+   "sourceId": "jwb-tzgg",
+   "sourceName": "教务部·通知公告",
+   "school": "bnu",
+   "title": "【实践教学】 关于开展2026年北京本科高校产学研深度协同育人平台推荐工作的通知",
+   "url": "https://jwb.bnu.edu.cn/pygc/sjjx/dxskyycx/1734ff793ac34fea92b43218e05fec21.htm",
+   "date": "2026-11-05",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-05T20:38:42.076Z",
+   "unit": "教务部"
+  },
+  {
+   "id": "61a9c85552718440",
+   "sourceId": "jwb-tzgg",
+   "sourceName": "教务部·通知公告",
+   "school": "bnu",
+   "title": "【实践教学】 关于开展2026年北京高等学校优秀教学实验室申报推荐工作的通知",
+   "url": "https://jwb.bnu.edu.cn/pygc/sjjx/syjxysysjs/29b6e223c7ad45d98e4bdd659d3c3a92.htm",
+   "date": "2026-11-05",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-05T20:38:42.076Z",
+   "unit": "教务部"
+  },
   {
    "id": "731a9df952d823ef",
    "sourceId": "jwb-tzgg",
