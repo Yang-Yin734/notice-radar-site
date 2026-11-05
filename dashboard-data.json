@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-05T05:06:15.959Z",
-  "total": 423,
+  "generatedAt": "2026-11-05T13:08:35.190Z",
+  "total": 425,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
@@ -33,14 +33,14 @@
       "count": 23
     },
     {
-      "sourceId": "gs-gg",
-      "sourceName": "研究生院·公告",
+      "sourceId": "ugs-tzgg",
+      "sourceName": "本科生院·通知公告",
       "count": 22
     },
     {
-      "sourceId": "ugs-tzgg",
-      "sourceName": "本科生院·通知公告",
-      "count": 20
+      "sourceId": "gs-gg",
+      "sourceName": "研究生院·公告",
+      "count": 22
     },
     {
       "sourceId": "aao-tzgg",
@@ -104,6 +104,20 @@
     }
   ],
   "items": [
+    {
+      "id": "f5f104f89f41ebcb",
+      "sourceId": "ugs-tzgg",
+      "sourceName": "本科生院·通知公告",
+      "school": "hust",
+      "title": "关于公布中国国际大学生创新大赛(2026)华中科技大学校赛获奖名单的通知",
+      "url": "https://ugs.hust.edu.cn/info/1142/7698.htm",
+      "date": "2026-11-05",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-05T13:08:19.830Z"
+    },
     {
       "id": "c9ec8b9d27b7e382",
       "sourceId": "jwc-tzgg",
@@ -301,6 +315,21 @@
       "alsoIn": [],
       "tier": "digest",
       "firstSeenAt": "2026-11-03T03:28:06.138Z"
+    },
+    {
+      "id": "5f1f6e31d73e5ffe",
+      "sourceId": "ugs-tzgg",
+      "sourceName": "本科生院·通知公告",
+      "school": "hust",
+      "title": "关于开展2026年度修读辅修学士学位报名工作的通知",
+      "url": "https://ugs.hust.edu.cn/info/1142/7692.htm",
+      "date": "2026-11-02",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "deadline": "2026-11-30",
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-05T13:08:19.830Z"
     },
     {
       "id": "69b1d5966366aca6",

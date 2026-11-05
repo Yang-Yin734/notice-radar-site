@@ -3,13 +3,13 @@
  "name": "华中科技大学",
  "province": "湖北省",
  "city": "武汉市",
- "generatedAt": "2026-11-05T05:06:15.959Z",
- "total": 20,
+ "generatedAt": "2026-11-05T13:08:35.190Z",
+ "total": 22,
  "bySource": [
   {
    "sourceId": "ugs-tzgg",
    "sourceName": "本科生院·通知公告",
-   "count": 20
+   "count": 22
   }
  ],
  "units": [
@@ -19,10 +19,41 @@
    "sources": [
     "本科生院·通知公告"
    ],
-   "count": 20
+   "count": 22
   }
  ],
  "items": [
+  {
+   "id": "f5f104f89f41ebcb",
+   "sourceId": "ugs-tzgg",
+   "sourceName": "本科生院·通知公告",
+   "school": "hust",
+   "title": "关于公布中国国际大学生创新大赛(2026)华中科技大学校赛获奖名单的通知",
+   "url": "https://ugs.hust.edu.cn/info/1142/7698.htm",
+   "date": "2026-11-05",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-05T13:08:19.830Z",
+   "unit": "本科生院"
+  },
+  {
+   "id": "5f1f6e31d73e5ffe",
+   "sourceId": "ugs-tzgg",
+   "sourceName": "本科生院·通知公告",
+   "school": "hust",
+   "title": "关于开展2026年度修读辅修学士学位报名工作的通知",
+   "url": "https://ugs.hust.edu.cn/info/1142/7692.htm",
+   "date": "2026-11-02",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "deadline": "2026-11-30",
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-05T13:08:19.830Z",
+   "unit": "本科生院"
+  },
   {
    "id": "32052dd6c2d8a006",
    "sourceId": "ugs-tzgg",
