@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-04T23:55:30.351Z",
-  "total": 422,
+  "generatedAt": "2026-11-05T05:06:15.959Z",
+  "total": 423,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
-      "sourceName": "教务部·通知公告",
-      "count": 97
+      "sourceName": "教务处·通知公告",
+      "count": 98
     },
     {
       "sourceId": "jwb-tzgg",
@@ -104,6 +104,20 @@
     }
   ],
   "items": [
+    {
+      "id": "c9ec8b9d27b7e382",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "hnu",
+      "title": "关于公布2026-2027-1学期期中考试周课程考试安排的通知",
+      "url": "https://jwc.hnu.edu.cn/info/1022/14843.htm",
+      "date": "2026-11-04",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-05T05:05:57.202Z"
+    },
     {
       "id": "637591cef7d47dac",
       "sourceId": "jwc-tzgg",
