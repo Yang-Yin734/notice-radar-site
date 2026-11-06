@@ -3,13 +3,13 @@
  "name": "厦门大学",
  "province": "福建省",
  "city": "厦门市",
- "generatedAt": "2026-11-06T15:40:04.865Z",
- "total": 14,
+ "generatedAt": "2026-11-06T21:04:40.519Z",
+ "total": 15,
  "bySource": [
   {
    "sourceId": "jwc-tzgg",
    "sourceName": "教务处·通知公告",
-   "count": 14
+   "count": 15
   }
  ],
  "units": [
@@ -19,10 +19,25 @@
    "sources": [
     "教务处·通知公告"
    ],
-   "count": 14
+   "count": 15
   }
  ],
  "items": [
+  {
+   "id": "05a76f0a5628cbf1",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "xmu",
+   "title": "2026-2027学年第一学期公共课期末考试安排表",
+   "url": "https://jwc.xmu.edu.cn/info/1921/69952.htm",
+   "date": "2026-10-26",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-06T21:04:40.067Z",
+   "unit": "教务处"
+  },
   {
    "id": "72fefb2171499c87",
    "sourceId": "jwc-tzgg",
