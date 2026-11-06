@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-05T20:39:03.460Z",
-  "total": 427,
+  "generatedAt": "2026-11-06T01:09:40.710Z",
+  "total": 428,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
-      "sourceName": "教务处·通知公告",
-      "count": 98
+      "sourceName": "教务部·通知公告",
+      "count": 99
     },
     {
       "sourceId": "jwb-tzgg",
@@ -104,6 +104,20 @@
     }
   ],
   "items": [
+    {
+      "id": "3fe72901439be662",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务部·通知公告",
+      "school": "zzu",
+      "title": "关于2026年省级优秀学士学位论文 （毕业设计）拟推荐名单的公示",
+      "url": "https://www5.zzu.edu.cn/jwc/info/1125/5444.htm",
+      "date": "2026-11-06",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-06T01:09:40.259Z"
+    },
     {
       "id": "9e5799c736079bf6",
       "sourceId": "jwb-tzgg",
