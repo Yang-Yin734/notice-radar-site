@@ -3,12 +3,27 @@
  "name": "郑州大学",
  "province": "河南省",
  "city": "郑州市",
- "generatedAt": "2026-11-06T21:04:40.519Z",
- "total": 110,
+ "generatedAt": "2026-11-07T00:52:42.904Z",
+ "total": 116,
  "bySource": [
   {
    "sourceId": "jwc-tzgg",
    "sourceName": "教务部·通知公告",
+   "count": 17
+  },
+  {
+   "sourceId": "jwc-xwkd",
+   "sourceName": "教务部·新闻快递",
+   "count": 17
+  },
+  {
+   "sourceId": "gs-gg",
+   "sourceName": "研究生院·公告",
+   "count": 24
+  },
+  {
+   "sourceId": "news",
+   "sourceName": "新闻网·综合",
    "count": 16
   },
   {
@@ -17,24 +32,9 @@
    "count": 12
   },
   {
-   "sourceId": "news",
-   "sourceName": "新闻网·综合",
-   "count": 15
-  },
-  {
-   "sourceId": "gs-gg",
-   "sourceName": "研究生院·公告",
-   "count": 22
-  },
-  {
    "sourceId": "gs-xw",
    "sourceName": "研究生院·新闻",
    "count": 30
-  },
-  {
-   "sourceId": "jwc-xwkd",
-   "sourceName": "教务部·新闻快递",
-   "count": 15
   }
  ],
  "units": [
@@ -45,7 +45,7 @@
     "研究生院·公告",
     "研究生院·新闻"
    ],
-   "count": 52
+   "count": 54
   },
   {
    "id": "教务部",
@@ -54,7 +54,7 @@
     "教务部·通知公告",
     "教务部·新闻快递"
    ],
-   "count": 31
+   "count": 34
   },
   {
    "id": "新闻网",
@@ -62,7 +62,7 @@
    "sources": [
     "新闻网·综合"
    ],
-   "count": 15
+   "count": 16
   },
   {
    "id": "人事部",
@@ -74,6 +74,81 @@
   }
  ],
  "items": [
+  {
+   "id": "f22d913e70577fe5",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务部·通知公告",
+   "school": "zzu",
+   "title": "郑州大学关于组织开展2026年第二批微专业申报立项工作的通知",
+   "url": "https://www5.zzu.edu.cn/jwc/info/1125/5446.htm",
+   "date": "2026-11-06",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-07T00:52:42.556Z",
+   "unit": "教务部"
+  },
+  {
+   "id": "cb33c59f906936c1",
+   "sourceId": "jwc-xwkd",
+   "sourceName": "教务部·新闻快递",
+   "school": "zzu",
+   "title": "郑州大学“101计划”课程与教材建设项目推进会暨专题培训会顺利举办",
+   "url": "https://www5.zzu.edu.cn/jwc/info/1124/5447.htm",
+   "date": "2026-11-06",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-07T00:52:42.556Z",
+   "unit": "教务部"
+  },
+  {
+   "id": "5f8de6cca6e9f1bd",
+   "sourceId": "jwc-xwkd",
+   "sourceName": "教务部·新闻快递",
+   "school": "zzu",
+   "title": "我校在2026年全国教材管理人员培训班作典型发言",
+   "url": "https://www5.zzu.edu.cn/jwc/info/1124/5445.htm",
+   "date": "2026-11-06",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-07T00:52:42.556Z",
+   "unit": "教务部"
+  },
+  {
+   "id": "0ff6de8402ce904c",
+   "sourceId": "gs-gg",
+   "sourceName": "研究生院·公告",
+   "school": "zzu",
+   "title": "关于陈瑶教授做客我校研究生“名师名家讲坛”的公告",
+   "url": "https://gs.zzu.edu.cn/info/1071/13929.htm",
+   "date": "2026-11-06",
+   "tag": null,
+   "category": "研究生",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-07T00:52:42.556Z",
+   "unit": "研究生院"
+  },
+  {
+   "id": "ab749aa1be1a7a06",
+   "sourceId": "gs-gg",
+   "sourceName": "研究生院·公告",
+   "school": "zzu",
+   "title": "关于许勤教授做客我校研究生“名师名家讲坛”的公告",
+   "url": "https://gs.zzu.edu.cn/info/1071/13930.htm",
+   "date": "2026-11-06",
+   "tag": null,
+   "category": "研究生",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-07T00:52:42.556Z",
+   "unit": "研究生院"
+  },
   {
    "id": "3fe72901439be662",
    "sourceId": "jwc-tzgg",
@@ -88,6 +163,21 @@
    "tier": "urgent",
    "firstSeenAt": "2026-11-06T01:09:40.259Z",
    "unit": "教务部"
+  },
+  {
+   "id": "fbe07c47855f8584",
+   "sourceId": "news",
+   "sourceName": "新闻网·综合",
+   "school": "zzu",
+   "title": "郑州大学主办首届全国高校规章制度管理法治化与高质量建设学术研讨会",
+   "url": "http://www.zzu.edu.cn/info/1217/89351.htm",
+   "date": "2026-11-05",
+   "tag": null,
+   "category": "综合",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-07T00:52:42.556Z",
+   "unit": "新闻网"
   },
   {
    "id": "637591cef7d47dac",

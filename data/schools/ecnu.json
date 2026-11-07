@@ -3,13 +3,13 @@
  "name": "华东师范大学",
  "province": "上海市",
  "city": "",
- "generatedAt": "2026-11-06T21:04:40.519Z",
- "total": 14,
+ "generatedAt": "2026-11-07T00:52:42.904Z",
+ "total": 15,
  "bySource": [
   {
    "sourceId": "bksy-tzgg",
    "sourceName": "本科生院·通知公告",
-   "count": 14
+   "count": 15
   }
  ],
  "units": [
@@ -19,10 +19,25 @@
    "sources": [
     "本科生院·通知公告"
    ],
-   "count": 14
+   "count": 15
   }
  ],
  "items": [
+  {
+   "id": "1166eba1e42cc2d4",
+   "sourceId": "bksy-tzgg",
+   "sourceName": "本科生院·通知公告",
+   "school": "ecnu",
+   "title": "关于选派2027年春季学期赴境内合作高校交换生的通知",
+   "url": "http://www.jiaoliu.ecnu.edu.cn/14/56/c11184a791638/page.htm",
+   "date": "2026-11-06",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-07T00:52:28.989Z",
+   "unit": "本科生院"
+  },
   {
    "id": "cb9c8ebcda32d376",
    "sourceId": "bksy-tzgg",
