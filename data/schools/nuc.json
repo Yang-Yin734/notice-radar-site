@@ -1,0 +1,91 @@
+{
+ "school": "nuc",
+ "name": "中北大学",
+ "province": "山西省",
+ "city": "太原市",
+ "generatedAt": "2026-11-08T12:09:08.214Z",
+ "total": 3,
+ "bySource": [
+  {
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "count": 3
+  }
+ ],
+ "units": [
+  {
+   "id": "教务",
+   "name": "教务",
+   "sources": [
+    "教务·通知公告"
+   ],
+   "count": 3
+  }
+ ],
+ "sourceCatalog": [
+  {
+   "id": "jwc-tzgg",
+   "name": "教务·通知公告",
+   "url": "https://www.nuc.edu.cn/index/tzgg/102.htm",
+   "unit": "教务"
+  }
+ ],
+ "sourceChecks": {
+  "jwc-tzgg": {
+   "name": "教务·通知公告",
+   "checkedAt": "2026-11-08T12:08:52.868Z",
+   "lastSuccessAt": "2026-11-08T12:08:52.868Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 10
+  }
+ },
+ "items": [
+  {
+   "id": "f7aa937ef784ba31",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "nuc",
+   "title": "2026年上半年申请认定高等学校教师资格人员教育教学能力测试工作的通知",
+   "url": "https://www.nuc.edu.cn/info/1014/48823.htm",
+   "date": null,
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "deadline": "2025-03-09",
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T12:08:52.871Z",
+   "unit": "教务"
+  },
+  {
+   "id": "9439f139981b160c",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "nuc",
+   "title": "关于组织开展2025-2026-2学期本科课堂教学质量评价工作的通知",
+   "url": "https://www.nuc.edu.cn/info/1014/48813.htm",
+   "date": null,
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T12:08:52.871Z",
+   "unit": "教务"
+  },
+  {
+   "id": "71e8e3957fc010f3",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "nuc",
+   "title": "关于2025-2026学年教学考察春季学期相关工作安排的通知",
+   "url": "https://www.nuc.edu.cn/info/1014/48663.htm",
+   "date": null,
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T12:08:52.871Z",
+   "unit": "教务"
+  }
+ ]
+}

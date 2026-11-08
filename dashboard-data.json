@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-08T12:07:43.309Z",
-  "total": 453,
+  "generatedAt": "2026-11-08T12:09:08.214Z",
+  "total": 485,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
       "sourceName": "教务·通知公告",
-      "count": 109
+      "count": 141
     },
     {
       "sourceId": "jwb-tzgg",
@@ -488,6 +488,20 @@
       "alsoIn": [],
       "tier": "digest",
       "firstSeenAt": "2026-11-03T03:28:06.138Z"
+    },
+    {
+      "id": "c70f40254b2206fc",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "sdut",
+      "title": "关于做好2026—2027学年第一学期期末考试安排工作的通知",
+      "url": "https://jsjxy.sdut.edu.cn/_t1708/2026/1102/c7529a575797/page.htm",
+      "date": "2026-11-02",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T12:08:56.316Z"
     },
     {
       "id": "f2717da2b0e51f80",
@@ -1404,6 +1418,20 @@
       "category": null,
       "alsoIn": [],
       "firstSeenAt": "2026-10-22T03:10:31.037Z"
+    },
+    {
+      "id": "26c6b25199ba379f",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "sdut",
+      "title": "关于组织2027届普通本专科毕业生图像信息采集的通知",
+      "url": "https://jsjxy.sdut.edu.cn/_t1708/2026/1021/c7529a574641/page.htm",
+      "date": "2026-10-21",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T12:08:56.316Z"
     },
     {
       "id": "12707882ea7eaa68",
@@ -2487,6 +2515,20 @@
       "deadline": "2026-10-09"
     },
     {
+      "id": "710c4d4acf74b65d",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "sdut",
+      "title": "关于组织2026年下半年普通话水平测试报名的通知",
+      "url": "https://jsjxy.sdut.edu.cn/_t1708/2026/1008/c7529a573327/page.htm",
+      "date": "2026-10-08",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T12:08:56.316Z"
+    },
+    {
       "id": "301f2df9e815a714",
       "sourceId": "jwc-tzgg",
       "sourceName": "教务处·通知公告",
@@ -2775,6 +2817,20 @@
       "tag": null,
       "alsoIn": [],
       "firstSeenAt": "2026-10-03T00:13:57.223Z"
+    },
+    {
+      "id": "475f04f6a529cc8e",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "cufe",
+      "title": "关于开展中央财经大学2025年度教学方法研究项目结项工作的通知",
+      "url": "https://oa.cufe.edu.cn/seeyon/bulData.do?method=bulView&bulId=-3393441666240266145",
+      "date": "2026-09-29",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T12:08:33.858Z"
     },
     {
       "id": "5034b2f4b5345b3c",
@@ -3281,6 +3337,20 @@
       "firstSeenAt": "2026-09-28T12:00:56.521Z"
     },
     {
+      "id": "be8ee5c1067d4293",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "sdut",
+      "title": "关于做好2026—2027学年第一学期通识教育选修课选课工作的通知",
+      "url": "https://jsjxy.sdut.edu.cn/_t1708/2026/0921/c7529a572606/page.htm",
+      "date": "2026-09-21",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T12:08:56.316Z"
+    },
+    {
       "id": "f8cc08f327a0e8ef",
       "sourceId": "jwc-tzgg",
       "sourceName": "教务·通知公告",
@@ -3369,6 +3439,21 @@
       "firstSeenAt": "2026-09-28T12:00:56.521Z"
     },
     {
+      "id": "6dec8b262c1ea232",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "ujs",
+      "title": "2026-2027-1学期学生重修（补修）选课安排",
+      "url": "https://jwc.ujs.edu.cn/info/1331/30591.htm",
+      "date": "2026-09-18",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "deadline": "2026-10-19",
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T12:09:05.710Z"
+    },
+    {
       "id": "9dae6085e47bbec6",
       "sourceId": "jwc-student",
       "sourceName": "教务处·学生事务公告",
@@ -3417,6 +3502,21 @@
       "tag": null,
       "alsoIn": [],
       "firstSeenAt": "2026-10-03T16:50:34.573Z"
+    },
+    {
+      "id": "90d61f606958a265",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "cufe",
+      "title": "关于做好2027届普通本科毕业生学籍信息确认和毕业图像信息采集工作的通知",
+      "url": "https://jwc.cufe.edu.cn/info/1101/8159.htm",
+      "date": "2026-09-17",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "deadline": "2026-10-23",
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T12:08:33.858Z"
     },
     {
       "id": "128de2acd82dd891",
@@ -4161,6 +4261,20 @@
       "firstSeenAt": "2026-10-03T16:50:43.598Z"
     },
     {
+      "id": "a29596ec5a3a6a81",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "sdut",
+      "title": "关于做好2026年下半年全国大学英语四六级考试报名工作的通知",
+      "url": "https://jsjxy.sdut.edu.cn/_t1708/2026/0908/c7529a571114/page.htm",
+      "date": "2026-09-08",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T12:08:56.316Z"
+    },
+    {
       "id": "fa894aaa9f9e2077",
       "sourceId": "gs-gg",
       "sourceName": "研究生院·公告",
@@ -4408,6 +4522,34 @@
       "deadline": "2026-09-04"
     },
     {
+      "id": "4c95f99318f6db54",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "ujs",
+      "title": "关于做好2026-2027-1学期2025级大学物理实验项目选课工作的通知",
+      "url": "https://jwc.ujs.edu.cn/info/1331/30331.htm",
+      "date": "2026-08-29",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T12:09:05.710Z"
+    },
+    {
+      "id": "0113258b2ef0c72b",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "ujs",
+      "title": "2026-2027-1学期第三轮选课相关说明",
+      "url": "https://jwc.ujs.edu.cn/info/1331/30321.htm",
+      "date": "2026-08-28",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T12:09:05.710Z"
+    },
+    {
       "id": "2be6fa05ef61c8c0",
       "sourceId": "jwc-tzgg",
       "sourceName": "教务处·通知公告",
@@ -4598,6 +4740,21 @@
       "firstSeenAt": "2026-10-21T10:57:47.397Z"
     },
     {
+      "id": "078417b3a69ab7ca",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "ujs",
+      "title": "2026-2027-1学期选课停开课程（总）",
+      "url": "https://jwc.ujs.edu.cn/info/1331/30031.htm",
+      "date": "2026-07-21",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "deadline": "2026-07-21",
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T12:09:05.710Z"
+    },
+    {
       "id": "09de4dbdb988a248",
       "sourceId": "jwc-xwkd",
       "sourceName": "教务部·新闻快递",
@@ -4609,6 +4766,21 @@
       "category": "教务",
       "alsoIn": [],
       "firstSeenAt": "2026-10-21T10:57:47.397Z"
+    },
+    {
+      "id": "cdcb08a953c207c9",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "ujs",
+      "title": "关于（7月19日14:30-7月21日9:00）临时增加一次学生选课和教材预订安排的说明",
+      "url": "https://jwc.ujs.edu.cn/info/1331/30191.htm",
+      "date": "2026-07-19",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "deadline": "2026-07-21",
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T12:09:05.710Z"
     },
     {
       "id": "bc550f8ec313f7f4",
@@ -4761,6 +4933,20 @@
       "category": "研究生",
       "alsoIn": [],
       "firstSeenAt": "2026-10-21T10:57:47.397Z"
+    },
+    {
+      "id": "4d207e3c78bf38f2",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "ujs",
+      "title": "【江大教〔2026〕68号】关于做好2026-2027-1学期学生选课及教材预订工作的通知",
+      "url": "https://jwc.ujs.edu.cn/info/1331/29961.htm",
+      "date": "2026-06-22",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T12:09:05.710Z"
     },
     {
       "id": "9549befa57ae7dd4",
@@ -5344,6 +5530,21 @@
       "deadline": "2026-03-25"
     },
     {
+      "id": "348f5de2d41a1b7e",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "ujs",
+      "title": "2025-2026-2学期学生重修（补修）选课安排",
+      "url": "https://jwc.ujs.edu.cn/info/1331/29001.htm",
+      "date": "2026-03-17",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "deadline": "2026-04-12",
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T12:09:05.710Z"
+    },
+    {
       "id": "5c75a9fb7bb74892",
       "sourceId": "jwc-tzgg",
       "sourceName": "教务处·通知公告",
@@ -5434,6 +5635,20 @@
       "deadline": "2026-03-07"
     },
     {
+      "id": "82d17cb8bd2345e3",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "ujs",
+      "title": "关于做好2025-2026学年第二学期大学物理实验项目选课工作的通知",
+      "url": "https://jwc.ujs.edu.cn/info/1331/28731.htm",
+      "date": "2026-02-28",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T12:09:05.710Z"
+    },
+    {
       "id": "8460dfc103b0ca33",
       "sourceId": "gs-xw",
       "sourceName": "研究生院·新闻",
@@ -5445,6 +5660,21 @@
       "category": "研究生",
       "alsoIn": [],
       "firstSeenAt": "2026-10-21T10:57:47.397Z"
+    },
+    {
+      "id": "2dda302d2ba47722",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "ujs",
+      "title": "2025-2026-2学期第三轮选课相关说明",
+      "url": "https://jwc.ujs.edu.cn/info/1331/28721.htm",
+      "date": "2026-02-27",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "deadline": "2027-01-22",
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T12:09:05.710Z"
     },
     {
       "id": "ed1e7a3799841756",
@@ -5921,6 +6151,233 @@
       "alsoIn": [],
       "tier": "digest",
       "firstSeenAt": "2026-11-08T12:03:32.137Z"
+    },
+    {
+      "id": "98a97d7e935b72ba",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "ujs",
+      "title": "教学运行",
+      "url": "https://jwc.ujs.edu.cn/jxyx/jxjc.htm",
+      "date": null,
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T12:09:05.710Z"
+    },
+    {
+      "id": "b63e50fc140b5ea7",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "ujs",
+      "title": "学籍管理",
+      "url": "https://jwc.ujs.edu.cn/xjgl/xj.htm",
+      "date": null,
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T12:09:05.710Z"
+    },
+    {
+      "id": "851cf5665fb9bbfc",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "ujs",
+      "title": "实践教学",
+      "url": "https://jwc.ujs.edu.cn/sjjx/syjx.htm",
+      "date": null,
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T12:09:05.710Z"
+    },
+    {
+      "id": "a848448e03eebeb4",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "ujs",
+      "title": "教学进程",
+      "url": "https://jwc.ujs.edu.cn/jxyx/jxjc.htm",
+      "date": null,
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T12:09:05.710Z"
+    },
+    {
+      "id": "a94b5c8558a997fd",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "ujs",
+      "title": "学生选课",
+      "url": "https://jwc.ujs.edu.cn/jxyx/xsxk.htm",
+      "date": null,
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "deadline": "2027-07-21",
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T12:09:05.710Z"
+    },
+    {
+      "id": "94eb04a3083937cc",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "ujs",
+      "title": "课程考试",
+      "url": "https://jwc.ujs.edu.cn/jxyx/kcks.htm",
+      "date": null,
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T12:09:05.710Z"
+    },
+    {
+      "id": "5b232f888856236c",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "ujs",
+      "title": "等级考试",
+      "url": "https://jwc.ujs.edu.cn/jxyx/djks.htm",
+      "date": null,
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T12:09:05.710Z"
+    },
+    {
+      "id": "f7aa937ef784ba31",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "nuc",
+      "title": "2026年上半年申请认定高等学校教师资格人员教育教学能力测试工作的通知",
+      "url": "https://www.nuc.edu.cn/info/1014/48823.htm",
+      "date": null,
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "deadline": "2025-03-09",
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T12:08:52.871Z"
+    },
+    {
+      "id": "9439f139981b160c",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "nuc",
+      "title": "关于组织开展2025-2026-2学期本科课堂教学质量评价工作的通知",
+      "url": "https://www.nuc.edu.cn/info/1014/48813.htm",
+      "date": null,
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T12:08:52.871Z"
+    },
+    {
+      "id": "71e8e3957fc010f3",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "nuc",
+      "title": "关于2025-2026学年教学考察春季学期相关工作安排的通知",
+      "url": "https://www.nuc.edu.cn/info/1014/48663.htm",
+      "date": null,
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T12:08:52.871Z"
+    },
+    {
+      "id": "ae7f749768fe1dd7",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "4121010140",
+      "title": "关于2026年10月韩国语能力考试占用教室封楼的通知",
+      "url": "https://jwc.lnu.edu.cn/info/1218/2786.htm",
+      "date": null,
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T12:08:28.832Z"
+    },
+    {
+      "id": "c39a46b5b55c69d0",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "4121010140",
+      "title": "关于2026年下半年全国大学英语四、六级考试报名的通知",
+      "url": "https://jwc.lnu.edu.cn/info/1218/2787.htm",
+      "date": null,
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "deadline": "2027-09-19",
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T12:08:28.832Z"
+    },
+    {
+      "id": "3fc3a62431a30d59",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "4121010140",
+      "title": "关于做好2025-2026学年春季学期本科循环开设课程考试工作的通知",
+      "url": "https://jwc.lnu.edu.cn/info/1218/2790.htm",
+      "date": null,
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T12:08:28.832Z"
+    },
+    {
+      "id": "2dad99529ce4b65d",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "4121010140",
+      "title": "2026年上半年全国大学外语四、六级考试注意事项",
+      "url": "https://jwc.lnu.edu.cn/info/1218/2791.htm",
+      "date": null,
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T12:08:28.832Z"
+    },
+    {
+      "id": "420c1c6193b44737",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "4121010140",
+      "title": "关于2026年上半年全国大学外语四、六级考试监考培训的通知",
+      "url": "https://jwc.lnu.edu.cn/info/1218/2792.htm",
+      "date": null,
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T12:08:28.832Z"
+    },
+    {
+      "id": "94ab55d4daaced68",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "4121010140",
+      "title": "关于2026年上半年全国大学外语四、六级考试封楼的通知",
+      "url": "https://jwc.lnu.edu.cn/info/1218/2793.htm",
+      "date": null,
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T12:08:28.832Z"
     }
   ]
 }

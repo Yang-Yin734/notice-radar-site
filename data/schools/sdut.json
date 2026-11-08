@@ -1,0 +1,120 @@
+{
+ "school": "sdut",
+ "name": "山东理工大学",
+ "province": "山东省",
+ "city": "淄博市",
+ "generatedAt": "2026-11-08T12:09:08.214Z",
+ "total": 5,
+ "bySource": [
+  {
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "count": 5
+  }
+ ],
+ "units": [
+  {
+   "id": "教务",
+   "name": "教务",
+   "sources": [
+    "教务·通知公告"
+   ],
+   "count": 5
+  }
+ ],
+ "sourceCatalog": [
+  {
+   "id": "jwc-tzgg",
+   "name": "教务·通知公告",
+   "url": "https://jsjxy.sdut.edu.cn/_t1708/7529/list1.htm",
+   "unit": "教务"
+  }
+ ],
+ "sourceChecks": {
+  "jwc-tzgg": {
+   "name": "教务·通知公告",
+   "checkedAt": "2026-11-08T12:08:56.311Z",
+   "lastSuccessAt": "2026-11-08T12:08:56.311Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 10
+  }
+ },
+ "items": [
+  {
+   "id": "c70f40254b2206fc",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "sdut",
+   "title": "关于做好2026—2027学年第一学期期末考试安排工作的通知",
+   "url": "https://jsjxy.sdut.edu.cn/_t1708/2026/1102/c7529a575797/page.htm",
+   "date": "2026-11-02",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T12:08:56.316Z",
+   "unit": "教务"
+  },
+  {
+   "id": "26c6b25199ba379f",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "sdut",
+   "title": "关于组织2027届普通本专科毕业生图像信息采集的通知",
+   "url": "https://jsjxy.sdut.edu.cn/_t1708/2026/1021/c7529a574641/page.htm",
+   "date": "2026-10-21",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T12:08:56.316Z",
+   "unit": "教务"
+  },
+  {
+   "id": "710c4d4acf74b65d",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "sdut",
+   "title": "关于组织2026年下半年普通话水平测试报名的通知",
+   "url": "https://jsjxy.sdut.edu.cn/_t1708/2026/1008/c7529a573327/page.htm",
+   "date": "2026-10-08",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T12:08:56.316Z",
+   "unit": "教务"
+  },
+  {
+   "id": "be8ee5c1067d4293",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "sdut",
+   "title": "关于做好2026—2027学年第一学期通识教育选修课选课工作的通知",
+   "url": "https://jsjxy.sdut.edu.cn/_t1708/2026/0921/c7529a572606/page.htm",
+   "date": "2026-09-21",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T12:08:56.316Z",
+   "unit": "教务"
+  },
+  {
+   "id": "a29596ec5a3a6a81",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "sdut",
+   "title": "关于做好2026年下半年全国大学英语四六级考试报名工作的通知",
+   "url": "https://jsjxy.sdut.edu.cn/_t1708/2026/0908/c7529a571114/page.htm",
+   "date": "2026-09-08",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T12:08:56.316Z",
+   "unit": "教务"
+  }
+ ]
+}

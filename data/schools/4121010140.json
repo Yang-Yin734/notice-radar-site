@@ -1,0 +1,136 @@
+{
+ "school": "4121010140",
+ "name": "辽宁大学",
+ "province": "辽宁省",
+ "city": "沈阳市",
+ "generatedAt": "2026-11-08T12:09:08.214Z",
+ "total": 6,
+ "bySource": [
+  {
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "count": 6
+  }
+ ],
+ "units": [
+  {
+   "id": "教务",
+   "name": "教务",
+   "sources": [
+    "教务·通知公告"
+   ],
+   "count": 6
+  }
+ ],
+ "sourceCatalog": [
+  {
+   "id": "jwc-tzgg",
+   "name": "教务·通知公告",
+   "url": "https://jwc.lnu.edu.cn/tzgg1.htm",
+   "unit": "教务"
+  }
+ ],
+ "sourceChecks": {
+  "jwc-tzgg": {
+   "name": "教务·通知公告",
+   "checkedAt": "2026-11-08T12:08:28.827Z",
+   "lastSuccessAt": "2026-11-08T12:08:28.827Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 10
+  }
+ },
+ "items": [
+  {
+   "id": "ae7f749768fe1dd7",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "4121010140",
+   "title": "关于2026年10月韩国语能力考试占用教室封楼的通知",
+   "url": "https://jwc.lnu.edu.cn/info/1218/2786.htm",
+   "date": null,
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T12:08:28.832Z",
+   "unit": "教务"
+  },
+  {
+   "id": "c39a46b5b55c69d0",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "4121010140",
+   "title": "关于2026年下半年全国大学英语四、六级考试报名的通知",
+   "url": "https://jwc.lnu.edu.cn/info/1218/2787.htm",
+   "date": null,
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "deadline": "2027-09-19",
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T12:08:28.832Z",
+   "unit": "教务"
+  },
+  {
+   "id": "3fc3a62431a30d59",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "4121010140",
+   "title": "关于做好2025-2026学年春季学期本科循环开设课程考试工作的通知",
+   "url": "https://jwc.lnu.edu.cn/info/1218/2790.htm",
+   "date": null,
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T12:08:28.832Z",
+   "unit": "教务"
+  },
+  {
+   "id": "2dad99529ce4b65d",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "4121010140",
+   "title": "2026年上半年全国大学外语四、六级考试注意事项",
+   "url": "https://jwc.lnu.edu.cn/info/1218/2791.htm",
+   "date": null,
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T12:08:28.832Z",
+   "unit": "教务"
+  },
+  {
+   "id": "420c1c6193b44737",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "4121010140",
+   "title": "关于2026年上半年全国大学外语四、六级考试监考培训的通知",
+   "url": "https://jwc.lnu.edu.cn/info/1218/2792.htm",
+   "date": null,
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T12:08:28.832Z",
+   "unit": "教务"
+  },
+  {
+   "id": "94ab55d4daaced68",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "4121010140",
+   "title": "关于2026年上半年全国大学外语四、六级考试封楼的通知",
+   "url": "https://jwc.lnu.edu.cn/info/1218/2793.htm",
+   "date": null,
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T12:08:28.832Z",
+   "unit": "教务"
+  }
+ ]
+}
