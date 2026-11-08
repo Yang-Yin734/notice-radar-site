@@ -2,6 +2,25 @@
 
 本项目遵循 [语义化版本](https://semver.org/lang/zh-CN/)。
 
+## v0.16.1 — 2026-11-08 · 图标换回最初的雷达盘
+
+用户要求换回项目最早那版图标。那份设计一直躺在 `docs/icon-source.html` 里（2026-09-28 的 SVG，
+后来被"通知单"两版盖掉了），本次是**按它逐参数重做**，不是重新设计：
+
+- 深蓝对角渐变底 `#2B3A55 → #16202F`，三道同心圆环 `#4DABF7`（55% 不透明），
+  一道从正上方扫到一点钟方向的扇形波束（`#74C0FC` 渐隐），圆心一个米白点，
+  波束末端一个 `#FF6B6B` 红点 —— 红点就是"扫到了新通知"。
+- 几何严格按 512 网格移植到 108 网格（`SCALE = 108/512`），PNG 与矢量同参：
+  `tools/make-icon.py` 改成 numpy 逐像素算（真渐变 + 4 倍超采样 + LANCZOS 缩），
+  `drawable/ic_launcher_foreground.xml` 用纯色近似同样的形状、同样的坐标。
+- 新增 `drawable/ic_launcher_background.xml`（对角渐变），adaptive icon 的背景从纯色换成它；
+  `values/colors.xml` 的 `ic_launcher_background` 保留为渐变的中点色 `#202D42`，给需要单色的场合兜底。
+- 网页侧同步重出：`docs/icon-512.png` / `icon-192.png` / `icon-maskable-512.png` /
+  `apple-touch-icon.png` / `favicon-32.png` / `favicon.ico`。maskable 版内容缩到 0.78、底色满幅，
+  被启动器裁成圆形也不会切到外环。
+- 自检（写在脚本里，每次生成都跑）：超采样原图上抽查四角透明、三道环、圆心、红点；
+  48px 与 96px 下中环的亮度跃迁分别是 +35 与 +63 灰阶 —— 缩到状态栏图标尺寸时环仍然在。
+
 ## v0.16.0 — 2026-11-03 · 源码转为私有，产物迁到公开站点仓库
 
 仓库改为私有后，GitHub Free 的私有仓库不能用 Pages、Release 附件也要登录才能下载 ——
