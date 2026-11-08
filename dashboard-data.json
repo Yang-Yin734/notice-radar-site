@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-08T12:04:20.872Z",
-  "total": 450,
+  "generatedAt": "2026-11-08T12:07:43.309Z",
+  "total": 453,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
@@ -63,6 +63,11 @@
       "count": 17
     },
     {
+      "sourceId": "jwc-jxtz",
+      "sourceName": "教务处·教学通知",
+      "count": 17
+    },
+    {
       "sourceId": "bksy-tzgg",
       "sourceName": "本科生院·通知公告",
       "count": 15
@@ -71,11 +76,6 @@
       "sourceId": "jw-ggtz",
       "sourceName": "本科生院·公告通知",
       "count": 15
-    },
-    {
-      "sourceId": "jwc-jxtz",
-      "sourceName": "教务处·教学通知",
-      "count": 14
     },
     {
       "sourceId": "math-xsgz",
@@ -5701,6 +5701,20 @@
       "firstSeenAt": "2026-10-21T10:57:47.397Z"
     },
     {
+      "id": "77fea9b9d04b54fc",
+      "sourceId": "jwc-jxtz",
+      "sourceName": "教务处·教学通知",
+      "school": "bjut",
+      "title": "关于开展2026届本科生毕业设计（论文）工作的通知",
+      "url": "https://undergrad.bjut.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1216&wbnewsid=3801",
+      "date": "2025-10-24",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T12:05:53.553Z"
+    },
+    {
       "id": "ff12f2618d8bccc9",
       "sourceId": "gs-xw",
       "sourceName": "研究生院·新闻",
@@ -5738,6 +5752,35 @@
       "category": "研究生",
       "alsoIn": [],
       "firstSeenAt": "2026-10-21T10:57:47.397Z"
+    },
+    {
+      "id": "cd0ad08efdd9101d",
+      "sourceId": "jwc-jxtz",
+      "sourceName": "教务处·教学通知",
+      "school": "bjut",
+      "title": "关于落实2026年春季学期本科教学任务的通知",
+      "url": "https://undergrad.bjut.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1218&wbnewsid=3789",
+      "date": "2025-09-25",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T12:05:53.553Z"
+    },
+    {
+      "id": "c6746b132caec9d3",
+      "sourceId": "jwc-jxtz",
+      "sourceName": "教务处·教学通知",
+      "school": "bjut",
+      "title": "关于2025年下半年全国大学英语四、六级考试报名有关事项的通知",
+      "url": "https://undergrad.bjut.edu.cn/info/1219/3779.htm",
+      "date": "2025-09-15",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "deadline": "2025-09-22",
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T12:05:53.553Z"
     },
     {
       "id": "4fa3612a1781dca7",

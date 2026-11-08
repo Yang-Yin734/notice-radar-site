@@ -1,0 +1,91 @@
+{
+ "school": "bjut",
+ "name": "北京工业大学",
+ "province": "北京市",
+ "city": "",
+ "generatedAt": "2026-11-08T12:07:43.309Z",
+ "total": 3,
+ "bySource": [
+  {
+   "sourceId": "jwc-jxtz",
+   "sourceName": "教务处·教学通知",
+   "count": 3
+  }
+ ],
+ "units": [
+  {
+   "id": "教务处",
+   "name": "教务处",
+   "sources": [
+    "教务处·教学通知"
+   ],
+   "count": 3
+  }
+ ],
+ "sourceCatalog": [
+  {
+   "id": "jwc-jxtz",
+   "name": "教务处·教学通知",
+   "url": "https://undergrad.bjut.edu.cn/jxtz.htm",
+   "unit": "教务处"
+  }
+ ],
+ "sourceChecks": {
+  "jwc-jxtz": {
+   "name": "教务处·教学通知",
+   "checkedAt": "2026-11-08T12:05:53.551Z",
+   "lastSuccessAt": "2026-11-08T12:05:53.551Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 7
+  }
+ },
+ "items": [
+  {
+   "id": "77fea9b9d04b54fc",
+   "sourceId": "jwc-jxtz",
+   "sourceName": "教务处·教学通知",
+   "school": "bjut",
+   "title": "关于开展2026届本科生毕业设计（论文）工作的通知",
+   "url": "https://undergrad.bjut.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1216&wbnewsid=3801",
+   "date": "2025-10-24",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T12:05:53.553Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "cd0ad08efdd9101d",
+   "sourceId": "jwc-jxtz",
+   "sourceName": "教务处·教学通知",
+   "school": "bjut",
+   "title": "关于落实2026年春季学期本科教学任务的通知",
+   "url": "https://undergrad.bjut.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1218&wbnewsid=3789",
+   "date": "2025-09-25",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T12:05:53.553Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "c6746b132caec9d3",
+   "sourceId": "jwc-jxtz",
+   "sourceName": "教务处·教学通知",
+   "school": "bjut",
+   "title": "关于2025年下半年全国大学英语四、六级考试报名有关事项的通知",
+   "url": "https://undergrad.bjut.edu.cn/info/1219/3779.htm",
+   "date": "2025-09-15",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "deadline": "2025-09-22",
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T12:05:53.553Z",
+   "unit": "教务处"
+  }
+ ]
+}
