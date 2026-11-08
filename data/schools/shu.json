@@ -1,0 +1,91 @@
+{
+ "school": "shu",
+ "name": "上海大学",
+ "province": "上海市",
+ "city": "",
+ "generatedAt": "2026-11-08T19:00:37.543Z",
+ "total": 3,
+ "bySource": [
+  {
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "count": 3
+  }
+ ],
+ "units": [
+  {
+   "id": "教务",
+   "name": "教务",
+   "sources": [
+    "教务·通知公告"
+   ],
+   "count": 3
+  }
+ ],
+ "sourceCatalog": [
+  {
+   "id": "jwc-tzgg",
+   "name": "教务·通知公告",
+   "url": "https://bksy.shu.edu.cn/index/tzgg.htm",
+   "unit": "教务"
+  }
+ ],
+ "sourceChecks": {
+  "jwc-tzgg": {
+   "name": "教务·通知公告",
+   "checkedAt": "2026-11-08T19:00:20.202Z",
+   "lastSuccessAt": "2026-11-08T19:00:20.202Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 10
+  }
+ },
+ "items": [
+  {
+   "id": "8063cc207fef9076",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "shu",
+   "title": "关于做好2026年12月本科毕业生申请学士学位工作的通知",
+   "url": "https://bksy.shu.edu.cn/info/1015/322734.htm",
+   "date": "2026-11-05",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T19:00:20.227Z",
+   "unit": "教务"
+  },
+  {
+   "id": "66d341e656dd6354",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "shu",
+   "title": "关于上海大学2027届本科毕业生（秋季）图像信息采集工作的通知",
+   "url": "https://bksy.shu.edu.cn/info/1015/322684.htm",
+   "date": "2026-11-04",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T19:00:20.227Z",
+   "unit": "教务"
+  },
+  {
+   "id": "8e74d6d9a761e510",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "shu",
+   "title": "关于上海大学2026年本科新生学籍资格自查确认的通知",
+   "url": "https://bksy.shu.edu.cn/info/1015/322584.htm",
+   "date": "2026-10-27",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "deadline": "2026-11-15",
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T19:00:20.227Z",
+   "unit": "教务"
+  }
+ ]
+}

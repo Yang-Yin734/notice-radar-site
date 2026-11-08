@@ -1,0 +1,91 @@
+{
+ "school": "4143010530",
+ "name": "湘潭大学",
+ "province": "湖南省",
+ "city": "湘潭市",
+ "generatedAt": "2026-11-08T19:00:37.543Z",
+ "total": 3,
+ "bySource": [
+  {
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "count": 3
+  }
+ ],
+ "units": [
+  {
+   "id": "教务",
+   "name": "教务",
+   "sources": [
+    "教务·通知公告"
+   ],
+   "count": 3
+  }
+ ],
+ "sourceCatalog": [
+  {
+   "id": "jwc-tzgg",
+   "name": "教务·通知公告",
+   "url": "https://www.xtu.edu.cn/index/tzgg.htm",
+   "unit": "教务"
+  }
+ ],
+ "sourceChecks": {
+  "jwc-tzgg": {
+   "name": "教务·通知公告",
+   "checkedAt": "2026-11-08T18:59:54.720Z",
+   "lastSuccessAt": "2026-11-08T18:59:54.720Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 15
+  }
+ },
+ "items": [
+  {
+   "id": "e4022b67a7eb765b",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "4143010530",
+   "title": "关于组织2027年国际中文教育志愿者报名的通知",
+   "url": "https://www.xtu.edu.cn/info/1369/24805.htm",
+   "date": "2026-09-22",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "deadline": "2026-10-09",
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T18:59:54.723Z",
+   "unit": "教务"
+  },
+  {
+   "id": "e5fea0ad5ed2fff4",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "4143010530",
+   "title": "关于做好2026年下半年全国大学英语四六级考试报名工作的通知",
+   "url": "https://www.xtu.edu.cn/info/1372/24760.htm",
+   "date": "2026-09-07",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T18:59:54.723Z",
+   "unit": "教务"
+  },
+  {
+   "id": "44abb1665add95f7",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "4143010530",
+   "title": "关于做好2026年下半年全国计算机等级考试（NCRE）湘潭大学考点报名工作的通知",
+   "url": "https://www.xtu.edu.cn/info/1372/24457.htm",
+   "date": "2026-06-18",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T18:59:54.723Z",
+   "unit": "教务"
+  }
+ ]
+}

@@ -1,0 +1,196 @@
+{
+ "school": "4111010033",
+ "name": "中国传媒大学",
+ "province": "北京市",
+ "city": "",
+ "generatedAt": "2026-11-08T19:00:37.543Z",
+ "total": 10,
+ "bySource": [
+  {
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "count": 10
+  }
+ ],
+ "units": [
+  {
+   "id": "教务处",
+   "name": "教务处",
+   "sources": [
+    "教务处·通知公告"
+   ],
+   "count": 10
+  }
+ ],
+ "sourceCatalog": [
+  {
+   "id": "jwc-tzgg",
+   "name": "教务处·通知公告",
+   "url": "https://jwc.cuc.edu.cn/6364/list.htm",
+   "unit": "教务处"
+  }
+ ],
+ "sourceChecks": {
+  "jwc-tzgg": {
+   "name": "教务处·通知公告",
+   "checkedAt": "2026-11-08T18:59:50.071Z",
+   "lastSuccessAt": "2026-11-08T18:59:50.071Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 14
+  }
+ },
+ "items": [
+  {
+   "id": "541371aacb7cb116",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "4111010033",
+   "title": "关于开展2026—2027学年秋季学期2026级学生补（退）选课工作的通知",
+   "url": "https://jwc.cuc.edu.cn/2026/0930/c6364a274487/page.htm",
+   "date": "2026-09-30",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T18:59:50.120Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "1eab4062d935b7f0",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "4111010033",
+   "title": "【重考报名】关于2026-2027学年秋季学期重考（含缓考）报名的通知",
+   "url": "https://jwc.cuc.edu.cn/2026/0930/c6364a274488/page.htm",
+   "date": "2026-09-17",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T18:59:50.120Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "fc3f58ae11e09a55",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "4111010033",
+   "title": "关于启动2026-2027学年秋季学期重修选课工作的通知",
+   "url": "https://jwc.cuc.edu.cn/2026/0915/c6364a273904/page.htm",
+   "date": "2026-09-11",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T18:59:50.120Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "7099301d4f4e8057",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "4111010033",
+   "title": "关于开展2026—2027学年秋季学期2026级新生选课工作的通知",
+   "url": "https://jwc.cuc.edu.cn/2026/0915/c6364a273903/page.htm",
+   "date": "2026-09-10",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T18:59:50.120Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "b3213bc1aa92128a",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "4111010033",
+   "title": "【四六级报名】关于启动2026年下半年全国大学英语四、六级考试网上报名的通知",
+   "url": "https://jwc.cuc.edu.cn/2026/0914/c6364a273878/page.htm",
+   "date": "2026-09-09",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T18:59:50.120Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "259833011da1eb58",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "4111010033",
+   "title": "关于开展2026-2027学年秋季学期开学初主修、辅修补（退）选课工作的通知",
+   "url": "https://jwc.cuc.edu.cn/2026/0915/c6364a273901/page.htm",
+   "date": "2026-09-04",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T18:59:50.120Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "c2bc65429fb3659b",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "4111010033",
+   "title": "关于暑假期间办理本科生成绩单等材料的通知",
+   "url": "https://jwc.cuc.edu.cn/2026/0717/c6364a272849/page.htm",
+   "date": "2026-07-17",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "deadline": "2026-09-02",
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T18:59:50.120Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "bb25deaf2c7c7dac",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "4111010033",
+   "title": "关于开展2026—2027学年秋季学期学生主修、辅修网上选课工作的通知",
+   "url": "https://jwc.cuc.edu.cn/2026/0915/c6364a273900/page.htm",
+   "date": "2026-07-06",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T18:59:50.120Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "c8cbb155dfa1912c",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "4111010033",
+   "title": "【四六级报名】关于启动2026年上半年全国大学英语四、六级考试网上报名的通知",
+   "url": "https://jwc.cuc.edu.cn/2026/0311/c6364a267537/page.htm",
+   "date": "2026-03-11",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T18:59:50.120Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "1bbfcea6bf496189",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "4111010033",
+   "title": "关于开展2025—2026学年春季学期开学初主修、辅修补（退）选课工作的通知",
+   "url": "https://jwc.cuc.edu.cn/2026/0227/c6364a267096/page.htm",
+   "date": "2026-02-27",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T18:59:50.120Z",
+   "unit": "教务处"
+  }
+ ]
+}

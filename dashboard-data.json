@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-08T14:29:40.112Z",
-  "total": 519,
+  "generatedAt": "2026-11-08T19:00:37.543Z",
+  "total": 540,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
       "sourceName": "教务·通知公告",
-      "count": 161
+      "count": 177
     },
     {
       "sourceId": "jwb-tzgg",
@@ -53,6 +53,11 @@
       "count": 18
     },
     {
+      "sourceId": "notice-list",
+      "sourceName": "官网·通知公告",
+      "count": 17
+    },
+    {
       "sourceId": "news",
       "sourceName": "新闻网·综合",
       "count": 17
@@ -88,11 +93,6 @@
       "count": 12
     },
     {
-      "sourceId": "notice-list",
-      "sourceName": "官网·学校公告",
-      "count": 12
-    },
-    {
       "sourceId": "jwc-important",
       "sourceName": "教务处·重要公告",
       "count": 7
@@ -114,6 +114,20 @@
     }
   ],
   "items": [
+    {
+      "id": "154ff1ab9cf97896",
+      "sourceId": "notice-list",
+      "sourceName": "官网·通知公告",
+      "school": "whu",
+      "title": "珞珈讲坛第552讲预告",
+      "url": "https://www.whu.edu.cn/info/5231/277904.htm",
+      "date": "2026-11-07",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T19:00:24.499Z"
+    },
     {
       "id": "7a2f48d495c60aff",
       "sourceId": "news",
@@ -241,6 +255,20 @@
       "firstSeenAt": "2026-11-06T01:09:40.259Z"
     },
     {
+      "id": "8063cc207fef9076",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "shu",
+      "title": "关于做好2026年12月本科毕业生申请学士学位工作的通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/322734.htm",
+      "date": "2026-11-05",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T19:00:20.227Z"
+    },
+    {
       "id": "fbe07c47855f8584",
       "sourceId": "news",
       "sourceName": "新闻网·综合",
@@ -295,6 +323,34 @@
       "alsoIn": [],
       "tier": "digest",
       "firstSeenAt": "2026-11-05T13:08:19.830Z"
+    },
+    {
+      "id": "af8f8bca9fc83c7c",
+      "sourceId": "notice-list",
+      "sourceName": "官网·通知公告",
+      "school": "whu",
+      "title": "珞珈讲坛第551讲预告",
+      "url": "https://www.whu.edu.cn/info/5231/277704.htm",
+      "date": "2026-11-04",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T19:00:24.499Z"
+    },
+    {
+      "id": "66d341e656dd6354",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "shu",
+      "title": "关于上海大学2027届本科毕业生（秋季）图像信息采集工作的通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/322684.htm",
+      "date": "2026-11-04",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T19:00:20.227Z"
     },
     {
       "id": "cd596b0df3c578bf",
@@ -507,6 +563,20 @@
       "alsoIn": [],
       "tier": "digest",
       "firstSeenAt": "2026-11-03T03:28:06.138Z"
+    },
+    {
+      "id": "ce25b88bcf720d52",
+      "sourceId": "notice-list",
+      "sourceName": "官网·通知公告",
+      "school": "whu",
+      "title": "珞珈讲坛第550讲预告",
+      "url": "https://www.whu.edu.cn/info/5231/277484.htm",
+      "date": "2026-11-02",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T19:00:24.499Z"
     },
     {
       "id": "c70f40254b2206fc",
@@ -1011,6 +1081,21 @@
       "category": "教务",
       "alsoIn": [],
       "firstSeenAt": "2026-10-28T04:42:54.789Z"
+    },
+    {
+      "id": "8e74d6d9a761e510",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "shu",
+      "title": "关于上海大学2026年本科新生学籍资格自查确认的通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/322584.htm",
+      "date": "2026-10-27",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "deadline": "2026-11-15",
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T19:00:20.227Z"
     },
     {
       "id": "38b7172ee3565362",
@@ -1521,6 +1606,34 @@
       "category": null,
       "alsoIn": [],
       "firstSeenAt": "2026-10-22T03:10:31.037Z"
+    },
+    {
+      "id": "7037899d5051815b",
+      "sourceId": "notice-list",
+      "sourceName": "官网·通知公告",
+      "school": "whu",
+      "title": "珞珈讲坛第549讲预告",
+      "url": "https://www.whu.edu.cn/info/5231/276744.htm",
+      "date": "2026-10-21",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T19:00:24.499Z"
+    },
+    {
+      "id": "4fe84c9dec57a31c",
+      "sourceId": "notice-list",
+      "sourceName": "官网·通知公告",
+      "school": "whu",
+      "title": "珞珈讲坛第548讲预告",
+      "url": "https://www.whu.edu.cn/info/5231/276614.htm",
+      "date": "2026-10-21",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T19:00:24.499Z"
     },
     {
       "id": "26c6b25199ba379f",
@@ -2856,6 +2969,20 @@
       "firstSeenAt": "2026-10-08T01:23:45.910Z"
     },
     {
+      "id": "541371aacb7cb116",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "4111010033",
+      "title": "关于开展2026—2027学年秋季学期2026级学生补（退）选课工作的通知",
+      "url": "https://jwc.cuc.edu.cn/2026/0930/c6364a274487/page.htm",
+      "date": "2026-09-30",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T18:59:50.120Z"
+    },
+    {
       "id": "4a5f4ad7ed30d73c",
       "sourceId": "jwc-tzgg",
       "sourceName": "教务·通知公告",
@@ -3488,6 +3615,21 @@
       "firstSeenAt": "2026-10-03T16:50:34.573Z"
     },
     {
+      "id": "e4022b67a7eb765b",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "4143010530",
+      "title": "关于组织2027年国际中文教育志愿者报名的通知",
+      "url": "https://www.xtu.edu.cn/info/1369/24805.htm",
+      "date": "2026-09-22",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "deadline": "2026-10-09",
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T18:59:54.723Z"
+    },
+    {
       "id": "fbc5bb4b503f090e",
       "sourceId": "aao-tzgg",
       "sourceName": "教务处·通知公告",
@@ -3801,6 +3943,20 @@
       "tag": null,
       "alsoIn": [],
       "firstSeenAt": "2026-10-03T16:50:34.573Z"
+    },
+    {
+      "id": "1eab4062d935b7f0",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "4111010033",
+      "title": "【重考报名】关于2026-2027学年秋季学期重考（含缓考）报名的通知",
+      "url": "https://jwc.cuc.edu.cn/2026/0930/c6364a274488/page.htm",
+      "date": "2026-09-17",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T18:59:50.120Z"
     },
     {
       "id": "f714ee8b8df87f80",
@@ -4411,6 +4567,20 @@
       "firstSeenAt": "2026-10-04T06:59:32.824Z"
     },
     {
+      "id": "fc3f58ae11e09a55",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "4111010033",
+      "title": "关于启动2026-2027学年秋季学期重修选课工作的通知",
+      "url": "https://jwc.cuc.edu.cn/2026/0915/c6364a273904/page.htm",
+      "date": "2026-09-11",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T18:59:50.120Z"
+    },
+    {
       "id": "9dacb2edba91e5d4",
       "sourceId": "notice-list",
       "sourceName": "教务处·教务信息",
@@ -4503,6 +4673,20 @@
       "firstSeenAt": "2026-10-04T06:43:29.510Z"
     },
     {
+      "id": "7099301d4f4e8057",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "4111010033",
+      "title": "关于开展2026—2027学年秋季学期2026级新生选课工作的通知",
+      "url": "https://jwc.cuc.edu.cn/2026/0915/c6364a273903/page.htm",
+      "date": "2026-09-10",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T18:59:50.120Z"
+    },
+    {
       "id": "847e9d2e8cd047f1",
       "sourceId": "jwc-tzgg",
       "sourceName": "教务·通知公告",
@@ -4554,6 +4738,20 @@
       "alsoIn": [],
       "firstSeenAt": "2026-10-04T06:15:55.247Z",
       "deadline": "2026-10-08"
+    },
+    {
+      "id": "b3213bc1aa92128a",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "4111010033",
+      "title": "【四六级报名】关于启动2026年下半年全国大学英语四、六级考试网上报名的通知",
+      "url": "https://jwc.cuc.edu.cn/2026/0914/c6364a273878/page.htm",
+      "date": "2026-09-09",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T18:59:50.120Z"
     },
     {
       "id": "a6a0ac87a73c73cf",
@@ -4697,6 +4895,20 @@
       "firstSeenAt": "2026-10-04T06:15:53.536Z"
     },
     {
+      "id": "e5fea0ad5ed2fff4",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "4143010530",
+      "title": "关于做好2026年下半年全国大学英语四六级考试报名工作的通知",
+      "url": "https://www.xtu.edu.cn/info/1372/24760.htm",
+      "date": "2026-09-07",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T18:59:54.723Z"
+    },
+    {
       "id": "7d0637aa873c33cd",
       "sourceId": "gs-gg",
       "sourceName": "研究生院·公告",
@@ -4799,6 +5011,20 @@
       "alsoIn": [],
       "tier": "digest",
       "firstSeenAt": "2026-11-08T14:28:59.344Z"
+    },
+    {
+      "id": "259833011da1eb58",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "4111010033",
+      "title": "关于开展2026-2027学年秋季学期开学初主修、辅修补（退）选课工作的通知",
+      "url": "https://jwc.cuc.edu.cn/2026/0915/c6364a273901/page.htm",
+      "date": "2026-09-04",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T18:59:50.120Z"
     },
     {
       "id": "32c269a626654b1d",
@@ -5195,6 +5421,21 @@
       "firstSeenAt": "2026-11-08T12:09:05.710Z"
     },
     {
+      "id": "c2bc65429fb3659b",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "4111010033",
+      "title": "关于暑假期间办理本科生成绩单等材料的通知",
+      "url": "https://jwc.cuc.edu.cn/2026/0717/c6364a272849/page.htm",
+      "date": "2026-07-17",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "deadline": "2026-09-02",
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T18:59:50.120Z"
+    },
+    {
       "id": "bc550f8ec313f7f4",
       "sourceId": "jwc-xwkd",
       "sourceName": "教务部·新闻快递",
@@ -5256,6 +5497,20 @@
       "tag": "考试",
       "alsoIn": [],
       "firstSeenAt": "2026-09-28T12:00:56.521Z"
+    },
+    {
+      "id": "bb25deaf2c7c7dac",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "4111010033",
+      "title": "关于开展2026—2027学年秋季学期学生主修、辅修网上选课工作的通知",
+      "url": "https://jwc.cuc.edu.cn/2026/0915/c6364a273900/page.htm",
+      "date": "2026-07-06",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T18:59:50.120Z"
     },
     {
       "id": "33731e865f7069a2",
@@ -5372,6 +5627,20 @@
       "category": "研究生",
       "alsoIn": [],
       "firstSeenAt": "2026-10-21T10:57:47.397Z"
+    },
+    {
+      "id": "44abb1665add95f7",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "4143010530",
+      "title": "关于做好2026年下半年全国计算机等级考试（NCRE）湘潭大学考点报名工作的通知",
+      "url": "https://www.xtu.edu.cn/info/1372/24457.htm",
+      "date": "2026-06-18",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T18:59:54.723Z"
     },
     {
       "id": "df1b819ceefb7b89",
@@ -5995,6 +6264,20 @@
       "deadline": "2026-05-24"
     },
     {
+      "id": "c8cbb155dfa1912c",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "4111010033",
+      "title": "【四六级报名】关于启动2026年上半年全国大学英语四、六级考试网上报名的通知",
+      "url": "https://jwc.cuc.edu.cn/2026/0311/c6364a267537/page.htm",
+      "date": "2026-03-11",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T18:59:50.120Z"
+    },
+    {
       "id": "cb9915bb48332171",
       "sourceId": "gs-xw",
       "sourceName": "研究生院·新闻",
@@ -6072,6 +6355,20 @@
       "category": "研究生",
       "alsoIn": [],
       "firstSeenAt": "2026-10-21T10:57:47.397Z"
+    },
+    {
+      "id": "1bbfcea6bf496189",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "4111010033",
+      "title": "关于开展2025—2026学年春季学期开学初主修、辅修补（退）选课工作的通知",
+      "url": "https://jwc.cuc.edu.cn/2026/0227/c6364a267096/page.htm",
+      "date": "2026-02-27",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T18:59:50.120Z"
     },
     {
       "id": "2dda302d2ba47722",

@@ -1,0 +1,120 @@
+{
+ "school": "whu",
+ "name": "武汉大学",
+ "province": "湖北省",
+ "city": "武汉市",
+ "generatedAt": "2026-11-08T19:00:37.543Z",
+ "total": 5,
+ "bySource": [
+  {
+   "sourceId": "notice-list",
+   "sourceName": "官网·通知公告",
+   "count": 5
+  }
+ ],
+ "units": [
+  {
+   "id": "官网",
+   "name": "官网",
+   "sources": [
+    "官网·通知公告"
+   ],
+   "count": 5
+  }
+ ],
+ "sourceCatalog": [
+  {
+   "id": "notice-list",
+   "name": "官网·通知公告",
+   "url": "https://www.whu.edu.cn/tzgg.htm",
+   "unit": "官网"
+  }
+ ],
+ "sourceChecks": {
+  "notice-list": {
+   "name": "官网·通知公告",
+   "checkedAt": "2026-11-08T19:00:24.493Z",
+   "lastSuccessAt": "2026-11-08T19:00:24.493Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 10
+  }
+ },
+ "items": [
+  {
+   "id": "154ff1ab9cf97896",
+   "sourceId": "notice-list",
+   "sourceName": "官网·通知公告",
+   "school": "whu",
+   "title": "珞珈讲坛第552讲预告",
+   "url": "https://www.whu.edu.cn/info/5231/277904.htm",
+   "date": "2026-11-07",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T19:00:24.499Z",
+   "unit": "官网"
+  },
+  {
+   "id": "af8f8bca9fc83c7c",
+   "sourceId": "notice-list",
+   "sourceName": "官网·通知公告",
+   "school": "whu",
+   "title": "珞珈讲坛第551讲预告",
+   "url": "https://www.whu.edu.cn/info/5231/277704.htm",
+   "date": "2026-11-04",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T19:00:24.499Z",
+   "unit": "官网"
+  },
+  {
+   "id": "ce25b88bcf720d52",
+   "sourceId": "notice-list",
+   "sourceName": "官网·通知公告",
+   "school": "whu",
+   "title": "珞珈讲坛第550讲预告",
+   "url": "https://www.whu.edu.cn/info/5231/277484.htm",
+   "date": "2026-11-02",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T19:00:24.499Z",
+   "unit": "官网"
+  },
+  {
+   "id": "7037899d5051815b",
+   "sourceId": "notice-list",
+   "sourceName": "官网·通知公告",
+   "school": "whu",
+   "title": "珞珈讲坛第549讲预告",
+   "url": "https://www.whu.edu.cn/info/5231/276744.htm",
+   "date": "2026-10-21",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T19:00:24.499Z",
+   "unit": "官网"
+  },
+  {
+   "id": "4fe84c9dec57a31c",
+   "sourceId": "notice-list",
+   "sourceName": "官网·通知公告",
+   "school": "whu",
+   "title": "珞珈讲坛第548讲预告",
+   "url": "https://www.whu.edu.cn/info/5231/276614.htm",
+   "date": "2026-10-21",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T19:00:24.499Z",
+   "unit": "官网"
+  }
+ ]
+}
