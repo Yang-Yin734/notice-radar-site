@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-08T19:00:37.543Z",
+ "generatedAt": "2026-11-08T22:46:43.896Z",
  "source": "教育部《全国高等学校名单》（config/schools/directory.tsv，见 config/schools/README.md）",
  "note": "status=active 表示真抓过、能出通知；pending 只是目录条目，选中会提示尚未接入。接入方法见 docs/add-your-school.md",
  "counts": {
-  "total": 3167,
-  "active": 37,
-  "pending": 3130,
+  "total": 3168,
+  "active": 43,
+  "pending": 3125,
   "featured": 196,
   "doubleFirst": 144,
   "bachelor": 1365,
@@ -575,7 +575,16 @@
    "tags": [
     "双一流"
    ],
-   "status": "pending"
+   "status": "active",
+   "file": "4111010052.json",
+   "units": [
+    {
+     "id": "教务",
+     "name": "教务",
+     "count": 10
+    }
+   ],
+   "total": 10
   },
   {
    "id": "4111010053",
@@ -2672,7 +2681,16 @@
    "tags": [
     "双一流"
    ],
-   "status": "pending"
+   "status": "active",
+   "file": "tyut.json",
+   "units": [
+    {
+     "id": "教务",
+     "name": "教务",
+     "count": 1
+    }
+   ],
+   "total": 1
   },
   {
    "id": "4114010113",
@@ -3911,7 +3929,16 @@
    "pinyin": "liaoninggongchengjishudaxue",
    "abbr": "lngcjsdx",
    "featured": true,
-   "status": "pending"
+   "status": "active",
+   "file": "lntu.json",
+   "units": [
+    {
+     "id": "教务",
+     "name": "教务",
+     "count": 4
+    }
+   ],
+   "total": 4
   },
   {
    "id": "4121010148",
@@ -6256,7 +6283,16 @@
     "双一流",
     "教育部直属"
    ],
-   "status": "pending"
+   "status": "active",
+   "file": "fudan.json",
+   "units": [
+    {
+     "id": "教务",
+     "name": "教务",
+     "count": 3
+    }
+   ],
+   "total": 3
   },
   {
    "id": "tongji",
@@ -17276,7 +17312,16 @@
     "双一流",
     "教育部直属"
    ],
-   "status": "pending"
+   "status": "active",
+   "file": "csu.json",
+   "units": [
+    {
+     "id": "教务",
+     "name": "教务",
+     "count": 1
+    }
+   ],
+   "total": 1
   },
   {
    "id": "hnust",
@@ -28873,6 +28918,22 @@
    "province": "新疆维吾尔自治区",
    "level": "成人",
    "status": "pending"
+  },
+  {
+   "id": "bjfu",
+   "name": "bjfu",
+   "province": "",
+   "level": "",
+   "status": "active",
+   "file": "bjfu.json",
+   "units": [
+    {
+     "id": "教务处",
+     "name": "教务处",
+     "count": 19
+    }
+   ],
+   "total": 19
   }
  ]
 }

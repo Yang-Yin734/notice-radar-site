@@ -1,0 +1,90 @@
+{
+ "school": "fudan",
+ "name": "复旦大学",
+ "province": "上海市",
+ "city": "",
+ "generatedAt": "2026-11-08T22:46:43.896Z",
+ "total": 3,
+ "bySource": [
+  {
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "count": 3
+  }
+ ],
+ "units": [
+  {
+   "id": "教务",
+   "name": "教务",
+   "sources": [
+    "教务·通知公告"
+   ],
+   "count": 3
+  }
+ ],
+ "sourceCatalog": [
+  {
+   "id": "jwc-tzgg",
+   "name": "教务·通知公告",
+   "url": "https://jwc.fudan.edu.cn/",
+   "unit": "教务"
+  }
+ ],
+ "sourceChecks": {
+  "jwc-tzgg": {
+   "name": "教务·通知公告",
+   "checkedAt": "2026-11-08T22:46:07.467Z",
+   "lastSuccessAt": "2026-11-08T22:46:07.467Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 7
+  }
+ },
+ "items": [
+  {
+   "id": "991f5643969f30c8",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "fudan",
+   "title": "关于2026年新生自查核实学信网学籍信息的通知",
+   "url": "https://jwc.fudan.edu.cn/28/3d/c25325a796733/page.htm",
+   "date": "2026-10-28",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T22:46:07.470Z",
+   "unit": "教务"
+  },
+  {
+   "id": "a6929e054a2b9de4",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "fudan",
+   "title": "关于2026年秋季学期本科课程期中退课的通知",
+   "url": "https://jwc.fudan.edu.cn/26/ff/c25325a796415/page.htm",
+   "date": "2026-10-27",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T22:46:07.470Z",
+   "unit": "教务"
+  },
+  {
+   "id": "8c1ddbd0024ae31c",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "fudan",
+   "title": "关于为2027届本科毕业生拍摄毕业照的通知",
+   "url": "https://jwc.fudan.edu.cn/1f/38/c25325a794424/page.htm",
+   "date": "2026-10-16",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T22:46:07.470Z",
+   "unit": "教务"
+  }
+ ]
+}

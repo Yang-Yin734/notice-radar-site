@@ -1,0 +1,199 @@
+{
+ "school": "4111010052",
+ "name": "中央民族大学",
+ "province": "北京市",
+ "city": "",
+ "generatedAt": "2026-11-08T22:46:43.896Z",
+ "total": 10,
+ "bySource": [
+  {
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "count": 10
+  }
+ ],
+ "units": [
+  {
+   "id": "教务",
+   "name": "教务",
+   "sources": [
+    "教务·通知公告"
+   ],
+   "count": 10
+  }
+ ],
+ "sourceCatalog": [
+  {
+   "id": "jwc-tzgg",
+   "name": "教务·通知公告",
+   "url": "https://jw.muc.edu.cn/tzgg.htm",
+   "unit": "教务"
+  }
+ ],
+ "sourceChecks": {
+  "jwc-tzgg": {
+   "name": "教务·通知公告",
+   "checkedAt": "2026-11-08T22:45:53.396Z",
+   "lastSuccessAt": "2026-11-08T22:45:53.396Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 15
+  }
+ },
+ "items": [
+  {
+   "id": "62f4f52b12ffe297",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "4111010052",
+   "title": "关于2025-2026学年第二学期本科生网络教学平台学习进度的温馨提醒",
+   "url": "https://jw.muc.edu.cn/info/1007/3422.htm",
+   "date": "2026-04-14",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T22:45:53.401Z",
+   "unit": "教务"
+  },
+  {
+   "id": "26c833cd5a04c889",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "4111010052",
+   "title": "关于2026届本科毕业生学历学位图像采集的通知",
+   "url": "https://jw.muc.edu.cn/info/1007/2672.htm",
+   "date": "2026-04-13",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T22:45:53.401Z",
+   "unit": "教务"
+  },
+  {
+   "id": "36b28b8c523a2fd5",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "4111010052",
+   "title": "关于提交2022级本科生及2024级第二学士学位学生学籍卡的通知",
+   "url": "https://jw.muc.edu.cn/info/1007/3442.htm",
+   "date": "2026-04-03",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "deadline": "2026-04-22",
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T22:45:53.401Z",
+   "unit": "教务"
+  },
+  {
+   "id": "b4cd588541e5f25b",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "4111010052",
+   "title": "关于2025-2026学年春季学期延河联盟校际共享课程选课的通知",
+   "url": "https://jw.muc.edu.cn/info/1007/3472.htm",
+   "date": "2026-04-02",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "deadline": "2026-04-30",
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T22:45:53.401Z",
+   "unit": "教务"
+  },
+  {
+   "id": "4e57e8d9ea346e68",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "4111010052",
+   "title": "关于丰台校区各教学楼上下课时间的通知",
+   "url": "https://jw.muc.edu.cn/info/1007/3502.htm",
+   "date": "2026-03-27",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T22:45:53.401Z",
+   "unit": "教务"
+  },
+  {
+   "id": "74a50057309df52d",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "4111010052",
+   "title": "2026年上半年全国大学英语四六级考试报名通知",
+   "url": "https://mp.weixin.qq.com/s/ZgZ7s6SWoy8kfL1AKLvFsA",
+   "date": "2026-03-12",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "deadline": "2026-04-02",
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T22:45:53.401Z",
+   "unit": "教务"
+  },
+  {
+   "id": "b339b72eab8ce165",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "4111010052",
+   "title": "关于2025-2026学年第一学期课程补考及缓考考试安排的通知",
+   "url": "https://jw.muc.edu.cn/info/1007/2822.htm",
+   "date": "2026-03-12",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T22:45:53.401Z",
+   "unit": "教务"
+  },
+  {
+   "id": "7a8d041d6d93b6c5",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "4111010052",
+   "title": "关于组织遴选教师参加第六届北京高校教师教学创新大赛的通知",
+   "url": "https://jw.muc.edu.cn/info/1059/3312.htm",
+   "date": "2026-03-12",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T22:45:53.401Z",
+   "unit": "教务"
+  },
+  {
+   "id": "714ac55b341a6795",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "4111010052",
+   "title": "关于辅修专业注销及辅修类别调整的通知",
+   "url": "https://jw.muc.edu.cn/info/1007/3482.htm",
+   "date": "2026-03-10",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T22:45:53.401Z",
+   "unit": "教务"
+  },
+  {
+   "id": "873fe3ac5ff07972",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "4111010052",
+   "title": "关于2026年上半年国家普通话水平测试报名的通知",
+   "url": "https://jw.muc.edu.cn/info/1024/3112.htm",
+   "date": "2026-03-05",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "deadline": "2026-03-09",
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T22:45:53.401Z",
+   "unit": "教务"
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "school": "csu",
+ "name": "中南大学",
+ "province": "湖南省",
+ "city": "长沙市",
+ "generatedAt": "2026-11-08T22:46:43.896Z",
+ "total": 1,
+ "bySource": [
+  {
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "count": 1
+  }
+ ],
+ "units": [
+  {
+   "id": "教务",
+   "name": "教务",
+   "sources": [
+    "教务·通知公告"
+   ],
+   "count": 1
+  }
+ ],
+ "sourceCatalog": [
+  {
+   "id": "jwc-tzgg",
+   "name": "教务·通知公告",
+   "url": "https://bksy.csu.edu.cn/tztg/jyjgyxjglbgs.htm",
+   "unit": "教务"
+  }
+ ],
+ "sourceChecks": {
+  "jwc-tzgg": {
+   "name": "教务·通知公告",
+   "checkedAt": "2026-11-08T22:45:59.240Z",
+   "lastSuccessAt": "2026-11-08T22:45:59.240Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 4
+  }
+ },
+ "items": [
+  {
+   "id": "acfbc97337bd0b60",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "csu",
+   "title": "关于下达2027届优秀生推免专业建设（增补）指标的通知",
+   "url": "https://bksy.csu.edu.cn/info/1058/6031.htm",
+   "date": "2026-09-16",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T22:45:59.246Z",
+   "unit": "教务"
+  }
+ ]
+}

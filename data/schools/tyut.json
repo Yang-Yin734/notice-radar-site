@@ -1,0 +1,60 @@
+{
+ "school": "tyut",
+ "name": "太原理工大学",
+ "province": "山西省",
+ "city": "太原市",
+ "generatedAt": "2026-11-08T22:46:43.896Z",
+ "total": 1,
+ "bySource": [
+  {
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "count": 1
+  }
+ ],
+ "units": [
+  {
+   "id": "教务",
+   "name": "教务",
+   "sources": [
+    "教务·通知公告"
+   ],
+   "count": 1
+  }
+ ],
+ "sourceCatalog": [
+  {
+   "id": "jwc-tzgg",
+   "name": "教务·通知公告",
+   "url": "https://jwc.tyut.edu.cn/",
+   "unit": "教务"
+  }
+ ],
+ "sourceChecks": {
+  "jwc-tzgg": {
+   "name": "教务·通知公告",
+   "checkedAt": "2026-11-08T22:46:34.958Z",
+   "lastSuccessAt": "2026-11-08T22:46:34.958Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 5
+  }
+ },
+ "items": [
+  {
+   "id": "335636c3f2ff16c3",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "tyut",
+   "title": "关于2025年级2026-2027学年秋季学期人文艺术科学素养类通识选修课的选课通知",
+   "url": "https://jwc.tyut.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1057&wbnewsid=16775",
+   "date": null,
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T22:46:34.961Z",
+   "unit": "教务"
+  }
+ ]
+}

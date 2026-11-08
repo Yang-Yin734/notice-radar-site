@@ -1,0 +1,107 @@
+{
+ "school": "lntu",
+ "name": "辽宁工程技术大学",
+ "province": "辽宁省",
+ "city": "阜新市",
+ "generatedAt": "2026-11-08T22:46:43.896Z",
+ "total": 4,
+ "bySource": [
+  {
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "count": 4
+  }
+ ],
+ "units": [
+  {
+   "id": "教务",
+   "name": "教务",
+   "sources": [
+    "教务·通知公告"
+   ],
+   "count": 4
+  }
+ ],
+ "sourceCatalog": [
+  {
+   "id": "jwc-tzgg",
+   "name": "教务·通知公告",
+   "url": "https://jwzx.lntu.edu.cn/index/jwgg.htm",
+   "unit": "教务"
+  }
+ ],
+ "sourceChecks": {
+  "jwc-tzgg": {
+   "name": "教务·通知公告",
+   "checkedAt": "2026-11-08T22:46:18.197Z",
+   "lastSuccessAt": "2026-11-08T22:46:18.197Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 10
+  }
+ },
+ "items": [
+  {
+   "id": "213f21a3890f8c16",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "lntu",
+   "title": "关于2027届毕业生图像信息采集工作的通知",
+   "url": "https://jwzx.lntu.edu.cn/info/1103/6738.htm",
+   "date": "2026-10-21",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T22:46:18.201Z",
+   "unit": "教务"
+  },
+  {
+   "id": "1174a1517f1cc897",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "lntu",
+   "title": "关于2026年秋季学期重新学习选课和补修选课的通知",
+   "url": "https://jwzx.lntu.edu.cn/info/1103/6648.htm",
+   "date": "2026-09-17",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "deadline": "2026-09-23",
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T22:46:18.201Z",
+   "unit": "教务"
+  },
+  {
+   "id": "f1717b44f2c5084f",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "lntu",
+   "title": "关于开展2026年微专业招生报名工作的通知",
+   "url": "https://jwzx.lntu.edu.cn/info/1103/6608.htm",
+   "date": "2026-09-10",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T22:46:18.201Z",
+   "unit": "教务"
+  },
+  {
+   "id": "3c32b4f283a6f2e9",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "lntu",
+   "title": "2026年秋季学期校级选修课选课通知",
+   "url": "https://jwzx.lntu.edu.cn/info/1103/6578.htm",
+   "date": "2026-09-09",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "deadline": "2026-09-16",
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T22:46:18.201Z",
+   "unit": "教务"
+  }
+ ]
+}
