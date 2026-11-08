@@ -1,0 +1,151 @@
+{
+ "school": "ustb",
+ "name": "北京科技大学",
+ "province": "北京市",
+ "city": "",
+ "generatedAt": "2026-11-08T14:29:40.112Z",
+ "total": 7,
+ "bySource": [
+  {
+   "sourceId": "jwc-tztg",
+   "sourceName": "教务处·通知通告",
+   "count": 7
+  }
+ ],
+ "units": [
+  {
+   "id": "教务处",
+   "name": "教务处",
+   "sources": [
+    "教务处·通知通告"
+   ],
+   "count": 7
+  }
+ ],
+ "sourceCatalog": [
+  {
+   "id": "jwc-tztg",
+   "name": "教务处·通知通告",
+   "url": "https://jwc.ustb.edu.cn/tztg/index1.htm",
+   "unit": "教务处"
+  }
+ ],
+ "sourceChecks": {
+  "jwc-tztg": {
+   "name": "教务处·通知通告",
+   "checkedAt": "2026-11-08T14:29:26.858Z",
+   "lastSuccessAt": "2026-11-08T14:29:26.858Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 20
+  }
+ },
+ "items": [
+  {
+   "id": "e0baa38eb7472a5d",
+   "sourceId": "jwc-tztg",
+   "sourceName": "教务处·通知通告",
+   "school": "ustb",
+   "title": "教通知【2026】158号-关于第42届全国部分地区大学生物理竞赛报名的通知",
+   "url": "https://jwc.ustb.edu.cn/tztg/b524d51a3893416386b5e08da19649e9.htm",
+   "date": "2026-10-09",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T14:29:26.861Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "d9b79b13202b2f3a",
+   "sourceId": "jwc-tztg",
+   "sourceName": "教务处·通知通告",
+   "school": "ustb",
+   "title": "教通知【2026】155号-2026年北京科技大学物理竞赛考场安排",
+   "url": "https://jwc.ustb.edu.cn/tztg/e7b8334f43ca4c5b9296e81148a5c0d6.htm",
+   "date": "2026-10-08",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T14:29:26.861Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "989aee9e6c17112d",
+   "sourceId": "jwc-tztg",
+   "sourceName": "教务处·通知通告",
+   "school": "ustb",
+   "title": "教通知【2026】152号-关于开展学院路共同体校际选修课成绩录入工作的通知",
+   "url": "https://jwc.ustb.edu.cn/tztg/bebc480656f24ef2a38ad55707e4acbb.htm",
+   "date": "2026-09-21",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T14:29:26.861Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "3abb8c9bfda8ede8",
+   "sourceId": "jwc-tztg",
+   "sourceName": "教务处·通知通告",
+   "school": "ustb",
+   "title": "2026年下半年全国大学英语四六级考试报名通知",
+   "url": "https://jwc.ustb.edu.cn/tztg/36210e878ea74c45b4aaf89b49e59e50.htm",
+   "date": "2026-09-18",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T14:29:26.861Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "f714ee8b8df87f80",
+   "sourceId": "jwc-tztg",
+   "sourceName": "教务处·通知通告",
+   "school": "ustb",
+   "title": "教通知【2026】149号-关于2026年北京科技大学物理竞赛报名的通知",
+   "url": "https://jwc.ustb.edu.cn/tztg/587139d628ef4a5c80cd7678607ffda9.htm",
+   "date": "2026-09-17",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "deadline": "2026-09-22",
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T14:29:26.861Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "5ffd38a75450b45d",
+   "sourceId": "jwc-tztg",
+   "sourceName": "教务处·通知通告",
+   "school": "ustb",
+   "title": "教通知【2026】146号-关于做好2025-2026学年第二学期考试工作总结的通知",
+   "url": "https://jwc.ustb.edu.cn/tztg/04e9295cc7e841cc8f3f514e98bb4827.htm",
+   "date": "2026-09-15",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T14:29:26.861Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "d83d2732d024c1e0",
+   "sourceId": "jwc-tztg",
+   "sourceName": "教务处·通知通告",
+   "school": "ustb",
+   "title": "教通知【2026】142号-关于新生注册全国大学生英语四、六级考试用户的通知",
+   "url": "https://jwc.ustb.edu.cn/tztg/e4a49e4c332242fd8fe24f41e4c49589.htm",
+   "date": "2026-09-14",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T14:29:26.861Z",
+   "unit": "教务处"
+  }
+ ]
+}

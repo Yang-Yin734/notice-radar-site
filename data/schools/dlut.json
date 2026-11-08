@@ -1,0 +1,105 @@
+{
+ "school": "dlut",
+ "name": "大连理工大学",
+ "province": "辽宁省",
+ "city": "大连市",
+ "generatedAt": "2026-11-08T14:29:40.112Z",
+ "total": 4,
+ "bySource": [
+  {
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "count": 4
+  }
+ ],
+ "units": [
+  {
+   "id": "教务",
+   "name": "教务",
+   "sources": [
+    "教务·通知公告"
+   ],
+   "count": 4
+  }
+ ],
+ "sourceCatalog": [
+  {
+   "id": "jwc-tzgg",
+   "name": "教务·通知公告",
+   "url": "https://teach.dlut.edu.cn/",
+   "unit": "教务"
+  }
+ ],
+ "sourceChecks": {
+  "jwc-tzgg": {
+   "name": "教务·通知公告",
+   "checkedAt": "2026-11-08T14:29:06.837Z",
+   "lastSuccessAt": "2026-11-08T14:29:06.837Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 14
+  }
+ },
+ "items": [
+  {
+   "id": "4afc111d2e15a00d",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "dlut",
+   "title": "关于公布学校教学质量优秀奖评选结果的通知",
+   "url": "https://teach.dlut.edu.cn/jiaoxuewenjian/wenjian.jsp?urltype=news.NewsContentUrl&wbtreeid=1082&wbnewsid=18198",
+   "date": "2026-10-20",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T14:29:06.840Z",
+   "unit": "教务"
+  },
+  {
+   "id": "ead7b9490833d2ba",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "dlut",
+   "title": "关于组织开展2026年度“人工智能+”虚拟仿真实验教学项目申报工作的通知",
+   "url": "https://teach.dlut.edu.cn/jiaoxuewenjian/wenjian.jsp?urltype=news.NewsContentUrl&wbtreeid=1082&wbnewsid=18038",
+   "date": "2026-10-10",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T14:29:06.840Z",
+   "unit": "教务"
+  },
+  {
+   "id": "8c324990aaa650a0",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "dlut",
+   "title": "历届大连理工大学校级优秀毕业论文（设计）摘要汇编",
+   "url": "https://teach.dlut.edu.cn/qitawenjian/ny.jsp?urltype=news.NewsContentUrl&wbtreeid=1081&wbnewsid=1259",
+   "date": "2025-06-24",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T14:29:06.840Z",
+   "unit": "教务"
+  },
+  {
+   "id": "f592eae12f24c23e",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "dlut",
+   "title": "大连理工大学实习教学工作实施细则",
+   "url": "https://teach.dlut.edu.cn/qitawenjian/ny.jsp?urltype=news.NewsContentUrl&wbtreeid=1081&wbnewsid=7605",
+   "date": "2019-03-19",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T14:29:06.840Z",
+   "unit": "教务"
+  }
+ ]
+}

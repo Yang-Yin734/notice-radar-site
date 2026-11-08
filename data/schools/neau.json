@@ -1,0 +1,150 @@
+{
+ "school": "neau",
+ "name": "东北农业大学",
+ "province": "黑龙江省",
+ "city": "哈尔滨市",
+ "generatedAt": "2026-11-08T14:29:40.112Z",
+ "total": 7,
+ "bySource": [
+  {
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "count": 7
+  }
+ ],
+ "units": [
+  {
+   "id": "教务",
+   "name": "教务",
+   "sources": [
+    "教务·通知公告"
+   ],
+   "count": 7
+  }
+ ],
+ "sourceCatalog": [
+  {
+   "id": "jwc-tzgg",
+   "name": "教务·通知公告",
+   "url": "https://jwc.neau.edu.cn/index/tzgg.htm",
+   "unit": "教务"
+  }
+ ],
+ "sourceChecks": {
+  "jwc-tzgg": {
+   "name": "教务·通知公告",
+   "checkedAt": "2026-11-08T14:29:13.868Z",
+   "lastSuccessAt": "2026-11-08T14:29:13.868Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 20
+  }
+ },
+ "items": [
+  {
+   "id": "cd596b0df3c578bf",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "neau",
+   "title": "东北农业大学金陵书院二次选拔面试成绩及综合成绩公示",
+   "url": "https://jwc.neau.edu.cn/xw_nei.jsp?urltype=news.NewsContentUrl&wbtreeid=1003&wbnewsid=7387",
+   "date": "2026-11-04",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T14:29:13.872Z",
+   "unit": "教务"
+  },
+  {
+   "id": "5dfcd717fa00c929",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "neau",
+   "title": "东北农业大学关于开展2026-2027学年第1学期期中教学检查工作的通知",
+   "url": "https://jwc.neau.edu.cn/info/1003/7373.htm",
+   "date": "2026-10-23",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T14:29:13.872Z",
+   "unit": "教务"
+  },
+  {
+   "id": "4430059a4af48dc9",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "neau",
+   "title": "东北农业大学2026年辅修学士学位招生的通知",
+   "url": "https://jwc.neau.edu.cn/info/1003/7365.htm",
+   "date": "2026-10-16",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T14:29:13.872Z",
+   "unit": "教务"
+  },
+  {
+   "id": "b36e54decc95f736",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "neau",
+   "title": "关于核对2026-2027学年春季学期教学安排的通知",
+   "url": "https://jwc.neau.edu.cn/info/1003/7359.htm",
+   "date": "2026-10-12",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T14:29:13.872Z",
+   "unit": "教务"
+  },
+  {
+   "id": "7b8bd927c0b69327",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "neau",
+   "title": "关于教学楼、主楼教部分课程临时调串的通知",
+   "url": "https://jwc.neau.edu.cn/info/1003/7356.htm",
+   "date": "2026-10-08",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T14:29:13.872Z",
+   "unit": "教务"
+  },
+  {
+   "id": "4a5f4ad7ed30d73c",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "neau",
+   "title": "关于启动第七届黑龙江省高校教师教学创新大赛校内选拔工作的通知",
+   "url": "https://jwc.neau.edu.cn/info/1003/7355.htm",
+   "date": "2026-09-30",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T14:29:13.872Z",
+   "unit": "教务"
+  },
+  {
+   "id": "b6fea3c94edc11f6",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "neau",
+   "title": "关于2026级本科学生登录学信网查询学籍信息的通知",
+   "url": "https://jwc.neau.edu.cn/info/1003/7351.htm",
+   "date": "2026-09-30",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T14:29:13.872Z",
+   "unit": "教务"
+  }
+ ]
+}

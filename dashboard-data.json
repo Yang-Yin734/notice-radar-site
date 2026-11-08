@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-08T12:09:08.214Z",
-  "total": 485,
+  "generatedAt": "2026-11-08T14:29:40.112Z",
+  "total": 519,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
       "sourceName": "教务·通知公告",
-      "count": 141
+      "count": 161
     },
     {
       "sourceId": "jwb-tzgg",
@@ -88,19 +88,24 @@
       "count": 12
     },
     {
+      "sourceId": "notice-list",
+      "sourceName": "官网·学校公告",
+      "count": 12
+    },
+    {
       "sourceId": "jwc-important",
       "sourceName": "教务处·重要公告",
+      "count": 7
+    },
+    {
+      "sourceId": "jwc-tztg",
+      "sourceName": "教务处·通知通告",
       "count": 7
     },
     {
       "sourceId": "news-academic",
       "sourceName": "新闻网·学术",
       "count": 6
-    },
-    {
-      "sourceId": "notice-list",
-      "sourceName": "官网·学校公告",
-      "count": 5
     },
     {
       "sourceId": "oaa-tzgg",
@@ -290,6 +295,20 @@
       "alsoIn": [],
       "tier": "digest",
       "firstSeenAt": "2026-11-05T13:08:19.830Z"
+    },
+    {
+      "id": "cd596b0df3c578bf",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "neau",
+      "title": "东北农业大学金陵书院二次选拔面试成绩及综合成绩公示",
+      "url": "https://jwc.neau.edu.cn/xw_nei.jsp?urltype=news.NewsContentUrl&wbtreeid=1003&wbnewsid=7387",
+      "date": "2026-11-04",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T14:29:13.872Z"
     },
     {
       "id": "c9ec8b9d27b7e382",
@@ -633,6 +652,20 @@
       "firstSeenAt": "2026-10-31T05:39:15.380Z"
     },
     {
+      "id": "e090c8b2032f70c1",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "4132010290",
+      "title": "关于开展2025-2026学年春季学期本科教学档案专项检查工作的通知",
+      "url": "https://jwb.cumt.edu.cn/info/1105/8571.htm",
+      "date": "2026-10-30",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T14:28:59.344Z"
+    },
+    {
       "id": "b49de78d05cda7e4",
       "sourceId": "rsc-tzgg",
       "sourceName": "人事部·通知公告",
@@ -737,6 +770,34 @@
       "category": null,
       "alsoIn": [],
       "firstSeenAt": "2026-10-30T04:23:02.688Z"
+    },
+    {
+      "id": "d36b5314f9714146",
+      "sourceId": "notice-list",
+      "sourceName": "教务处·教务信息",
+      "school": "seu",
+      "title": "关于2026-2027学年秋季学期高阶外语期末考试安排的通知",
+      "url": "https://jwc.seu.edu.cn/2026/1027/c21678a587732/page.htm",
+      "date": "2026-10-29",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T14:29:21.278Z"
+    },
+    {
+      "id": "bb5566bfcc1648f0",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "hfuu",
+      "title": "关于2026级新生学籍电子注册信息核对的通知",
+      "url": "https://www.hfuu.edu.cn/jwc/7f/26/c7705a163622/page.htm",
+      "date": "2026-10-29",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T14:29:09.039Z"
     },
     {
       "id": "a946685cac1daaa2",
@@ -1088,6 +1149,20 @@
       "firstSeenAt": "2026-10-27T02:30:31.822Z"
     },
     {
+      "id": "28ce0fd4aeba0241",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "4132010290",
+      "title": "关于做好2027届本科生毕业设计（论文）工作的通知",
+      "url": "https://jwb.cumt.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1105&wbnewsid=8559",
+      "date": "2026-10-26",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T14:28:59.344Z"
+    },
+    {
       "id": "05a76f0a5628cbf1",
       "sourceId": "jwc-tzgg",
       "sourceName": "教务处·通知公告",
@@ -1219,6 +1294,34 @@
       "category": "综合",
       "alsoIn": [],
       "firstSeenAt": "2026-10-25T00:54:25.647Z"
+    },
+    {
+      "id": "5dfcd717fa00c929",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "neau",
+      "title": "东北农业大学关于开展2026-2027学年第1学期期中教学检查工作的通知",
+      "url": "https://jwc.neau.edu.cn/info/1003/7373.htm",
+      "date": "2026-10-23",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T14:29:13.872Z"
+    },
+    {
+      "id": "894d9dee45d363b8",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "hfuu",
+      "title": "关于开展2027届预计毕业生图像补采集工作的通知",
+      "url": "https://www.hfuu.edu.cn/jwc/7e/5f/c7705a163423/page.htm",
+      "date": "2026-10-23",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T14:29:09.039Z"
     },
     {
       "id": "0fa60a4d9ed18955",
@@ -1615,6 +1718,20 @@
       "firstSeenAt": "2026-10-21T02:22:37.463Z"
     },
     {
+      "id": "4afc111d2e15a00d",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "dlut",
+      "title": "关于公布学校教学质量优秀奖评选结果的通知",
+      "url": "https://teach.dlut.edu.cn/jiaoxuewenjian/wenjian.jsp?urltype=news.NewsContentUrl&wbtreeid=1082&wbnewsid=18198",
+      "date": "2026-10-20",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T14:29:06.840Z"
+    },
+    {
       "id": "b31ee76a4585a9b6",
       "sourceId": "rsc-tzgg",
       "sourceName": "人事部·通知公告",
@@ -1867,6 +1984,20 @@
       "firstSeenAt": "2026-10-19T06:18:21.519Z"
     },
     {
+      "id": "4430059a4af48dc9",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "neau",
+      "title": "东北农业大学2026年辅修学士学位招生的通知",
+      "url": "https://jwc.neau.edu.cn/info/1003/7365.htm",
+      "date": "2026-10-16",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T14:29:13.872Z"
+    },
+    {
       "id": "f6da40c1cdb52108",
       "sourceId": "news-notice",
       "sourceName": "新闻网·公告",
@@ -1942,6 +2073,20 @@
       "tag": null,
       "alsoIn": [],
       "firstSeenAt": "2026-10-16T02:58:59.344Z"
+    },
+    {
+      "id": "83d90a293df89512",
+      "sourceId": "notice-list",
+      "sourceName": "教务处·教务信息",
+      "school": "seu",
+      "title": "关于2026-2027学年秋季学期期中考试安排的通知",
+      "url": "https://jwc.seu.edu.cn/2026/1014/c21678a586035/page.htm",
+      "date": "2026-10-15",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T14:29:21.278Z"
     },
     {
       "id": "3d04933355b43cd3",
@@ -2204,6 +2349,34 @@
       "firstSeenAt": "2026-10-13T01:01:50.608Z"
     },
     {
+      "id": "b36e54decc95f736",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "neau",
+      "title": "关于核对2026-2027学年春季学期教学安排的通知",
+      "url": "https://jwc.neau.edu.cn/info/1003/7359.htm",
+      "date": "2026-10-12",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T14:29:13.872Z"
+    },
+    {
+      "id": "5c6b34ade953c55e",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "4132010290",
+      "title": "关于开展本科生高水平创新成果替代毕业设计（论文）工作试点的通知",
+      "url": "https://jwb.cumt.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1105&wbnewsid=8546",
+      "date": "2026-10-12",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T14:28:59.344Z"
+    },
+    {
       "id": "944e238e3ca7d476",
       "sourceId": "gs-gg",
       "sourceName": "研究生院·公告",
@@ -2351,6 +2524,20 @@
       "firstSeenAt": "2026-10-12T01:30:12.117Z"
     },
     {
+      "id": "ead7b9490833d2ba",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "dlut",
+      "title": "关于组织开展2026年度“人工智能+”虚拟仿真实验教学项目申报工作的通知",
+      "url": "https://teach.dlut.edu.cn/jiaoxuewenjian/wenjian.jsp?urltype=news.NewsContentUrl&wbtreeid=1082&wbnewsid=18038",
+      "date": "2026-10-10",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T14:29:06.840Z"
+    },
+    {
       "id": "5278544b6e915ba5",
       "sourceId": "gs-gg",
       "sourceName": "研究生院·公告",
@@ -2415,6 +2602,20 @@
         "新闻网·学术"
       ],
       "firstSeenAt": "2026-10-10T02:48:46.456Z"
+    },
+    {
+      "id": "e0baa38eb7472a5d",
+      "sourceId": "jwc-tztg",
+      "sourceName": "教务处·通知通告",
+      "school": "ustb",
+      "title": "教通知【2026】158号-关于第42届全国部分地区大学生物理竞赛报名的通知",
+      "url": "https://jwc.ustb.edu.cn/tztg/b524d51a3893416386b5e08da19649e9.htm",
+      "date": "2026-10-09",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T14:29:26.861Z"
     },
     {
       "id": "c294a2303fad660b",
@@ -2515,6 +2716,48 @@
       "deadline": "2026-10-09"
     },
     {
+      "id": "d9b79b13202b2f3a",
+      "sourceId": "jwc-tztg",
+      "sourceName": "教务处·通知通告",
+      "school": "ustb",
+      "title": "教通知【2026】155号-2026年北京科技大学物理竞赛考场安排",
+      "url": "https://jwc.ustb.edu.cn/tztg/e7b8334f43ca4c5b9296e81148a5c0d6.htm",
+      "date": "2026-10-08",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T14:29:26.861Z"
+    },
+    {
+      "id": "3630ae6ead0b655e",
+      "sourceId": "notice-list",
+      "sourceName": "教务处·教务信息",
+      "school": "seu",
+      "title": "2026-2027学年秋季学期推免生选修研究生课程通知",
+      "url": "https://jwc.seu.edu.cn/2026/1008/c21678a585120/page.htm",
+      "date": "2026-10-08",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T14:29:21.278Z"
+    },
+    {
+      "id": "7b8bd927c0b69327",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "neau",
+      "title": "关于教学楼、主楼教部分课程临时调串的通知",
+      "url": "https://jwc.neau.edu.cn/info/1003/7356.htm",
+      "date": "2026-10-08",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T14:29:13.872Z"
+    },
+    {
       "id": "710c4d4acf74b65d",
       "sourceId": "jwc-tzgg",
       "sourceName": "教务·通知公告",
@@ -2611,6 +2854,34 @@
       "tag": null,
       "alsoIn": [],
       "firstSeenAt": "2026-10-08T01:23:45.910Z"
+    },
+    {
+      "id": "4a5f4ad7ed30d73c",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "neau",
+      "title": "关于启动第七届黑龙江省高校教师教学创新大赛校内选拔工作的通知",
+      "url": "https://jwc.neau.edu.cn/info/1003/7355.htm",
+      "date": "2026-09-30",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T14:29:13.872Z"
+    },
+    {
+      "id": "b6fea3c94edc11f6",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "neau",
+      "title": "关于2026级本科学生登录学信网查询学籍信息的通知",
+      "url": "https://jwc.neau.edu.cn/info/1003/7351.htm",
+      "date": "2026-09-30",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T14:29:13.872Z"
     },
     {
       "id": "23cc5dc6acab0c11",
@@ -3337,6 +3608,20 @@
       "firstSeenAt": "2026-09-28T12:00:56.521Z"
     },
     {
+      "id": "989aee9e6c17112d",
+      "sourceId": "jwc-tztg",
+      "sourceName": "教务处·通知通告",
+      "school": "ustb",
+      "title": "教通知【2026】152号-关于开展学院路共同体校际选修课成绩录入工作的通知",
+      "url": "https://jwc.ustb.edu.cn/tztg/bebc480656f24ef2a38ad55707e4acbb.htm",
+      "date": "2026-09-21",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T14:29:26.861Z"
+    },
+    {
       "id": "be8ee5c1067d4293",
       "sourceId": "jwc-tzgg",
       "sourceName": "教务·通知公告",
@@ -3439,6 +3724,20 @@
       "firstSeenAt": "2026-09-28T12:00:56.521Z"
     },
     {
+      "id": "3abb8c9bfda8ede8",
+      "sourceId": "jwc-tztg",
+      "sourceName": "教务处·通知通告",
+      "school": "ustb",
+      "title": "2026年下半年全国大学英语四六级考试报名通知",
+      "url": "https://jwc.ustb.edu.cn/tztg/36210e878ea74c45b4aaf89b49e59e50.htm",
+      "date": "2026-09-18",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T14:29:26.861Z"
+    },
+    {
       "id": "6dec8b262c1ea232",
       "sourceId": "jwc-tzgg",
       "sourceName": "教务·通知公告",
@@ -3502,6 +3801,21 @@
       "tag": null,
       "alsoIn": [],
       "firstSeenAt": "2026-10-03T16:50:34.573Z"
+    },
+    {
+      "id": "f714ee8b8df87f80",
+      "sourceId": "jwc-tztg",
+      "sourceName": "教务处·通知通告",
+      "school": "ustb",
+      "title": "教通知【2026】149号-关于2026年北京科技大学物理竞赛报名的通知",
+      "url": "https://jwc.ustb.edu.cn/tztg/587139d628ef4a5c80cd7678607ffda9.htm",
+      "date": "2026-09-17",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "deadline": "2026-09-22",
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T14:29:26.861Z"
     },
     {
       "id": "90d61f606958a265",
@@ -3642,6 +3956,20 @@
       "tag": null,
       "alsoIn": [],
       "firstSeenAt": "2026-09-28T12:00:56.521Z"
+    },
+    {
+      "id": "c060a90f68a43f64",
+      "sourceId": "notice-list",
+      "sourceName": "教务处·教务信息",
+      "school": "seu",
+      "title": "2026-2027学年秋季学期课程（含辅修、微专业）退、改、补选及重修（含及格重修）退、改、补报名通知",
+      "url": "https://jwc.seu.edu.cn/2026/0916/c21678a583273/page.htm",
+      "date": "2026-09-16",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T14:29:21.278Z"
     },
     {
       "id": "4d227089e64930f4",
@@ -3807,6 +4135,20 @@
       "firstSeenAt": "2026-10-03T16:50:34.573Z"
     },
     {
+      "id": "5ffd38a75450b45d",
+      "sourceId": "jwc-tztg",
+      "sourceName": "教务处·通知通告",
+      "school": "ustb",
+      "title": "教通知【2026】146号-关于做好2025-2026学年第二学期考试工作总结的通知",
+      "url": "https://jwc.ustb.edu.cn/tztg/04e9295cc7e841cc8f3f514e98bb4827.htm",
+      "date": "2026-09-15",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T14:29:26.861Z"
+    },
+    {
       "id": "75193b01b63f8a9b",
       "sourceId": "jwc-student",
       "sourceName": "教务处·学生事务公告",
@@ -3905,6 +4247,20 @@
       "tag": null,
       "alsoIn": [],
       "firstSeenAt": "2026-10-03T16:50:34.573Z"
+    },
+    {
+      "id": "d83d2732d024c1e0",
+      "sourceId": "jwc-tztg",
+      "sourceName": "教务处·通知通告",
+      "school": "ustb",
+      "title": "教通知【2026】142号-关于新生注册全国大学生英语四、六级考试用户的通知",
+      "url": "https://jwc.ustb.edu.cn/tztg/e4a49e4c332242fd8fe24f41e4c49589.htm",
+      "date": "2026-09-14",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T14:29:26.861Z"
     },
     {
       "id": "b450008b070fee67",
@@ -4053,6 +4409,34 @@
       "tag": null,
       "alsoIn": [],
       "firstSeenAt": "2026-10-04T06:59:32.824Z"
+    },
+    {
+      "id": "9dacb2edba91e5d4",
+      "sourceId": "notice-list",
+      "sourceName": "教务处·教务信息",
+      "school": "seu",
+      "title": "关于2026年下半年全国大学英语四、六级考试报名的通知",
+      "url": "https://jwc.seu.edu.cn/2026/0911/c21678a582821/page.htm",
+      "date": "2026-09-11",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T14:29:21.278Z"
+    },
+    {
+      "id": "fed439fc91ce45e1",
+      "sourceId": "notice-list",
+      "sourceName": "教务处·教务信息",
+      "school": "seu",
+      "title": "关于进行2026年9月全国计算机等级考试模拟考试的通知",
+      "url": "https://jwc.seu.edu.cn/2026/0910/c21678a582671/page.htm",
+      "date": "2026-09-11",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T14:29:21.278Z"
     },
     {
       "id": "42a45e7179d1695b",
@@ -4387,6 +4771,34 @@
       "tag": null,
       "alsoIn": [],
       "firstSeenAt": "2026-10-03T16:50:34.573Z"
+    },
+    {
+      "id": "9fef405d528f8a33",
+      "sourceId": "notice-list",
+      "sourceName": "教务处·教务信息",
+      "school": "seu",
+      "title": "2026级新生二次选拔综合成绩公示",
+      "url": "https://jwc.seu.edu.cn/2026/0826/c21678a580430/page.htm",
+      "date": "2026-09-05",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T14:29:21.278Z"
+    },
+    {
+      "id": "bd5e242a2a79e499",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "4132010290",
+      "title": "关于进一步做好2026-2027学年秋季学期教学督导工作的通知",
+      "url": "https://jwb.cumt.edu.cn/info/1105/8508.htm",
+      "date": "2026-09-05",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T14:28:59.344Z"
     },
     {
       "id": "32c269a626654b1d",
@@ -6050,6 +6462,20 @@
       "firstSeenAt": "2026-10-04T07:10:19.293Z"
     },
     {
+      "id": "8c324990aaa650a0",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "dlut",
+      "title": "历届大连理工大学校级优秀毕业论文（设计）摘要汇编",
+      "url": "https://teach.dlut.edu.cn/qitawenjian/ny.jsp?urltype=news.NewsContentUrl&wbtreeid=1081&wbnewsid=1259",
+      "date": "2025-06-24",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T14:29:06.840Z"
+    },
+    {
       "id": "bcbeea670d9e67a0",
       "sourceId": "jwc-tzgg",
       "sourceName": "教务处·通知公告",
@@ -6151,6 +6577,62 @@
       "alsoIn": [],
       "tier": "digest",
       "firstSeenAt": "2026-11-08T12:03:32.137Z"
+    },
+    {
+      "id": "f592eae12f24c23e",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "dlut",
+      "title": "大连理工大学实习教学工作实施细则",
+      "url": "https://teach.dlut.edu.cn/qitawenjian/ny.jsp?urltype=news.NewsContentUrl&wbtreeid=1081&wbnewsid=7605",
+      "date": "2019-03-19",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T14:29:06.840Z"
+    },
+    {
+      "id": "7074f5f9cf754f51",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "hfuu",
+      "title": "学校全面开展新学期期初教学检查",
+      "url": "https://www.hfuu.edu.cn/jwc/78/41/c7704a161857/page.htm",
+      "date": null,
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T14:29:09.039Z"
+    },
+    {
+      "id": "3f81f1150f65ef13",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "hfuu",
+      "title": "学校召开2025-2026学年第二学期期初教学工作会议",
+      "url": "https://www.hfuu.edu.cn/jwc/5b/af/c7704a154543/page.htm",
+      "date": null,
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T14:29:09.039Z"
+    },
+    {
+      "id": "55f5bd8137ff3b01",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "hfuu",
+      "title": "教务处赴上海调研完全学分制教学改革",
+      "url": "https://www.hfuu.edu.cn/jwc/5a/11/c7704a154129/page.htm",
+      "date": null,
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T14:29:09.039Z"
     },
     {
       "id": "98a97d7e935b72ba",

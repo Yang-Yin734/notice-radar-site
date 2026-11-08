@@ -1,0 +1,105 @@
+{
+ "school": "4132010290",
+ "name": "中国矿业大学",
+ "province": "江苏省",
+ "city": "徐州市",
+ "generatedAt": "2026-11-08T14:29:40.112Z",
+ "total": 4,
+ "bySource": [
+  {
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "count": 4
+  }
+ ],
+ "units": [
+  {
+   "id": "教务",
+   "name": "教务",
+   "sources": [
+    "教务·通知公告"
+   ],
+   "count": 4
+  }
+ ],
+ "sourceCatalog": [
+  {
+   "id": "jwc-tzgg",
+   "name": "教务·通知公告",
+   "url": "https://jwb.cumt.edu.cn/tzgg/zh.htm",
+   "unit": "教务"
+  }
+ ],
+ "sourceChecks": {
+  "jwc-tzgg": {
+   "name": "教务·通知公告",
+   "checkedAt": "2026-11-08T14:28:59.335Z",
+   "lastSuccessAt": "2026-11-08T14:28:59.335Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 16
+  }
+ },
+ "items": [
+  {
+   "id": "e090c8b2032f70c1",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "4132010290",
+   "title": "关于开展2025-2026学年春季学期本科教学档案专项检查工作的通知",
+   "url": "https://jwb.cumt.edu.cn/info/1105/8571.htm",
+   "date": "2026-10-30",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T14:28:59.344Z",
+   "unit": "教务"
+  },
+  {
+   "id": "28ce0fd4aeba0241",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "4132010290",
+   "title": "关于做好2027届本科生毕业设计（论文）工作的通知",
+   "url": "https://jwb.cumt.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1105&wbnewsid=8559",
+   "date": "2026-10-26",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T14:28:59.344Z",
+   "unit": "教务"
+  },
+  {
+   "id": "5c6b34ade953c55e",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "4132010290",
+   "title": "关于开展本科生高水平创新成果替代毕业设计（论文）工作试点的通知",
+   "url": "https://jwb.cumt.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1105&wbnewsid=8546",
+   "date": "2026-10-12",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T14:28:59.344Z",
+   "unit": "教务"
+  },
+  {
+   "id": "bd5e242a2a79e499",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "4132010290",
+   "title": "关于进一步做好2026-2027学年秋季学期教学督导工作的通知",
+   "url": "https://jwb.cumt.edu.cn/info/1105/8508.htm",
+   "date": "2026-09-05",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T14:28:59.344Z",
+   "unit": "教务"
+  }
+ ]
+}

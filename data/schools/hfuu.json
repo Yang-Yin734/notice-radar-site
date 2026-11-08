@@ -1,0 +1,120 @@
+{
+ "school": "hfuu",
+ "name": "合肥大学",
+ "province": "安徽省",
+ "city": "合肥市",
+ "generatedAt": "2026-11-08T14:29:40.112Z",
+ "total": 5,
+ "bySource": [
+  {
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "count": 5
+  }
+ ],
+ "units": [
+  {
+   "id": "教务",
+   "name": "教务",
+   "sources": [
+    "教务·通知公告"
+   ],
+   "count": 5
+  }
+ ],
+ "sourceCatalog": [
+  {
+   "id": "jwc-tzgg",
+   "name": "教务·通知公告",
+   "url": "https://www.hfuu.edu.cn/jwc/",
+   "unit": "教务"
+  }
+ ],
+ "sourceChecks": {
+  "jwc-tzgg": {
+   "name": "教务·通知公告",
+   "checkedAt": "2026-11-08T14:29:09.036Z",
+   "lastSuccessAt": "2026-11-08T14:29:09.036Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 16
+  }
+ },
+ "items": [
+  {
+   "id": "bb5566bfcc1648f0",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "hfuu",
+   "title": "关于2026级新生学籍电子注册信息核对的通知",
+   "url": "https://www.hfuu.edu.cn/jwc/7f/26/c7705a163622/page.htm",
+   "date": "2026-10-29",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T14:29:09.039Z",
+   "unit": "教务"
+  },
+  {
+   "id": "894d9dee45d363b8",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "hfuu",
+   "title": "关于开展2027届预计毕业生图像补采集工作的通知",
+   "url": "https://www.hfuu.edu.cn/jwc/7e/5f/c7705a163423/page.htm",
+   "date": "2026-10-23",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T14:29:09.039Z",
+   "unit": "教务"
+  },
+  {
+   "id": "7074f5f9cf754f51",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "hfuu",
+   "title": "学校全面开展新学期期初教学检查",
+   "url": "https://www.hfuu.edu.cn/jwc/78/41/c7704a161857/page.htm",
+   "date": null,
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T14:29:09.039Z",
+   "unit": "教务"
+  },
+  {
+   "id": "3f81f1150f65ef13",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "hfuu",
+   "title": "学校召开2025-2026学年第二学期期初教学工作会议",
+   "url": "https://www.hfuu.edu.cn/jwc/5b/af/c7704a154543/page.htm",
+   "date": null,
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T14:29:09.039Z",
+   "unit": "教务"
+  },
+  {
+   "id": "55f5bd8137ff3b01",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "hfuu",
+   "title": "教务处赴上海调研完全学分制教学改革",
+   "url": "https://www.hfuu.edu.cn/jwc/5a/11/c7704a154129/page.htm",
+   "date": null,
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T14:29:09.039Z",
+   "unit": "教务"
+  }
+ ]
+}

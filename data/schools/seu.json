@@ -1,0 +1,150 @@
+{
+ "school": "seu",
+ "name": "东南大学",
+ "province": "江苏省",
+ "city": "南京市",
+ "generatedAt": "2026-11-08T14:29:40.112Z",
+ "total": 7,
+ "bySource": [
+  {
+   "sourceId": "notice-list",
+   "sourceName": "教务处·教务信息",
+   "count": 7
+  }
+ ],
+ "units": [
+  {
+   "id": "教务处",
+   "name": "教务处",
+   "sources": [
+    "教务处·教务信息"
+   ],
+   "count": 7
+  }
+ ],
+ "sourceCatalog": [
+  {
+   "id": "notice-list",
+   "name": "教务处·教务信息",
+   "url": "https://jwc.seu.edu.cn/jwxx/list.htm",
+   "unit": "教务处"
+  }
+ ],
+ "sourceChecks": {
+  "notice-list": {
+   "name": "教务处·教务信息",
+   "checkedAt": "2026-11-08T14:29:21.274Z",
+   "lastSuccessAt": "2026-11-08T14:29:21.274Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 15
+  }
+ },
+ "items": [
+  {
+   "id": "d36b5314f9714146",
+   "sourceId": "notice-list",
+   "sourceName": "教务处·教务信息",
+   "school": "seu",
+   "title": "关于2026-2027学年秋季学期高阶外语期末考试安排的通知",
+   "url": "https://jwc.seu.edu.cn/2026/1027/c21678a587732/page.htm",
+   "date": "2026-10-29",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T14:29:21.278Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "83d90a293df89512",
+   "sourceId": "notice-list",
+   "sourceName": "教务处·教务信息",
+   "school": "seu",
+   "title": "关于2026-2027学年秋季学期期中考试安排的通知",
+   "url": "https://jwc.seu.edu.cn/2026/1014/c21678a586035/page.htm",
+   "date": "2026-10-15",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T14:29:21.278Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "3630ae6ead0b655e",
+   "sourceId": "notice-list",
+   "sourceName": "教务处·教务信息",
+   "school": "seu",
+   "title": "2026-2027学年秋季学期推免生选修研究生课程通知",
+   "url": "https://jwc.seu.edu.cn/2026/1008/c21678a585120/page.htm",
+   "date": "2026-10-08",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T14:29:21.278Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "c060a90f68a43f64",
+   "sourceId": "notice-list",
+   "sourceName": "教务处·教务信息",
+   "school": "seu",
+   "title": "2026-2027学年秋季学期课程（含辅修、微专业）退、改、补选及重修（含及格重修）退、改、补报名通知",
+   "url": "https://jwc.seu.edu.cn/2026/0916/c21678a583273/page.htm",
+   "date": "2026-09-16",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T14:29:21.278Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "9dacb2edba91e5d4",
+   "sourceId": "notice-list",
+   "sourceName": "教务处·教务信息",
+   "school": "seu",
+   "title": "关于2026年下半年全国大学英语四、六级考试报名的通知",
+   "url": "https://jwc.seu.edu.cn/2026/0911/c21678a582821/page.htm",
+   "date": "2026-09-11",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T14:29:21.278Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "fed439fc91ce45e1",
+   "sourceId": "notice-list",
+   "sourceName": "教务处·教务信息",
+   "school": "seu",
+   "title": "关于进行2026年9月全国计算机等级考试模拟考试的通知",
+   "url": "https://jwc.seu.edu.cn/2026/0910/c21678a582671/page.htm",
+   "date": "2026-09-11",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T14:29:21.278Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "9fef405d528f8a33",
+   "sourceId": "notice-list",
+   "sourceName": "教务处·教务信息",
+   "school": "seu",
+   "title": "2026级新生二次选拔综合成绩公示",
+   "url": "https://jwc.seu.edu.cn/2026/0826/c21678a580430/page.htm",
+   "date": "2026-09-05",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T14:29:21.278Z",
+   "unit": "教务处"
+  }
+ ]
+}

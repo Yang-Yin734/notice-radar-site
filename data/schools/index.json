@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-08T12:09:08.214Z",
+ "generatedAt": "2026-11-08T14:29:40.112Z",
  "source": "教育部《全国高等学校名单》（config/schools/directory.tsv，见 config/schools/README.md）",
  "note": "status=active 表示真抓过、能出通知；pending 只是目录条目，选中会提示尚未接入。接入方法见 docs/add-your-school.md",
  "counts": {
   "total": 3167,
-  "active": 27,
-  "pending": 3140,
+  "active": 33,
+  "pending": 3134,
   "featured": 196,
   "doubleFirst": 144,
   "bachelor": 1365,
@@ -146,7 +146,16 @@
     "双一流",
     "教育部直属"
    ],
-   "status": "pending"
+   "status": "active",
+   "file": "ustb.json",
+   "units": [
+    {
+     "id": "教务处",
+     "name": "教务处",
+     "count": 7
+    }
+   ],
+   "total": 7
   },
   {
    "id": "4111010009",
@@ -3824,7 +3833,16 @@
     "双一流",
     "教育部直属"
    ],
-   "status": "pending"
+   "status": "active",
+   "file": "dlut.json",
+   "units": [
+    {
+     "id": "教务",
+     "name": "教务",
+     "count": 4
+    }
+   ],
+   "total": 4
   },
   {
    "id": "4121010142",
@@ -5569,7 +5587,16 @@
    "tags": [
     "双一流"
    ],
-   "status": "pending"
+   "status": "active",
+   "file": "neau.json",
+   "units": [
+    {
+     "id": "教务",
+     "name": "教务",
+     "count": 7
+    }
+   ],
+   "total": 7
   },
   {
    "id": "hrbeu2",
@@ -6921,7 +6948,16 @@
     "双一流",
     "教育部直属"
    ],
-   "status": "pending"
+   "status": "active",
+   "file": "seu.json",
+   "units": [
+    {
+     "id": "教务处",
+     "name": "教务处",
+     "count": 7
+    }
+   ],
+   "total": 7
   },
   {
    "id": "nuaa",
@@ -6972,7 +7008,16 @@
     "双一流",
     "教育部直属"
    ],
-   "status": "pending"
+   "status": "active",
+   "file": "4132010290.json",
+   "units": [
+    {
+     "id": "教务",
+     "name": "教务",
+     "count": 4
+    }
+   ],
+   "total": 4
   },
   {
    "id": "njtech",
@@ -9839,7 +9884,16 @@
    "pinyin": "hefeixueyuan",
    "abbr": "hfxy",
    "featured": true,
-   "status": "pending"
+   "status": "active",
+   "file": "hfuu.json",
+   "units": [
+    {
+     "id": "教务",
+     "name": "教务",
+     "count": 5
+    }
+   ],
+   "total": 5
   },
   {
    "id": "4134011305",
