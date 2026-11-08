@@ -3,7 +3,7 @@
  "name": "南京农业大学",
  "province": "江苏省",
  "city": "南京市",
- "generatedAt": "2026-11-08T07:29:40.742Z",
+ "generatedAt": "2026-11-08T11:03:07.322Z",
  "total": 19,
  "bySource": [
   {
@@ -22,6 +22,15 @@
    "count": 19
   }
  ],
+ "sourceCatalog": [
+  {
+   "id": "aao-tzgg",
+   "name": "教务处·通知公告",
+   "url": "https://aao.njau.edu.cn/tzgg.htm",
+   "unit": "教务处"
+  }
+ ],
+ "sourceChecks": {},
  "items": [
   {
    "id": "fc8cd49f0c95013b",

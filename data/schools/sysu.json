@@ -3,7 +3,7 @@
  "name": "中山大学",
  "province": "广东省",
  "city": "广州市",
- "generatedAt": "2026-11-08T07:29:40.742Z",
+ "generatedAt": "2026-11-08T11:03:07.322Z",
  "total": 3,
  "bySource": [
   {
@@ -22,6 +22,15 @@
    "count": 3
   }
  ],
+ "sourceCatalog": [
+  {
+   "id": "jwb-tzgg",
+   "name": "教务部·通知通告",
+   "url": "https://jwb.sysu.edu.cn/taxonomy/term/105",
+   "unit": "教务部"
+  }
+ ],
+ "sourceChecks": {},
  "items": [
   {
    "id": "d76a3f8ed8a5e8c7",

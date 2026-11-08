@@ -3,7 +3,7 @@
  "name": "华东师范大学",
  "province": "上海市",
  "city": "",
- "generatedAt": "2026-11-08T07:29:40.742Z",
+ "generatedAt": "2026-11-08T11:03:07.322Z",
  "total": 15,
  "bySource": [
   {
@@ -22,6 +22,24 @@
    "count": 15
   }
  ],
+ "sourceCatalog": [
+  {
+   "id": "bksy-tzgg",
+   "name": "本科生院·通知公告",
+   "url": "https://bksy.ecnu.edu.cn/tzggwwxsgg/list.htm",
+   "unit": "本科生院"
+  }
+ ],
+ "sourceChecks": {
+  "bksy-tzgg": {
+   "name": "本科生院·通知公告",
+   "checkedAt": "2026-11-08T11:02:40.201Z",
+   "lastSuccessAt": null,
+   "outcome": "network",
+   "status": null,
+   "items": 0
+  }
+ },
  "items": [
   {
    "id": "1166eba1e42cc2d4",

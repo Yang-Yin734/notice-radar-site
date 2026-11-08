@@ -3,7 +3,7 @@
  "name": "厦门大学",
  "province": "福建省",
  "city": "厦门市",
- "generatedAt": "2026-11-08T07:29:40.742Z",
+ "generatedAt": "2026-11-08T11:03:07.322Z",
  "total": 15,
  "bySource": [
   {
@@ -22,6 +22,15 @@
    "count": 15
   }
  ],
+ "sourceCatalog": [
+  {
+   "id": "jwc-tzgg",
+   "name": "教务处·通知公告",
+   "url": "https://jwc.xmu.edu.cn/tzgg.htm",
+   "unit": "教务处"
+  }
+ ],
+ "sourceChecks": {},
  "items": [
   {
    "id": "05a76f0a5628cbf1",

@@ -3,7 +3,7 @@
  "name": "北京师范大学",
  "province": "北京市",
  "city": "",
- "generatedAt": "2026-11-08T07:29:40.742Z",
+ "generatedAt": "2026-11-08T11:03:07.322Z",
  "total": 30,
  "bySource": [
   {
@@ -22,6 +22,15 @@
    "count": 30
   }
  ],
+ "sourceCatalog": [
+  {
+   "id": "jwb-tzgg",
+   "name": "教务部·通知公告",
+   "url": "https://jwb.bnu.edu.cn/tzgg/index.htm",
+   "unit": "教务部"
+  }
+ ],
+ "sourceChecks": {},
  "items": [
   {
    "id": "9e5799c736079bf6",

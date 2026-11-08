@@ -3,7 +3,7 @@
  "name": "湖南大学",
  "province": "湖南省",
  "city": "长沙市",
- "generatedAt": "2026-11-08T07:29:40.742Z",
+ "generatedAt": "2026-11-08T11:03:07.322Z",
  "total": 12,
  "bySource": [
   {
@@ -22,6 +22,15 @@
    "count": 12
   }
  ],
+ "sourceCatalog": [
+  {
+   "id": "jwc-tzgg",
+   "name": "教务处·通知公告",
+   "url": "https://jwc.hnu.edu.cn/tzggzhlist.jsp?urltype=tree.TreeTempUrl&wbtreeid=1020",
+   "unit": "教务处"
+  }
+ ],
+ "sourceChecks": {},
  "items": [
   {
    "id": "c9ec8b9d27b7e382",

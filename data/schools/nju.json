@@ -3,7 +3,7 @@
  "name": "南京大学",
  "province": "江苏省",
  "city": "南京市",
- "generatedAt": "2026-11-08T07:29:40.742Z",
+ "generatedAt": "2026-11-08T11:03:07.322Z",
  "total": 15,
  "bySource": [
   {
@@ -22,6 +22,15 @@
    "count": 15
   }
  ],
+ "sourceCatalog": [
+  {
+   "id": "jw-ggtz",
+   "name": "本科生院·公告通知",
+   "url": "https://jw.nju.edu.cn/ggtz/list.htm",
+   "unit": "本科生院"
+  }
+ ],
+ "sourceChecks": {},
  "items": [
   {
    "id": "6c35331a3eb4201b",
