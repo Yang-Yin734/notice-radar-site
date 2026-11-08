@@ -1,0 +1,120 @@
+{
+ "school": "jnu",
+ "name": "暨南大学",
+ "province": "广东省",
+ "city": "广州市",
+ "generatedAt": "2026-11-08T12:04:20.872Z",
+ "total": 5,
+ "bySource": [
+  {
+   "sourceId": "notice-list",
+   "sourceName": "官网·学校公告",
+   "count": 5
+  }
+ ],
+ "units": [
+  {
+   "id": "官网",
+   "name": "官网",
+   "sources": [
+    "官网·学校公告"
+   ],
+   "count": 5
+  }
+ ],
+ "sourceCatalog": [
+  {
+   "id": "notice-list",
+   "name": "官网·学校公告",
+   "url": "https://www.jnu.edu.cn/xxgg/list.htm",
+   "unit": "官网"
+  }
+ ],
+ "sourceChecks": {
+  "notice-list": {
+   "name": "官网·学校公告",
+   "checkedAt": "2026-11-08T12:03:32.130Z",
+   "lastSuccessAt": "2026-11-08T12:03:32.130Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 13
+  }
+ },
+ "items": [
+  {
+   "id": "f2717da2b0e51f80",
+   "sourceId": "notice-list",
+   "sourceName": "官网·学校公告",
+   "school": "jnu",
+   "title": "暨南大学120周年校庆公告(第二号)",
+   "url": "https://www.jnu.edu.cn/2026/1102/c2621a865873/page.htm",
+   "date": "2026-11-02",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T12:03:32.137Z",
+   "unit": "官网"
+  },
+  {
+   "id": "685eff53c9c82822",
+   "sourceId": "notice-list",
+   "sourceName": "官网·学校公告",
+   "school": "jnu",
+   "title": "暨南大学120周年校庆公告（第一号）",
+   "url": "https://www.jnu.edu.cn/2025/1124/c2621a846521/page.htm",
+   "date": "2025-11-24",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T12:03:32.137Z",
+   "unit": "官网"
+  },
+  {
+   "id": "b7182c7623d8b3ad",
+   "sourceId": "notice-list",
+   "sourceName": "官网·学校公告",
+   "school": "jnu",
+   "title": "关于暨南大学省级“教学质量与教学改革工程”建设项目2024年度校内验收结果的公示",
+   "url": "https://jwc.jnu.edu.cn/2024/1230/c8320a828874/page.htm",
+   "date": "2024-12-30",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T12:03:32.137Z",
+   "unit": "官网"
+  },
+  {
+   "id": "562c2c6e7cb42295",
+   "sourceId": "notice-list",
+   "sourceName": "官网·学校公告",
+   "school": "jnu",
+   "title": "暨南大学关于2024年新增学士学位授予专业的公示",
+   "url": "https://jwc.jnu.edu.cn/2024/0328/c8320a809466/page.htm",
+   "date": "2024-03-28",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T12:03:32.137Z",
+   "unit": "官网"
+  },
+  {
+   "id": "153948915c6ed5c4",
+   "sourceId": "notice-list",
+   "sourceName": "官网·学校公告",
+   "school": "jnu",
+   "title": "关于暨南大学省级“教学质量与教学改革工程”建设项目2023年度校内验收结果的公示",
+   "url": "https://jwc.jnu.edu.cn/2024/0305/c8320a807761/page.htm",
+   "date": "2024-03-05",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T12:03:32.137Z",
+   "unit": "官网"
+  }
+ ]
+}

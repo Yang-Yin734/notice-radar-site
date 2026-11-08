@@ -1,0 +1,167 @@
+{
+ "school": "pku",
+ "name": "北京大学",
+ "province": "北京市",
+ "city": "",
+ "generatedAt": "2026-11-08T12:04:20.872Z",
+ "total": 8,
+ "bySource": [
+  {
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "count": 8
+  }
+ ],
+ "units": [
+  {
+   "id": "教务",
+   "name": "教务",
+   "sources": [
+    "教务·通知公告"
+   ],
+   "count": 8
+  }
+ ],
+ "sourceCatalog": [
+  {
+   "id": "jwc-tzgg",
+   "name": "教务·通知公告",
+   "url": "https://dean.pku.edu.cn/web/notice.php",
+   "unit": "教务"
+  }
+ ],
+ "sourceChecks": {
+  "jwc-tzgg": {
+   "name": "教务·通知公告",
+   "checkedAt": "2026-11-08T12:03:39.076Z",
+   "lastSuccessAt": "2026-11-08T12:03:39.076Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 15
+  }
+ },
+ "items": [
+  {
+   "id": "dfc5bc34e3d50470",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "pku",
+   "title": "2027届本科预毕业生学历学位照片拍摄通知",
+   "url": "https://dean.pku.edu.cn/web/notice_details.php?id=773",
+   "date": "2026-11-06",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T12:03:39.079Z",
+   "unit": "教务"
+  },
+  {
+   "id": "12707882ea7eaa68",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "pku",
+   "title": "关于2026—2027学年春季学期排课的通知",
+   "url": "https://dean.pku.edu.cn/web/notice_details.php?id=771",
+   "date": "2026-10-21",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T12:03:39.079Z",
+   "unit": "教务"
+  },
+  {
+   "id": "a7a9cd001a3bbf16",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "pku",
+   "title": "2026-2027学年秋季学期本科生中期退课通知",
+   "url": "https://dean.pku.edu.cn/web/notice_details.php?id=770",
+   "date": "2026-10-21",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "deadline": "2026-11-06",
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T12:03:39.079Z",
+   "unit": "教务"
+  },
+  {
+   "id": "f4e1da4804f790c1",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "pku",
+   "title": "关于校本部2026级本科新生填写学籍表的通知",
+   "url": "https://dean.pku.edu.cn/web/notice_details.php?id=768",
+   "date": "2026-10-13",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T12:03:39.079Z",
+   "unit": "教务"
+  },
+  {
+   "id": "f8cc08f327a0e8ef",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "pku",
+   "title": "26-27学年秋季学期双学位/双专业及结业生课程学费缴纳的通知",
+   "url": "https://dean.pku.edu.cn/web/notice_details.php?id=765",
+   "date": "2026-09-21",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T12:03:39.079Z",
+   "unit": "教务"
+  },
+  {
+   "id": "42a45e7179d1695b",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "pku",
+   "title": "2026年下半年全国大学英语四、六级考试报名通知",
+   "url": "https://dean.pku.edu.cn/web/notice_details.php?id=764",
+   "date": "2026-09-11",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T12:03:39.079Z",
+   "unit": "教务"
+  },
+  {
+   "id": "847e9d2e8cd047f1",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "pku",
+   "title": "2026年秋季学期“国家安全理论与实践”课程线下讲座报名通知",
+   "url": "https://dean.pku.edu.cn/web/notice_details.php?id=763",
+   "date": "2026-09-10",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-08T12:03:39.079Z",
+   "unit": "教务"
+  },
+  {
+   "id": "caf546085af7a793",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "pku",
+   "title": "关于2027届本科毕业生推免资格申请的通知和推免期间办理英文成绩单办法调整的说明",
+   "url": "https://dean.pku.edu.cn/web/notice_details.php?id=759",
+   "date": "2026-09-01",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "deadline": "2026-09-07",
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-08T12:03:39.079Z",
+   "unit": "教务"
+  }
+ ]
+}

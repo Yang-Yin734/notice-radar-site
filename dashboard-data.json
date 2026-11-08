@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-08T12:00:40.279Z",
-  "total": 437,
+  "generatedAt": "2026-11-08T12:04:20.872Z",
+  "total": 450,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
-      "sourceName": "教务部·通知公告",
-      "count": 101
+      "sourceName": "教务·通知公告",
+      "count": 109
     },
     {
       "sourceId": "jwb-tzgg",
@@ -98,6 +98,11 @@
       "count": 6
     },
     {
+      "sourceId": "notice-list",
+      "sourceName": "官网·学校公告",
+      "count": 5
+    },
+    {
       "sourceId": "oaa-tzgg",
       "sourceName": "本科生院·通知公告",
       "count": 4
@@ -117,6 +122,20 @@
       "alsoIn": [],
       "tier": "digest",
       "firstSeenAt": "2026-11-08T11:03:06.852Z"
+    },
+    {
+      "id": "dfc5bc34e3d50470",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "pku",
+      "title": "2027届本科预毕业生学历学位照片拍摄通知",
+      "url": "https://dean.pku.edu.cn/web/notice_details.php?id=773",
+      "date": "2026-11-06",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T12:03:39.079Z"
     },
     {
       "id": "f22d913e70577fe5",
@@ -469,6 +488,20 @@
       "alsoIn": [],
       "tier": "digest",
       "firstSeenAt": "2026-11-03T03:28:06.138Z"
+    },
+    {
+      "id": "f2717da2b0e51f80",
+      "sourceId": "notice-list",
+      "sourceName": "官网·学校公告",
+      "school": "jnu",
+      "title": "暨南大学120周年校庆公告(第二号)",
+      "url": "https://www.jnu.edu.cn/2026/1102/c2621a865873/page.htm",
+      "date": "2026-11-02",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T12:03:32.137Z"
     },
     {
       "id": "5f1f6e31d73e5ffe",
@@ -1373,6 +1406,35 @@
       "firstSeenAt": "2026-10-22T03:10:31.037Z"
     },
     {
+      "id": "12707882ea7eaa68",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "pku",
+      "title": "关于2026—2027学年春季学期排课的通知",
+      "url": "https://dean.pku.edu.cn/web/notice_details.php?id=771",
+      "date": "2026-10-21",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T12:03:39.079Z"
+    },
+    {
+      "id": "a7a9cd001a3bbf16",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "pku",
+      "title": "2026-2027学年秋季学期本科生中期退课通知",
+      "url": "https://dean.pku.edu.cn/web/notice_details.php?id=770",
+      "date": "2026-10-21",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "deadline": "2026-11-06",
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T12:03:39.079Z"
+    },
+    {
       "id": "c52affea96bd0f7b",
       "sourceId": "news",
       "sourceName": "新闻网·综合",
@@ -2009,6 +2071,20 @@
         "新闻网·学术"
       ],
       "firstSeenAt": "2026-10-14T01:56:23.438Z"
+    },
+    {
+      "id": "f4e1da4804f790c1",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "pku",
+      "title": "关于校本部2026级本科新生填写学籍表的通知",
+      "url": "https://dean.pku.edu.cn/web/notice_details.php?id=768",
+      "date": "2026-10-13",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T12:03:39.079Z"
     },
     {
       "id": "df0badd0a7514540",
@@ -3205,6 +3281,20 @@
       "firstSeenAt": "2026-09-28T12:00:56.521Z"
     },
     {
+      "id": "f8cc08f327a0e8ef",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "pku",
+      "title": "26-27学年秋季学期双学位/双专业及结业生课程学费缴纳的通知",
+      "url": "https://dean.pku.edu.cn/web/notice_details.php?id=765",
+      "date": "2026-09-21",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T12:03:39.079Z"
+    },
+    {
       "id": "45f93da16fe69007",
       "sourceId": "bksy-tzgg",
       "sourceName": "本科生院·通知公告",
@@ -3865,6 +3955,20 @@
       "firstSeenAt": "2026-10-04T06:59:32.824Z"
     },
     {
+      "id": "42a45e7179d1695b",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "pku",
+      "title": "2026年下半年全国大学英语四、六级考试报名通知",
+      "url": "https://dean.pku.edu.cn/web/notice_details.php?id=764",
+      "date": "2026-09-11",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T12:03:39.079Z"
+    },
+    {
       "id": "0e95e89e3f871cbd",
       "sourceId": "gs-gg",
       "sourceName": "研究生院·公告",
@@ -3913,6 +4017,20 @@
       "tag": null,
       "alsoIn": [],
       "firstSeenAt": "2026-10-04T06:43:29.510Z"
+    },
+    {
+      "id": "847e9d2e8cd047f1",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "pku",
+      "title": "2026年秋季学期“国家安全理论与实践”课程线下讲座报名通知",
+      "url": "https://dean.pku.edu.cn/web/notice_details.php?id=763",
+      "date": "2026-09-10",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T12:03:39.079Z"
     },
     {
       "id": "93a90550ebebe3bb",
@@ -4260,6 +4378,21 @@
       "alsoIn": [],
       "firstSeenAt": "2026-09-28T12:00:56.521Z",
       "deadline": "2026-09-05"
+    },
+    {
+      "id": "caf546085af7a793",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "pku",
+      "title": "关于2027届本科毕业生推免资格申请的通知和推免期间办理英文成绩单办法调整的说明",
+      "url": "https://dean.pku.edu.cn/web/notice_details.php?id=759",
+      "date": "2026-09-01",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "deadline": "2026-09-07",
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T12:03:39.079Z"
     },
     {
       "id": "04f36dd0e0e6cff5",
@@ -5463,6 +5596,20 @@
       "firstSeenAt": "2026-10-21T10:57:47.397Z"
     },
     {
+      "id": "685eff53c9c82822",
+      "sourceId": "notice-list",
+      "sourceName": "官网·学校公告",
+      "school": "jnu",
+      "title": "暨南大学120周年校庆公告（第一号）",
+      "url": "https://www.jnu.edu.cn/2025/1124/c2621a846521/page.htm",
+      "date": "2025-11-24",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T12:03:32.137Z"
+    },
+    {
       "id": "afe99ba6ecd725d4",
       "sourceId": "gs-xw",
       "sourceName": "研究生院·新闻",
@@ -5642,6 +5789,20 @@
       "firstSeenAt": "2026-10-04T07:10:19.293Z"
     },
     {
+      "id": "b7182c7623d8b3ad",
+      "sourceId": "notice-list",
+      "sourceName": "官网·学校公告",
+      "school": "jnu",
+      "title": "关于暨南大学省级“教学质量与教学改革工程”建设项目2024年度校内验收结果的公示",
+      "url": "https://jwc.jnu.edu.cn/2024/1230/c8320a828874/page.htm",
+      "date": "2024-12-30",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T12:03:32.137Z"
+    },
+    {
       "id": "5fc43373c222abbd",
       "sourceId": "jwc-important",
       "sourceName": "教务处·重要公告",
@@ -5689,6 +5850,34 @@
       "tag": "学生事务公告",
       "alsoIn": [],
       "firstSeenAt": "2026-09-28T12:00:56.521Z"
+    },
+    {
+      "id": "562c2c6e7cb42295",
+      "sourceId": "notice-list",
+      "sourceName": "官网·学校公告",
+      "school": "jnu",
+      "title": "暨南大学关于2024年新增学士学位授予专业的公示",
+      "url": "https://jwc.jnu.edu.cn/2024/0328/c8320a809466/page.htm",
+      "date": "2024-03-28",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-08T12:03:32.137Z"
+    },
+    {
+      "id": "153948915c6ed5c4",
+      "sourceId": "notice-list",
+      "sourceName": "官网·学校公告",
+      "school": "jnu",
+      "title": "关于暨南大学省级“教学质量与教学改革工程”建设项目2023年度校内验收结果的公示",
+      "url": "https://jwc.jnu.edu.cn/2024/0305/c8320a807761/page.htm",
+      "date": "2024-03-05",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-08T12:03:32.137Z"
     }
   ]
 }
