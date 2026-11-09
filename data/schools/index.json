@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-09T08:57:49.500Z",
+ "generatedAt": "2026-11-09T09:42:23.465Z",
  "source": "教育部《全国高等学校名单》（config/schools/directory.tsv，见 config/schools/README.md）",
  "note": "status=active 表示真抓过、能出通知；pending 只是目录条目，选中会提示尚未接入。接入方法见 docs/add-your-school.md",
  "counts": {
   "total": 3167,
-  "active": 45,
-  "pending": 3122,
+  "active": 46,
+  "pending": 3121,
   "featured": 196,
   "doubleFirst": 144,
   "bachelor": 1365,
@@ -5556,7 +5556,16 @@
    "pinyin": "heilongjiangdaxue",
    "abbr": "hljdx",
    "featured": true,
-   "status": "pending"
+   "status": "active",
+   "file": "hlju.json",
+   "units": [
+    {
+     "id": "教务",
+     "name": "教务",
+     "count": 14
+    }
+   ],
+   "total": 14
   },
   {
    "id": "hit",

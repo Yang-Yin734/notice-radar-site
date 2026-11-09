@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-09T09:10:44.774Z",
-  "total": 602,
+  "generatedAt": "2026-11-09T09:42:23.465Z",
+  "total": 616,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
       "sourceName": "教务·通知公告",
-      "count": 233
+      "count": 247
     },
     {
       "sourceId": "jwb-tzgg",
@@ -1787,6 +1787,20 @@
       "firstSeenAt": "2026-10-23T00:49:47.624Z"
     },
     {
+      "id": "f7f1a303d952f0ad",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "hlju",
+      "title": "关于10月22日中午本科教学管理系统及“黑大教务”微信公众号暂停服务的通知",
+      "url": "https://jwc.hlju.edu.cn/info/1059/3190.htm",
+      "date": "2026-10-22",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-09T09:41:09.425Z"
+    },
+    {
       "id": "5ec249981907bb25",
       "sourceId": "jwc-tzgg",
       "sourceName": "教务处·通知公告",
@@ -2841,6 +2855,20 @@
       "tag": null,
       "alsoIn": [],
       "firstSeenAt": "2026-10-13T01:01:50.608Z"
+    },
+    {
+      "id": "970e531c0a514a90",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "hlju",
+      "title": "关于启动2026-2027学年第二学期教学任务安排的通知",
+      "url": "https://jwc.hlju.edu.cn/info/1059/3171.htm",
+      "date": "2026-10-12",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-09T09:41:09.425Z"
     },
     {
       "id": "fb0be0ee639a3673",
@@ -5227,6 +5255,20 @@
       "firstSeenAt": "2026-10-04T06:43:29.510Z"
     },
     {
+      "id": "3e5d7c1899b845c5",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "hlju",
+      "title": "关于面向2026级新生开设外语零起点教学班的通知",
+      "url": "https://jwc.hlju.edu.cn/info/1059/3079.htm",
+      "date": "2026-09-10",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-09T09:41:09.425Z"
+    },
+    {
       "id": "f1717b44f2c5084f",
       "sourceId": "jwc-tzgg",
       "sourceName": "教务·通知公告",
@@ -5730,6 +5772,20 @@
       "deadline": "2026-09-05"
     },
     {
+      "id": "1ed16a73aafc6f77",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "hlju",
+      "title": "关于面向全校任课教师征集教室教学设备使用问题的通知",
+      "url": "https://jwc.hlju.edu.cn/info/1059/3063.htm",
+      "date": "2026-09-01",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-09T09:41:09.425Z"
+    },
+    {
       "id": "caf546085af7a793",
       "sourceId": "jwc-tzgg",
       "sourceName": "教务·通知公告",
@@ -5871,6 +5927,48 @@
       "tag": null,
       "alsoIn": [],
       "firstSeenAt": "2026-10-04T07:10:30.627Z"
+    },
+    {
+      "id": "a2ba34f80c52f802",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "hlju",
+      "title": "关于发布2026-2027学年秋季学期开学初本科教学工作安排的通知",
+      "url": "https://jwc.hlju.edu.cn/info/1059/3015.htm",
+      "date": "2026-08-21",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-09T09:41:09.425Z"
+    },
+    {
+      "id": "b0e797887a3e6a77",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "hlju",
+      "title": "关于公布2026-2027学年第一学期初选课工作安排的通知",
+      "url": "https://jwc.hlju.edu.cn/info/1059/3012.htm",
+      "date": "2026-08-19",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-09T09:41:09.425Z"
+    },
+    {
+      "id": "4be63b480aff9989",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "hlju",
+      "title": "关于召开新学期教学院长工作会议的通知",
+      "url": "https://jwc.hlju.edu.cn/info/1059/3011.htm",
+      "date": "2026-08-18",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-09T09:41:09.425Z"
     },
     {
       "id": "71539938e16442d4",
@@ -6189,6 +6287,34 @@
       "deadline": "2026-07-13"
     },
     {
+      "id": "6f3d5346169cb08f",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "hlju",
+      "title": "关于认定本科双语教学课程的通知",
+      "url": "https://jwc.hlju.edu.cn/info/1059/2921.htm",
+      "date": "2026-06-30",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-09T09:41:09.425Z"
+    },
+    {
+      "id": "18210b8da1857192",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "hlju",
+      "title": "关于在多媒体教室及机房测试和安装教学软件的通知",
+      "url": "https://jwc.hlju.edu.cn/info/1059/2920.htm",
+      "date": "2026-06-30",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-09T09:41:09.425Z"
+    },
+    {
       "id": "46c8f01c2a54f807",
       "sourceId": "gs-gg",
       "sourceName": "研究生院·公告",
@@ -6200,6 +6326,20 @@
       "category": "研究生",
       "alsoIn": [],
       "firstSeenAt": "2026-10-21T10:57:47.397Z"
+    },
+    {
+      "id": "dcab7d2812beff03",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "hlju",
+      "title": "关于2026-2027学年第一学期选课在正选阶段进行开课审核和监控课程容量的通知",
+      "url": "https://jwc.hlju.edu.cn/info/1059/2879.htm",
+      "date": "2026-06-26",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-09T09:41:09.425Z"
     },
     {
       "id": "8c1c73c893eb7771",
@@ -7757,6 +7897,62 @@
       "alsoIn": [],
       "tier": "digest",
       "firstSeenAt": "2026-11-08T14:29:06.840Z"
+    },
+    {
+      "id": "444d08b515dfbe8b",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "hlju",
+      "title": "教学建设",
+      "url": "https://jwc.hlju.edu.cn/jxjs/kcjs.htm",
+      "date": null,
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-09T09:41:09.425Z"
+    },
+    {
+      "id": "hlju:851cf5665fb9bbfc",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "hlju",
+      "title": "实践教学",
+      "url": "https://jwc.hlju.edu.cn/sjjx/sxsx.htm",
+      "date": null,
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-09T09:41:09.425Z"
+    },
+    {
+      "id": "7386562255272852",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "hlju",
+      "title": "考试管理",
+      "url": "https://jwc.hlju.edu.cn/jwgl/ksgl.htm",
+      "date": null,
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-09T09:41:09.425Z"
+    },
+    {
+      "id": "d4aa609693d4af28",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "hlju",
+      "title": "成绩管理",
+      "url": "https://jwc.hlju.edu.cn/jwgl/cjgl.htm",
+      "date": null,
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-09T09:41:09.425Z"
     },
     {
       "id": "335636c3f2ff16c3",

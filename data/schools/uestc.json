@@ -3,7 +3,7 @@
  "name": "电子科技大学",
  "province": "四川省",
  "city": "成都市",
- "generatedAt": "2026-11-09T09:10:44.774Z",
+ "generatedAt": "2026-11-09T09:42:23.465Z",
  "total": 95,
  "bySource": [
   {
@@ -131,31 +131,31 @@
  "sourceChecks": {
   "jwc-important": {
    "name": "教务处·重要公告",
-   "checkedAt": "2026-11-09T09:09:00.558Z",
-   "lastSuccessAt": "2026-11-09T08:57:31.550Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-09T09:40:29.623Z",
+   "lastSuccessAt": "2026-11-09T09:40:29.623Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 15
   },
   "jwc-student": {
    "name": "教务处·学生事务公告",
-   "checkedAt": "2026-11-09T09:09:00.558Z",
-   "lastSuccessAt": "2026-11-09T08:57:38.979Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-09T09:40:31.118Z",
+   "lastSuccessAt": "2026-11-09T09:40:31.118Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 15
   },
   "news-notice": {
    "name": "新闻网·公告",
-   "checkedAt": "2026-11-09T09:09:00.558Z",
-   "lastSuccessAt": "2026-11-09T08:57:31.550Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-09T09:40:29.623Z",
+   "lastSuccessAt": "2026-11-09T09:40:29.623Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 4
   },
   "news-academic": {
    "name": "新闻网·学术",
-   "checkedAt": "2026-11-09T09:09:00.558Z",
+   "checkedAt": "2026-11-09T09:40:36.754Z",
    "lastSuccessAt": "2026-11-09T08:57:31.550Z",
    "outcome": "network",
    "status": null,
@@ -163,11 +163,11 @@
   },
   "gr-notice": {
    "name": "研究生院·通知",
-   "checkedAt": "2026-11-09T09:09:00.558Z",
-   "lastSuccessAt": "2026-11-09T08:57:31.550Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-09T09:40:29.623Z",
+   "lastSuccessAt": "2026-11-09T09:40:29.623Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 20
   },
   "math-jwgg": {
    "name": "数学科学学院·教务公告",
