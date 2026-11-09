@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-09T08:49:23.355Z",
-  "total": 600,
+  "generatedAt": "2026-11-09T08:57:49.500Z",
+  "total": 602,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
       "sourceName": "教务·通知公告",
-      "count": 232
+      "count": 233
     },
     {
       "sourceId": "jwb-tzgg",
@@ -95,7 +95,7 @@
     {
       "sourceId": "jwc-important",
       "sourceName": "教务处·重要公告",
-      "count": 10
+      "count": 11
     },
     {
       "sourceId": "jwc-tztg",
@@ -114,6 +114,34 @@
     }
   ],
   "items": [
+    {
+      "id": "b044ca3f9278839e",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "shu",
+      "title": "关于2027届毕业生游泳测试指导班开班的通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/322784.htm",
+      "date": "2026-11-09",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-09T08:57:45.497Z"
+    },
+    {
+      "id": "3e72fa4dc7e2d545",
+      "sourceId": "jwc-important",
+      "sourceName": "教务处·重要公告",
+      "school": "uestc",
+      "title": "关于2026年秋季电子科技大学学生科技创新基地-电子设计竞赛校内集训队招新通知",
+      "url": "https://www.jwc.uestc.edu.cn/info/1127/24353.htm",
+      "date": "2026-11-09",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-09T08:57:31.556Z"
+    },
     {
       "id": "21895c04009bccde",
       "sourceId": "jwc-jxtz",

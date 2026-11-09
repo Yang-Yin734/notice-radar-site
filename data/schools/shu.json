@@ -3,13 +3,13 @@
  "name": "上海大学",
  "province": "上海市",
  "city": "",
- "generatedAt": "2026-11-09T08:49:23.355Z",
- "total": 3,
+ "generatedAt": "2026-11-09T08:57:49.500Z",
+ "total": 4,
  "bySource": [
   {
    "sourceId": "jwc-tzgg",
    "sourceName": "教务·通知公告",
-   "count": 3
+   "count": 4
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务·通知公告"
    ],
-   "count": 3
+   "count": 4
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,29 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务·通知公告",
-   "checkedAt": "2026-11-09T08:28:44.528Z",
-   "lastSuccessAt": "2026-11-08T19:00:20.202Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-09T08:57:45.494Z",
+   "lastSuccessAt": "2026-11-09T08:57:45.494Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 10
   }
  },
  "items": [
+  {
+   "id": "b044ca3f9278839e",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "shu",
+   "title": "关于2027届毕业生游泳测试指导班开班的通知",
+   "url": "https://bksy.shu.edu.cn/info/1015/322784.htm",
+   "date": "2026-11-09",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-09T08:57:45.497Z",
+   "unit": "教务"
+  },
   {
    "id": "8063cc207fef9076",
    "sourceId": "jwc-tzgg",
