@@ -1,0 +1,256 @@
+{
+ "school": "ynu",
+ "name": "云南大学",
+ "province": "云南省",
+ "city": "昆明市",
+ "generatedAt": "2026-11-09T20:13:27.582Z",
+ "total": 14,
+ "bySource": [
+  {
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "count": 14
+  }
+ ],
+ "units": [
+  {
+   "id": "教务",
+   "name": "教务",
+   "sources": [
+    "教务·通知公告"
+   ],
+   "count": 14
+  }
+ ],
+ "sourceCatalog": [
+  {
+   "id": "jwc-tzgg",
+   "name": "教务·通知公告",
+   "url": "https://jwc.ynu.edu.cn/",
+   "unit": "教务"
+  }
+ ],
+ "sourceChecks": {
+  "jwc-tzgg": {
+   "name": "教务·通知公告",
+   "checkedAt": "2026-11-09T20:13:20.204Z",
+   "lastSuccessAt": "2026-11-09T14:17:44.705Z",
+   "outcome": "network",
+   "status": null,
+   "items": 0
+  }
+ },
+ "items": [
+  {
+   "id": "1e61f49bce44d87c",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "ynu",
+   "title": "云南大学关于做好2027届本科毕业论文（设计）工作的通知",
+   "url": "https://jwc.ynu.edu.cn/info/1009/4398.htm",
+   "date": "2026-10-28",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-09T14:17:44.710Z",
+   "unit": "教务"
+  },
+  {
+   "id": "a89e148438549f5e",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "ynu",
+   "title": "关于开展2026年秋季学期本科课程教学质量评定工作的通知",
+   "url": "https://jwc.ynu.edu.cn/info/1032/4395.htm",
+   "date": "2026-10-20",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-09T14:17:44.710Z",
+   "unit": "教务"
+  },
+  {
+   "id": "fd8432e22df1e8c0",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "ynu",
+   "title": "云南大学2026年秋季学期第一次学士学位授予名单公示",
+   "url": "https://jwc.ynu.edu.cn/info/1013/4386.htm",
+   "date": "2026-09-28",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-09T14:17:44.710Z",
+   "unit": "教务"
+  },
+  {
+   "id": "447b567104767bd9",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "ynu",
+   "title": "关于开展2026年秋季学期开学本科教学秩序检查工作的通知",
+   "url": "https://jwc.ynu.edu.cn/info/1032/4360.htm",
+   "date": "2026-08-28",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-09T14:17:44.710Z",
+   "unit": "教务"
+  },
+  {
+   "id": "f329d4f6f094babc",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "ynu",
+   "title": "关于开展2025-2026学年度本科毕业论文（设计）抽检工作的通知",
+   "url": "https://jwc.ynu.edu.cn/info/1032/4361.htm",
+   "date": "2026-08-27",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-09T14:17:44.710Z",
+   "unit": "教务"
+  },
+  {
+   "id": "afdd4f07766a07cf",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "ynu",
+   "title": "关于2026年暑假期间本科学历学位证书发放相关工作安排的通知",
+   "url": "https://jwc.ynu.edu.cn/info/1013/4334.htm",
+   "date": "2026-07-23",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-09T14:17:44.710Z",
+   "unit": "教务"
+  },
+  {
+   "id": "24700869dfb720a1",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "ynu",
+   "title": "关于开展2026年春季学期本科教学督导期末考试巡查工作的通知",
+   "url": "https://jwc.ynu.edu.cn/info/1032/4317.htm",
+   "date": "2026-07-02",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-09T14:17:44.710Z",
+   "unit": "教务"
+  },
+  {
+   "id": "85b641a3ab042c71",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "ynu",
+   "title": "关于公布云南大学2025年秋季学期本科课程教学质量评定结果的通知",
+   "url": "https://jwc.ynu.edu.cn/info/1032/4305.htm",
+   "date": "2026-06-17",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-09T14:17:44.710Z",
+   "unit": "教务"
+  },
+  {
+   "id": "b875c483d65d2222",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "ynu",
+   "title": "关于2026年秋季学期辅修申请工作的补充通知",
+   "url": "https://jwc.ynu.edu.cn/info/1013/4291.htm",
+   "date": "2026-06-03",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "deadline": "2026-06-15",
+   "tier": "digest",
+   "firstSeenAt": "2026-11-09T14:17:44.710Z",
+   "unit": "教务"
+  },
+  {
+   "id": "ac96707c7985ee37",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "ynu",
+   "title": "关于开展2026年春季学期本科课程教学质量评定工作的通知",
+   "url": "https://jwc.ynu.edu.cn/info/1032/4223.htm",
+   "date": "2026-04-14",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-09T14:17:44.710Z",
+   "unit": "教务"
+  },
+  {
+   "id": "79ca499d78bed89b",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "ynu",
+   "title": "教务科学籍科常用表格下载",
+   "url": "https://jwc.ynu.edu.cn/info/1007/2614.htm",
+   "date": "2020-09-04",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-09T14:17:44.710Z",
+   "unit": "教务"
+  },
+  {
+   "id": "c05209d041245996",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "ynu",
+   "title": "云南大学已毕业学生重修选课申请",
+   "url": "https://jwc.ynu.edu.cn/info/1007/2186.htm",
+   "date": "2019-08-29",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-09T14:17:44.710Z",
+   "unit": "教务"
+  },
+  {
+   "id": "e198b5fe5d17ebd7",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "ynu",
+   "title": "教学科相关文件下载",
+   "url": "https://jwc.ynu.edu.cn/info/1007/1028.htm",
+   "date": "2018-10-23",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-09T14:17:44.710Z",
+   "unit": "教务"
+  },
+  {
+   "id": "d31b3444c52aab44",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "ynu",
+   "title": "教学周历",
+   "url": "https://jwc.ynu.edu.cn/info/1007/1031.htm",
+   "date": "2016-10-18",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-09T14:17:44.710Z",
+   "unit": "教务"
+  }
+ ]
+}

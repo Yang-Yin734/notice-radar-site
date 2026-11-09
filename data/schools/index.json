@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-09T09:42:23.465Z",
+ "generatedAt": "2026-11-09T14:17:51.486Z",
  "source": "教育部《全国高等学校名单》（config/schools/directory.tsv，见 config/schools/README.md）",
  "note": "status=active 表示真抓过、能出通知；pending 只是目录条目，选中会提示尚未接入。接入方法见 docs/add-your-school.md",
  "counts": {
   "total": 3167,
-  "active": 46,
-  "pending": 3121,
+  "active": 47,
+  "pending": 3120,
   "featured": 196,
   "doubleFirst": 144,
   "bachelor": 1365,
@@ -24051,7 +24051,16 @@
    "tags": [
     "双一流"
    ],
-   "status": "pending"
+   "status": "active",
+   "file": "ynu.json",
+   "units": [
+    {
+     "id": "教务",
+     "name": "教务",
+     "count": 14
+    }
+   ],
+   "total": 14
   },
   {
    "id": "kmust",
