@@ -3,13 +3,13 @@
  "name": "中国传媒大学",
  "province": "北京市",
  "city": "",
- "generatedAt": "2026-11-09T08:25:22.759Z",
- "total": 10,
+ "generatedAt": "2026-11-09T08:29:22.588Z",
+ "total": 12,
  "bySource": [
   {
    "sourceId": "jwc-tzgg",
    "sourceName": "教务处·通知公告",
-   "count": 10
+   "count": 12
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务处·通知公告"
    ],
-   "count": 10
+   "count": 12
   }
  ],
  "sourceCatalog": [
@@ -33,8 +33,8 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务处·通知公告",
-   "checkedAt": "2026-11-08T18:59:50.071Z",
-   "lastSuccessAt": "2026-11-08T18:59:50.071Z",
+   "checkedAt": "2026-11-09T08:27:30.605Z",
+   "lastSuccessAt": "2026-11-09T08:27:30.605Z",
    "outcome": "ok",
    "status": 200,
    "items": 14
@@ -160,6 +160,36 @@
    "alsoIn": [],
    "tier": "urgent",
    "firstSeenAt": "2026-11-08T18:59:50.120Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "8cd530e32150211b",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "4111010033",
+   "title": "2026年辅修招生信息",
+   "url": "https://jwc.cuc.edu.cn/2025/0401/c6364a268919/page.htm",
+   "date": "2026-04-10",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-09T08:27:30.607Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "74c8f8f25192a55c",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "4111010033",
+   "title": "【重考报名】关于2025-2026学年春季学期重考（含缓考）报名的通知",
+   "url": "https://jwc.cuc.edu.cn/2026/0312/c6364a267578/page.htm",
+   "date": "2026-03-12",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-09T08:27:30.607Z",
    "unit": "教务处"
   },
   {

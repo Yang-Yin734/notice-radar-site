@@ -3,7 +3,7 @@
  "name": "湘潭大学",
  "province": "湖南省",
  "city": "湘潭市",
- "generatedAt": "2026-11-09T08:25:22.759Z",
+ "generatedAt": "2026-11-09T08:29:22.588Z",
  "total": 3,
  "bySource": [
   {
@@ -33,11 +33,11 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务·通知公告",
-   "checkedAt": "2026-11-08T18:59:54.720Z",
+   "checkedAt": "2026-11-09T08:27:43.643Z",
    "lastSuccessAt": "2026-11-08T18:59:54.720Z",
-   "outcome": "ok",
-   "status": 200,
-   "items": 15
+   "outcome": "network",
+   "status": null,
+   "items": 0
   }
  },
  "items": [

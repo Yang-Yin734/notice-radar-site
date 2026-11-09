@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-09T08:25:22.759Z",
-  "total": 583,
+  "generatedAt": "2026-11-09T08:29:22.588Z",
+  "total": 595,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
       "sourceName": "教务·通知公告",
-      "count": 220
+      "count": 232
     },
     {
       "sourceId": "jwb-tzgg",
@@ -410,6 +410,20 @@
       "firstSeenAt": "2026-11-05T13:08:19.830Z"
     },
     {
+      "id": "42adf33b4982c748",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "buaa",
+      "title": "第十二届北京航空航天大学物理学术竞赛暨第十八届中国大学生物理学术竞赛校内选拔赛的通知",
+      "url": "https://jiaowu.buaa.edu.cn/info/1016/9237.htm",
+      "date": "2026-11-04",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-09T08:27:49.407Z"
+    },
+    {
       "id": "1925f8f6093b6372",
       "sourceId": "jwc-tzgg",
       "sourceName": "教务处·通知公告",
@@ -662,6 +676,35 @@
       "alsoIn": [],
       "tier": "digest",
       "firstSeenAt": "2026-11-03T03:28:06.138Z"
+    },
+    {
+      "id": "5c783d0f04198e53",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "buaa",
+      "title": "第四十二届全国部分地区物理竞赛报名通知",
+      "url": "https://jiaowu.buaa.edu.cn/info/1016/9236.htm",
+      "date": "2026-11-02",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "deadline": "2026-11-07",
+      "tier": "digest",
+      "firstSeenAt": "2026-11-09T08:27:49.407Z"
+    },
+    {
+      "id": "051750d662379b5f",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "buaa",
+      "title": "2026年北京航空航天大学物理竞赛获奖名单",
+      "url": "https://jiaowu.buaa.edu.cn/info/1016/9235.htm",
+      "date": "2026-11-02",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-09T08:27:49.407Z"
     },
     {
       "id": "e5869e28049c235f",
@@ -968,6 +1011,20 @@
       "category": null,
       "alsoIn": [],
       "firstSeenAt": "2026-10-30T04:23:02.688Z"
+    },
+    {
+      "id": "7248a913786ee7d5",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "buaa",
+      "title": "2026年北航工程设计表达竞赛获奖名单",
+      "url": "https://jiaowu.buaa.edu.cn/info/1016/9230.htm",
+      "date": "2026-10-29",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-09T08:27:49.407Z"
     },
     {
       "id": "835c393b5194728f",
@@ -1790,6 +1847,20 @@
       "category": null,
       "alsoIn": [],
       "firstSeenAt": "2026-10-22T03:10:31.037Z"
+    },
+    {
+      "id": "25c726ba1b0f77c4",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "buaa",
+      "title": "2026年北京航空航天大学大学生物理竞赛通知",
+      "url": "https://jiaowu.buaa.edu.cn/info/1016/9219.htm",
+      "date": "2026-10-21",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-09T08:27:49.407Z"
     },
     {
       "id": "213f21a3890f8c16",
@@ -3471,6 +3542,21 @@
       "firstSeenAt": "2026-10-03T00:13:57.223Z"
     },
     {
+      "id": "e1c52602f74fd19d",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "buaa",
+      "title": "2027年北京市大学生工程实践与创新能力大赛校内选拔赛报名通知",
+      "url": "https://jiaowu.buaa.edu.cn/info/1016/9194.htm",
+      "date": "2026-09-29",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "deadline": "2026-10-20",
+      "tier": "digest",
+      "firstSeenAt": "2026-11-09T08:27:49.407Z"
+    },
+    {
       "id": "907fa67c35f801ea",
       "sourceId": "jwc-tzgg",
       "sourceName": "教务处·通知公告",
@@ -3896,6 +3982,21 @@
       "tag": null,
       "alsoIn": [],
       "firstSeenAt": "2026-10-03T16:50:34.573Z"
+    },
+    {
+      "id": "b805fe034486de31",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "buaa",
+      "title": "北京市第三十七届大学生数学竞赛暨第十八届全国大学生数学竞赛北京赛区初赛报名通知",
+      "url": "https://jiaowu.buaa.edu.cn/info/1016/9148.htm",
+      "date": "2026-09-22",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "deadline": "2026-09-28",
+      "tier": "digest",
+      "firstSeenAt": "2026-11-09T08:27:49.407Z"
     },
     {
       "id": "e4022b67a7eb765b",
@@ -4410,6 +4511,35 @@
       "tag": null,
       "alsoIn": [],
       "firstSeenAt": "2026-09-28T12:00:56.521Z"
+    },
+    {
+      "id": "d0c49fb8995b4025",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "buaa",
+      "title": "2026年华北五省（市、自治区）大学生计算机应用大赛报名通知",
+      "url": "https://jiaowu.buaa.edu.cn/info/1016/9052.htm",
+      "date": "2026-09-16",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "deadline": "2026-09-24",
+      "tier": "digest",
+      "firstSeenAt": "2026-11-09T08:27:49.407Z"
+    },
+    {
+      "id": "f7c80916a1be7f02",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "buaa",
+      "title": "2026年北京航空航天大学大学生工程设计表达竞赛通知",
+      "url": "https://jiaowu.buaa.edu.cn/info/1016/9051.htm",
+      "date": "2026-09-16",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-09T08:27:49.407Z"
     },
     {
       "id": "acfbc97337bd0b60",
@@ -5446,6 +5576,21 @@
       "tag": null,
       "alsoIn": [],
       "firstSeenAt": "2026-09-28T12:00:56.521Z"
+    },
+    {
+      "id": "c132d0f9c2e479a9",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "buaa",
+      "title": "2026年“外研社•国才杯”“理解当代中国”全国大学生外语能力大赛校赛报名通知",
+      "url": "https://jiaowu.buaa.edu.cn/info/1016/9036.htm",
+      "date": "2026-09-02",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "deadline": "2026-10-01",
+      "tier": "digest",
+      "firstSeenAt": "2026-11-09T08:27:49.407Z"
     },
     {
       "id": "ce1cbb79a91200ea",
@@ -6549,6 +6694,20 @@
       "firstSeenAt": "2026-10-03T07:29:14.156Z"
     },
     {
+      "id": "8cd530e32150211b",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "4111010033",
+      "title": "2026年辅修招生信息",
+      "url": "https://jwc.cuc.edu.cn/2025/0401/c6364a268919/page.htm",
+      "date": "2026-04-10",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-09T08:27:30.607Z"
+    },
+    {
       "id": "3154449738138c1b",
       "sourceId": "math-xsgz",
       "sourceName": "数学科学学院·学生工作",
@@ -6719,6 +6878,20 @@
       "tag": null,
       "alsoIn": [],
       "firstSeenAt": "2026-10-03T17:07:59.243Z"
+    },
+    {
+      "id": "74c8f8f25192a55c",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "4111010033",
+      "title": "【重考报名】关于2025-2026学年春季学期重考（含缓考）报名的通知",
+      "url": "https://jwc.cuc.edu.cn/2026/0312/c6364a267578/page.htm",
+      "date": "2026-03-12",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-09T08:27:30.607Z"
     },
     {
       "id": "74a50057309df52d",
