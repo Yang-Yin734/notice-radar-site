@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-09T08:33:29.443Z",
-  "total": 595,
+  "generatedAt": "2026-11-09T08:38:06.801Z",
+  "total": 599,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
@@ -28,13 +28,13 @@
       "count": 24
     },
     {
-      "sourceId": "news-notice",
-      "sourceName": "新闻网·公告",
-      "count": 23
-    },
-    {
       "sourceId": "jwc-student",
       "sourceName": "教务处·学生事务公告",
+      "count": 24
+    },
+    {
+      "sourceId": "news-notice",
+      "sourceName": "新闻网·公告",
       "count": 23
     },
     {
@@ -95,7 +95,7 @@
     {
       "sourceId": "jwc-important",
       "sourceName": "教务处·重要公告",
-      "count": 7
+      "count": 10
     },
     {
       "sourceId": "jwc-tztg",
@@ -324,6 +324,20 @@
       "alsoIn": [],
       "tier": "urgent",
       "firstSeenAt": "2026-11-06T01:09:40.259Z"
+    },
+    {
+      "id": "0afba272457c91cd",
+      "sourceId": "jwc-important",
+      "sourceName": "教务处·重要公告",
+      "school": "uestc",
+      "title": "关于2023级本科毕业设计（论文）任务书检查及2022级本科毕业论文档案检查的通知",
+      "url": "https://www.jwc.uestc.edu.cn/info/1120/24344.htm",
+      "date": "2026-11-05",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-09T08:38:06.435Z"
     },
     {
       "id": "acb3d02bead9b643",
@@ -576,6 +590,20 @@
       "alsoIn": [],
       "tier": "urgent",
       "firstSeenAt": "2026-11-04T11:06:32.299Z"
+    },
+    {
+      "id": "c3cbc35aa2c927c3",
+      "sourceId": "jwc-important",
+      "sourceName": "教务处·重要公告",
+      "school": "uestc",
+      "title": "关于举办2027年电子科技大学教师教学竞赛的通知",
+      "url": "https://www.jwc.uestc.edu.cn/nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1128&wbnewsid=24319",
+      "date": "2026-11-03",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-09T08:38:06.435Z"
     },
     {
       "id": "bcde6e49ec82492e",
@@ -1185,6 +1213,20 @@
       "category": null,
       "alsoIn": [],
       "firstSeenAt": "2026-10-29T07:22:43.248Z"
+    },
+    {
+      "id": "e5f2b245b6efc111",
+      "sourceId": "jwc-important",
+      "sourceName": "教务处·重要公告",
+      "school": "uestc",
+      "title": "第51届ICPC国际大学生程序设计竞赛亚洲区域赛成都站比赛顺利举行",
+      "url": "https://www.jwc.uestc.edu.cn/info/1207/23220.htm",
+      "date": "2026-10-28",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-09T08:38:06.435Z"
     },
     {
       "id": "991f5643969f30c8",
@@ -2757,6 +2799,20 @@
       "tag": null,
       "alsoIn": [],
       "firstSeenAt": "2026-10-13T01:01:50.608Z"
+    },
+    {
+      "id": "fb0be0ee639a3673",
+      "sourceId": "jwc-student",
+      "sourceName": "教务处·学生事务公告",
+      "school": "uestc",
+      "title": "关于2026-2027-1学期大面积课程期中考试安排的通知",
+      "url": "https://www.jwc.uestc.edu.cn/info/1126/23179.htm",
+      "date": "2026-10-12",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-09T08:38:06.435Z"
     },
     {
       "id": "20a07442520c8076",
