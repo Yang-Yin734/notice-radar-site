@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-09T08:29:22.588Z",
+ "generatedAt": "2026-11-09T08:33:29.443Z",
  "source": "教育部《全国高等学校名单》（config/schools/directory.tsv，见 config/schools/README.md）",
  "note": "status=active 表示真抓过、能出通知；pending 只是目录条目，选中会提示尚未接入。接入方法见 docs/add-your-school.md",
  "counts": {
-  "total": 3168,
+  "total": 3167,
   "active": 45,
-  "pending": 3123,
+  "pending": 3122,
   "featured": 196,
   "doubleFirst": 144,
   "bachelor": 1365,
@@ -274,7 +274,16 @@
     "双一流",
     "教育部直属"
    ],
-   "status": "pending"
+   "status": "active",
+   "file": "4111010022.json",
+   "units": [
+    {
+     "id": "教务处",
+     "name": "教务处",
+     "count": 19
+    }
+   ],
+   "total": 19
   },
   {
    "id": "4111010023",
@@ -28936,22 +28945,6 @@
    "province": "新疆维吾尔自治区",
    "level": "成人",
    "status": "pending"
-  },
-  {
-   "id": "bjfu",
-   "name": "bjfu",
-   "province": "",
-   "level": "",
-   "status": "active",
-   "file": "bjfu.json",
-   "units": [
-    {
-     "id": "教务处",
-     "name": "教务处",
-     "count": 19
-    }
-   ],
-   "total": 19
   }
  ]
 }

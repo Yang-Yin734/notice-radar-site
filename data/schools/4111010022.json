@@ -1,9 +1,9 @@
 {
- "school": "bjfu",
- "name": "bjfu",
- "province": "",
+ "school": "4111010022",
+ "name": "北京林业大学",
+ "province": "北京市",
  "city": "",
- "generatedAt": "2026-11-09T08:29:22.588Z",
+ "generatedAt": "2026-11-09T08:33:29.443Z",
  "total": 19,
  "bySource": [
   {
@@ -22,24 +22,8 @@
    "count": 19
   }
  ],
- "sourceCatalog": [
-  {
-   "id": "jwc-tzgg",
-   "name": "教务处·通知公告",
-   "url": "https://jwc.bjfu.edu.cn/",
-   "unit": "教务处"
-  }
- ],
- "sourceChecks": {
-  "jwc-tzgg": {
-   "name": "教务处·通知公告",
-   "checkedAt": "2026-11-08T22:45:57.385Z",
-   "lastSuccessAt": "2026-11-08T22:45:57.385Z",
-   "outcome": "ok",
-   "status": 200,
-   "items": 48
-  }
- },
+ "sourceCatalog": [],
+ "sourceChecks": {},
  "items": [
   {
    "id": "2afd5cca21d1bc15",
