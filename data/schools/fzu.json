@@ -1,0 +1,122 @@
+{
+ "school": "fzu",
+ "name": "福州大学",
+ "province": "福建省",
+ "city": "福州市",
+ "generatedAt": "2026-11-09T02:04:09.825Z",
+ "total": 5,
+ "bySource": [
+  {
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "count": 5
+  }
+ ],
+ "units": [
+  {
+   "id": "教务",
+   "name": "教务",
+   "sources": [
+    "教务·通知公告"
+   ],
+   "count": 5
+  }
+ ],
+ "sourceCatalog": [
+  {
+   "id": "jwc-tzgg",
+   "name": "教务·通知公告",
+   "url": "https://jwch.fzu.edu.cn/jwjk/jxtz.htm",
+   "unit": "教务"
+  }
+ ],
+ "sourceChecks": {
+  "jwc-tzgg": {
+   "name": "教务·通知公告",
+   "checkedAt": "2026-11-09T02:03:54.837Z",
+   "lastSuccessAt": "2026-11-09T02:03:54.837Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 8
+  }
+ },
+ "items": [
+  {
+   "id": "b05940dbcc3c7a9e",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "fzu",
+   "title": "关于2026-2027学年第一学期在校学生申请辅修专业的通知",
+   "url": "https://jwch.fzu.edu.cn/info/1038/14898.htm",
+   "date": "2026-11-09",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "deadline": "2026-11-22",
+   "tier": "digest",
+   "firstSeenAt": "2026-11-09T02:03:54.840Z",
+   "unit": "教务"
+  },
+  {
+   "id": "571601b6ed0c0dc6",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "fzu",
+   "title": "关于开展“AI辅助教学、助力课堂创新”智慧教学第十二期培训的通知",
+   "url": "https://jwch.fzu.edu.cn/info/1041/14896.htm",
+   "date": "2026-11-06",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-09T02:03:54.840Z",
+   "unit": "教务"
+  },
+  {
+   "id": "b7b6ff3cb27ee4e4",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "fzu",
+   "title": "福州大学关于印发教师本科教学综合测评办法的通知",
+   "url": "https://jwch.fzu.edu.cn/info/1040/14894.htm",
+   "date": "2026-11-06",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-09T02:03:54.840Z",
+   "unit": "教务"
+  },
+  {
+   "id": "adc0e62853b4d559",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "fzu",
+   "title": "关于举办福州大学第89场“教学有道”研讨活动的通知",
+   "url": "https://jwch.fzu.edu.cn/info/1040/14890.htm",
+   "date": "2026-11-06",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-09T02:03:54.840Z",
+   "unit": "教务"
+  },
+  {
+   "id": "e5869e28049c235f",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "fzu",
+   "title": "关于做好2027届预计毕业生电子注册图像采集工作的通知",
+   "url": "https://jwch.fzu.edu.cn/info/1036/14874.htm",
+   "date": "2026-11-02",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "deadline": "2026-11-29",
+   "tier": "digest",
+   "firstSeenAt": "2026-11-09T02:03:54.840Z",
+   "unit": "教务"
+  }
+ ]
+}

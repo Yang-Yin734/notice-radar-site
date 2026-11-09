@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-08T22:46:43.896Z",
+ "generatedAt": "2026-11-09T02:04:09.825Z",
  "source": "教育部《全国高等学校名单》（config/schools/directory.tsv，见 config/schools/README.md）",
  "note": "status=active 表示真抓过、能出通知；pending 只是目录条目，选中会提示尚未接入。接入方法见 docs/add-your-school.md",
  "counts": {
   "total": 3168,
-  "active": 43,
-  "pending": 3125,
+  "active": 44,
+  "pending": 3124,
   "featured": 196,
   "doubleFirst": 144,
   "bachelor": 1365,
@@ -10886,7 +10886,16 @@
    "tags": [
     "双一流"
    ],
-   "status": "pending"
+   "status": "active",
+   "file": "fzu.json",
+   "units": [
+    {
+     "id": "教务",
+     "name": "教务",
+     "count": 5
+    }
+   ],
+   "total": 5
   },
   {
    "id": "4135010388",
