@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-09T08:38:06.801Z",
-  "total": 599,
+  "generatedAt": "2026-11-09T08:45:39.550Z",
+  "total": 600,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
@@ -48,6 +48,11 @@
       "count": 19
     },
     {
+      "sourceId": "jwc-jxtz",
+      "sourceName": "教务处·教学通知",
+      "count": 18
+    },
+    {
       "sourceId": "math-jwgg",
       "sourceName": "数学科学学院·教务公告",
       "count": 18
@@ -65,11 +70,6 @@
     {
       "sourceId": "jwc-xwkd",
       "sourceName": "教务部·新闻快递",
-      "count": 17
-    },
-    {
-      "sourceId": "jwc-jxtz",
-      "sourceName": "教务处·教学通知",
       "count": 17
     },
     {
@@ -114,6 +114,20 @@
     }
   ],
   "items": [
+    {
+      "id": "21895c04009bccde",
+      "sourceId": "jwc-jxtz",
+      "sourceName": "教务处·教学通知",
+      "school": "xjtu",
+      "title": "[竞赛安排]关于第 3 届学研杯大学物理强基邀请赛III卷西安交通大学报名的通知",
+      "url": "https://jwc.xjtu.edu.cn/info/1172/10639.htm",
+      "date": "2026-11-09",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-09T08:45:13.786Z"
+    },
     {
       "id": "b05940dbcc3c7a9e",
       "sourceId": "jwc-tzgg",

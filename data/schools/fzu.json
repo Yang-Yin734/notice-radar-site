@@ -3,7 +3,7 @@
  "name": "福州大学",
  "province": "福建省",
  "city": "福州市",
- "generatedAt": "2026-11-09T08:33:29.443Z",
+ "generatedAt": "2026-11-09T08:45:39.550Z",
  "total": 5,
  "bySource": [
   {
@@ -33,11 +33,11 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务·通知公告",
-   "checkedAt": "2026-11-09T02:03:54.837Z",
+   "checkedAt": "2026-11-09T08:43:49.529Z",
    "lastSuccessAt": "2026-11-09T02:03:54.837Z",
-   "outcome": "ok",
-   "status": 200,
-   "items": 8
+   "outcome": "network",
+   "status": null,
+   "items": 0
   }
  },
  "items": [
