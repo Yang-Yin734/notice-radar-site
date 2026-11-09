@@ -3,7 +3,7 @@
  "name": "电子科技大学",
  "province": "四川省",
  "city": "成都市",
- "generatedAt": "2026-11-09T02:04:09.825Z",
+ "generatedAt": "2026-11-09T08:25:22.759Z",
  "total": 90,
  "bySource": [
   {
@@ -76,13 +76,13 @@
   {
    "id": "jwc-important",
    "name": "教务处·重要公告",
-   "url": "https://www.jwc.uestc.edu.cn/hard/?page=1",
+   "url": "https://www.jwc.uestc.edu.cn/tzgg.htm",
    "unit": "教务处"
   },
   {
    "id": "jwc-student",
    "name": "教务处·学生事务公告",
-   "url": "https://www.jwc.uestc.edu.cn/list/256/?page=1",
+   "url": "https://www.jwc.uestc.edu.cn/tzgg/xsswgg.htm",
    "unit": "教务处"
   },
   {
@@ -168,6 +168,22 @@
    "outcome": "ok",
    "status": 200,
    "items": 20
+  },
+  "math-jwgg": {
+   "name": "数学科学学院·教务公告",
+   "checkedAt": "2026-11-09T04:40:11.897Z",
+   "lastSuccessAt": "2026-11-09T04:40:11.897Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 15
+  },
+  "math-xsgz": {
+   "name": "数学科学学院·学生工作",
+   "checkedAt": "2026-11-09T04:40:11.897Z",
+   "lastSuccessAt": "2026-11-09T04:40:11.897Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 15
   }
  },
  "items": [

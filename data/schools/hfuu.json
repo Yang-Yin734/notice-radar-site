@@ -3,7 +3,7 @@
  "name": "合肥大学",
  "province": "安徽省",
  "city": "合肥市",
- "generatedAt": "2026-11-09T02:04:09.825Z",
+ "generatedAt": "2026-11-09T08:25:22.759Z",
  "total": 5,
  "bySource": [
   {
@@ -33,11 +33,11 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务·通知公告",
-   "checkedAt": "2026-11-08T14:29:09.036Z",
+   "checkedAt": "2026-11-09T08:23:56.384Z",
    "lastSuccessAt": "2026-11-08T14:29:09.036Z",
-   "outcome": "ok",
-   "status": 200,
-   "items": 16
+   "outcome": "network",
+   "status": null,
+   "items": 0
   }
  },
  "items": [
