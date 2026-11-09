@@ -3,7 +3,7 @@
  "name": "北京科技大学",
  "province": "北京市",
  "city": "",
- "generatedAt": "2026-11-09T08:57:49.500Z",
+ "generatedAt": "2026-11-09T09:10:44.774Z",
  "total": 7,
  "bySource": [
   {
@@ -33,7 +33,7 @@
  "sourceChecks": {
   "jwc-tztg": {
    "name": "教务处·通知通告",
-   "checkedAt": "2026-11-09T08:25:08.788Z",
+   "checkedAt": "2026-11-09T09:10:29.880Z",
    "lastSuccessAt": "2026-11-08T14:29:26.858Z",
    "outcome": "network",
    "status": null,

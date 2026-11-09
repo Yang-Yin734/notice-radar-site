@@ -3,7 +3,7 @@
  "name": "中国传媒大学",
  "province": "北京市",
  "city": "",
- "generatedAt": "2026-11-09T08:57:49.500Z",
+ "generatedAt": "2026-11-09T09:10:44.774Z",
  "total": 12,
  "bySource": [
   {
@@ -33,8 +33,8 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务处·通知公告",
-   "checkedAt": "2026-11-09T08:27:30.605Z",
-   "lastSuccessAt": "2026-11-09T08:27:30.605Z",
+   "checkedAt": "2026-11-09T09:09:03.401Z",
+   "lastSuccessAt": "2026-11-09T09:09:03.401Z",
    "outcome": "ok",
    "status": 200,
    "items": 14

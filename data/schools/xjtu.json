@@ -3,7 +3,7 @@
  "name": "西安交通大学",
  "province": "陕西省",
  "city": "西安市",
- "generatedAt": "2026-11-09T08:57:49.500Z",
+ "generatedAt": "2026-11-09T09:10:44.774Z",
  "total": 15,
  "bySource": [
   {
@@ -33,8 +33,8 @@
  "sourceChecks": {
   "jwc-jxtz": {
    "name": "教务处·教学通知",
-   "checkedAt": "2026-11-09T08:45:13.782Z",
-   "lastSuccessAt": "2026-11-09T08:45:13.782Z",
+   "checkedAt": "2026-11-09T09:10:36.297Z",
+   "lastSuccessAt": "2026-11-09T09:10:36.297Z",
    "outcome": "ok",
    "status": 200,
    "items": 9
