@@ -3,7 +3,7 @@
  "name": "中北大学",
  "province": "山西省",
  "city": "太原市",
- "generatedAt": "2026-11-10T10:31:43.277Z",
+ "generatedAt": "2026-11-10T18:11:36.377Z",
  "total": 3,
  "bySource": [
   {
@@ -33,11 +33,11 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务·通知公告",
-   "checkedAt": "2026-11-10T10:31:01.832Z",
+   "checkedAt": "2026-11-10T18:10:57.693Z",
    "lastSuccessAt": "2026-11-10T10:31:01.832Z",
-   "outcome": "ok",
-   "status": 200,
-   "items": 10
+   "outcome": "network",
+   "status": null,
+   "items": 0
   }
  },
  "items": [

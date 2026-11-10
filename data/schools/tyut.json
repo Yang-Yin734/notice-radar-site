@@ -3,7 +3,7 @@
  "name": "太原理工大学",
  "province": "山西省",
  "city": "太原市",
- "generatedAt": "2026-11-10T10:31:43.277Z",
+ "generatedAt": "2026-11-10T18:11:36.377Z",
  "total": 1,
  "bySource": [
   {
@@ -33,8 +33,8 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务·通知公告",
-   "checkedAt": "2026-11-10T10:31:21.947Z",
-   "lastSuccessAt": "2026-11-10T10:31:21.947Z",
+   "checkedAt": "2026-11-10T18:11:17.382Z",
+   "lastSuccessAt": "2026-11-10T18:11:17.382Z",
    "outcome": "ok",
    "status": 200,
    "items": 5

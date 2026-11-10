@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-10T10:31:43.277Z",
-  "total": 632,
+  "generatedAt": "2026-11-10T18:11:36.377Z",
+  "total": 634,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
@@ -83,14 +83,14 @@
       "count": 15
     },
     {
+      "sourceId": "rsc-tzgg",
+      "sourceName": "人事部·通知公告",
+      "count": 14
+    },
+    {
       "sourceId": "math-xsgz",
       "sourceName": "数学科学学院·学生工作",
       "count": 13
-    },
-    {
-      "sourceId": "rsc-tzgg",
-      "sourceName": "人事部·通知公告",
-      "count": 12
     },
     {
       "sourceId": "jwc-important",
@@ -114,6 +114,34 @@
     }
   ],
   "items": [
+    {
+      "id": "aa3592d8488312c7",
+      "sourceId": "rsc-tzgg",
+      "sourceName": "人事部·通知公告",
+      "school": "zzu",
+      "title": "关于郑州大学2026年“求是”计划人员聘期中期考核结果（第3批）公示的通知",
+      "url": "https://www5.zzu.edu.cn/rsc/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1050&wbnewsid=6526",
+      "date": "2026-11-10",
+      "tag": null,
+      "category": "人事",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-10T18:11:36.040Z"
+    },
+    {
+      "id": "be6625d7ccd2fbe1",
+      "sourceId": "rsc-tzgg",
+      "sourceName": "人事部·通知公告",
+      "school": "zzu",
+      "title": "关于郑州大学2026年“求是”计划人员聘期考核（第三批）结果公示的通知",
+      "url": "https://www5.zzu.edu.cn/rsc/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1050&wbnewsid=6525",
+      "date": "2026-11-10",
+      "tag": null,
+      "category": "人事",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-10T18:11:36.040Z"
+    },
     {
       "id": "48594a32dfac9658",
       "sourceId": "news",
