@@ -3,13 +3,13 @@
  "name": "东北农业大学",
  "province": "黑龙江省",
  "city": "哈尔滨市",
- "generatedAt": "2026-11-10T18:11:36.377Z",
- "total": 7,
+ "generatedAt": "2026-11-10T23:18:14.807Z",
+ "total": 8,
  "bySource": [
   {
    "sourceId": "jwc-tzgg",
    "sourceName": "教务·通知公告",
-   "count": 7
+   "count": 8
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务·通知公告"
    ],
-   "count": 7
+   "count": 8
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,29 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务·通知公告",
-   "checkedAt": "2026-11-10T18:10:54.538Z",
-   "lastSuccessAt": "2026-11-09T20:12:42.869Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-10T23:17:23.582Z",
+   "lastSuccessAt": "2026-11-10T23:17:23.582Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 20
   }
  },
  "items": [
+  {
+   "id": "012f0a4233fcf96c",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "neau",
+   "title": "关于征集课程思政优秀教学案例及课程思政教学研究项目的通知",
+   "url": "https://jwc.neau.edu.cn/info/1003/7390.htm",
+   "date": "2026-11-10",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-10T23:17:23.586Z",
+   "unit": "教务"
+  },
   {
    "id": "cd596b0df3c578bf",
    "sourceId": "jwc-tzgg",

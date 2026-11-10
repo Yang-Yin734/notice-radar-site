@@ -3,7 +3,7 @@
  "name": "西南财经大学",
  "province": "四川省",
  "city": "成都市",
- "generatedAt": "2026-11-10T18:11:36.377Z",
+ "generatedAt": "2026-11-10T23:18:14.807Z",
  "total": 10,
  "bySource": [
   {
@@ -33,11 +33,11 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务处·通知公告",
-   "checkedAt": "2026-11-10T18:11:11.671Z",
-   "lastSuccessAt": "2026-11-09T14:17:37.281Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-10T23:17:49.512Z",
+   "lastSuccessAt": "2026-11-10T23:17:49.512Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 10
   }
  },
  "items": [
