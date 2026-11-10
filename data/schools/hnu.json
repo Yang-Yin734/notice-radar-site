@@ -3,7 +3,7 @@
  "name": "湖南大学",
  "province": "湖南省",
  "city": "长沙市",
- "generatedAt": "2026-11-09T20:13:27.582Z",
+ "generatedAt": "2026-11-10T02:49:38.803Z",
  "total": 12,
  "bySource": [
   {
@@ -33,7 +33,7 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务处·通知公告",
-   "checkedAt": "2026-11-09T20:12:32.413Z",
+   "checkedAt": "2026-11-10T02:48:22.423Z",
    "lastSuccessAt": "2026-11-09T14:17:23.878Z",
    "outcome": "network",
    "status": null,

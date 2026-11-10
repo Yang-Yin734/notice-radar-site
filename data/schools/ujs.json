@@ -3,7 +3,7 @@
  "name": "江苏大学",
  "province": "江苏省",
  "city": "镇江市",
- "generatedAt": "2026-11-09T20:13:27.582Z",
+ "generatedAt": "2026-11-10T02:49:38.803Z",
  "total": 16,
  "bySource": [
   {
@@ -33,11 +33,11 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务·通知公告",
-   "checkedAt": "2026-11-09T20:13:10.095Z",
+   "checkedAt": "2026-11-10T02:49:14.683Z",
    "lastSuccessAt": "2026-11-09T20:13:10.095Z",
-   "outcome": "ok",
-   "status": 200,
-   "items": 32
+   "outcome": "network",
+   "status": null,
+   "items": 0
   }
  },
  "items": [
