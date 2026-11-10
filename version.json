@@ -1,8 +1,8 @@
 {
   "app": "notice-radar",
-  "version": "0.16.6",
+  "version": "0.16.7",
   "apkUrl": "https://yang-yin734.github.io/notice-radar-site/notice-radar.apk",
-  "apkSha256": "d25f36ea7e818fcddf570103f10a852c259972e180db008810a1438970fd760f",
-  "publishedAt": "2026-11-10T02:34:17.834Z",
+  "apkSha256": "ea86e92489e971115a6c6ed8d908ae9acd2b830364730fd2a2907cdd15eefdca",
+  "publishedAt": "2026-11-10T08:52:42.314Z",
   "notes": "https://github.com/Yang-Yin734/notice-radar-site/blob/main/CHANGELOG.md"
 }
