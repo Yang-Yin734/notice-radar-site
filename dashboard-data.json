@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-10T02:49:38.803Z",
-  "total": 630,
+  "generatedAt": "2026-11-10T10:31:43.277Z",
+  "total": 632,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
@@ -43,6 +43,11 @@
       "count": 22
     },
     {
+      "sourceId": "news",
+      "sourceName": "新闻网·综合",
+      "count": 19
+    },
+    {
       "sourceId": "aao-tzgg",
       "sourceName": "教务处·通知公告",
       "count": 19
@@ -60,11 +65,6 @@
     {
       "sourceId": "notice-list",
       "sourceName": "官网·通知公告",
-      "count": 17
-    },
-    {
-      "sourceId": "news",
-      "sourceName": "新闻网·综合",
       "count": 17
     },
     {
@@ -114,6 +114,20 @@
     }
   ],
   "items": [
+    {
+      "id": "48594a32dfac9658",
+      "sourceId": "news",
+      "sourceName": "新闻网·综合",
+      "school": "zzu",
+      "title": "郑州大学主办“中希文明互鉴与中原文化的国际传播”国际学术会议",
+      "url": "http://www.zzu.edu.cn/info/1217/89373.htm",
+      "date": "2026-11-09",
+      "tag": null,
+      "category": "综合",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-10T10:31:42.910Z"
+    },
     {
       "id": "b044ca3f9278839e",
       "sourceId": "jwc-tzgg",
@@ -170,6 +184,20 @@
       "deadline": "2026-11-22",
       "tier": "digest",
       "firstSeenAt": "2026-11-09T02:03:54.840Z"
+    },
+    {
+      "id": "3b1e9cecffbcd3e6",
+      "sourceId": "news",
+      "sourceName": "新闻网·综合",
+      "school": "zzu",
+      "title": "上海交通大学校长丁奎岭院士为我校作专题报告",
+      "url": "http://www.zzu.edu.cn/info/1217/89371.htm",
+      "date": "2026-11-08",
+      "tag": null,
+      "category": "综合",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-10T10:31:42.910Z"
     },
     {
       "id": "154ff1ab9cf97896",

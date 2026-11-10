@@ -3,13 +3,13 @@
  "name": "郑州大学",
  "province": "河南省",
  "city": "郑州市",
- "generatedAt": "2026-11-10T02:49:38.803Z",
- "total": 117,
+ "generatedAt": "2026-11-10T10:31:43.277Z",
+ "total": 119,
  "bySource": [
   {
    "sourceId": "news",
    "sourceName": "新闻网·综合",
-   "count": 17
+   "count": 19
   },
   {
    "sourceId": "jwc-tzgg",
@@ -62,7 +62,7 @@
    "sources": [
     "新闻网·综合"
    ],
-   "count": 17
+   "count": 19
   },
   {
    "id": "人事部",
@@ -114,54 +114,84 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务部·通知公告",
-   "checkedAt": "2026-11-10T02:49:34.188Z",
-   "lastSuccessAt": "2026-11-10T02:49:34.188Z",
+   "checkedAt": "2026-11-10T10:31:42.906Z",
+   "lastSuccessAt": "2026-11-10T10:31:42.906Z",
    "outcome": "ok",
    "status": 200,
    "items": 15
   },
   "jwc-xwkd": {
    "name": "教务部·新闻快递",
-   "checkedAt": "2026-11-10T02:49:34.188Z",
-   "lastSuccessAt": "2026-11-10T02:49:34.188Z",
+   "checkedAt": "2026-11-10T10:31:42.906Z",
+   "lastSuccessAt": "2026-11-10T10:31:42.906Z",
    "outcome": "ok",
    "status": 200,
    "items": 15
   },
   "gs-gg": {
    "name": "研究生院·公告",
-   "checkedAt": "2026-11-10T02:49:34.188Z",
-   "lastSuccessAt": "2026-11-09T14:17:47.013Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-10T10:31:42.906Z",
+   "lastSuccessAt": "2026-11-10T10:31:42.906Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 28
   },
   "gs-xw": {
    "name": "研究生院·新闻",
-   "checkedAt": "2026-11-10T02:49:34.188Z",
-   "lastSuccessAt": "2026-11-09T14:17:47.013Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-10T10:31:42.906Z",
+   "lastSuccessAt": "2026-11-10T10:31:42.906Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 28
   },
   "rsc-tzgg": {
    "name": "人事部·通知公告",
-   "checkedAt": "2026-11-10T02:49:34.188Z",
-   "lastSuccessAt": "2026-11-10T02:49:34.188Z",
+   "checkedAt": "2026-11-10T10:31:42.906Z",
+   "lastSuccessAt": "2026-11-10T10:31:42.906Z",
    "outcome": "ok",
    "status": 200,
    "items": 14
   },
   "news": {
    "name": "新闻网·综合",
-   "checkedAt": "2026-11-10T02:49:34.188Z",
-   "lastSuccessAt": "2026-11-09T14:17:47.013Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-10T10:31:42.906Z",
+   "lastSuccessAt": "2026-11-10T10:31:42.906Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 10
   }
  },
  "items": [
+  {
+   "id": "48594a32dfac9658",
+   "sourceId": "news",
+   "sourceName": "新闻网·综合",
+   "school": "zzu",
+   "title": "郑州大学主办“中希文明互鉴与中原文化的国际传播”国际学术会议",
+   "url": "http://www.zzu.edu.cn/info/1217/89373.htm",
+   "date": "2026-11-09",
+   "tag": null,
+   "category": "综合",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-10T10:31:42.910Z",
+   "unit": "新闻网"
+  },
+  {
+   "id": "3b1e9cecffbcd3e6",
+   "sourceId": "news",
+   "sourceName": "新闻网·综合",
+   "school": "zzu",
+   "title": "上海交通大学校长丁奎岭院士为我校作专题报告",
+   "url": "http://www.zzu.edu.cn/info/1217/89371.htm",
+   "date": "2026-11-08",
+   "tag": null,
+   "category": "综合",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-10T10:31:42.910Z",
+   "unit": "新闻网"
+  },
   {
    "id": "7a2f48d495c60aff",
    "sourceId": "news",

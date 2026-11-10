@@ -3,7 +3,7 @@
  "name": "南开大学",
  "province": "天津市",
  "city": "",
- "generatedAt": "2026-11-10T02:49:38.803Z",
+ "generatedAt": "2026-11-10T10:31:43.277Z",
  "total": 11,
  "bySource": [
   {
@@ -33,7 +33,7 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务处·通知公告",
-   "checkedAt": "2026-11-10T02:48:37.160Z",
+   "checkedAt": "2026-11-10T10:30:50.908Z",
    "lastSuccessAt": "2026-11-09T14:17:27.841Z",
    "outcome": "network",
    "status": null,

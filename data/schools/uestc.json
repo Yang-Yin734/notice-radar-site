@@ -3,7 +3,7 @@
  "name": "电子科技大学",
  "province": "四川省",
  "city": "成都市",
- "generatedAt": "2026-11-10T02:49:38.803Z",
+ "generatedAt": "2026-11-10T10:31:43.277Z",
  "total": 95,
  "bySource": [
   {
@@ -131,56 +131,56 @@
  "sourceChecks": {
   "jwc-important": {
    "name": "教务处·重要公告",
-   "checkedAt": "2026-11-10T02:47:39.227Z",
-   "lastSuccessAt": "2026-11-09T09:40:29.623Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-10T10:29:57.594Z",
+   "lastSuccessAt": "2026-11-10T10:29:57.594Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 15
   },
   "jwc-student": {
    "name": "教务处·学生事务公告",
-   "checkedAt": "2026-11-10T02:47:39.227Z",
-   "lastSuccessAt": "2026-11-09T09:40:31.118Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-10T10:29:57.594Z",
+   "lastSuccessAt": "2026-11-10T10:29:57.594Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 15
   },
   "news-notice": {
    "name": "新闻网·公告",
-   "checkedAt": "2026-11-10T02:47:39.227Z",
-   "lastSuccessAt": "2026-11-09T09:40:29.623Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-10T10:30:01.589Z",
+   "lastSuccessAt": "2026-11-10T10:30:01.589Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 4
   },
   "news-academic": {
    "name": "新闻网·学术",
-   "checkedAt": "2026-11-10T02:47:39.227Z",
-   "lastSuccessAt": "2026-11-09T08:57:31.550Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-10T10:30:01.589Z",
+   "lastSuccessAt": "2026-11-10T10:30:01.589Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 4
   },
   "gr-notice": {
    "name": "研究生院·通知",
-   "checkedAt": "2026-11-10T02:47:39.227Z",
-   "lastSuccessAt": "2026-11-09T09:40:29.623Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-10T10:30:01.589Z",
+   "lastSuccessAt": "2026-11-10T10:30:01.589Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 20
   },
   "math-jwgg": {
    "name": "数学科学学院·教务公告",
-   "checkedAt": "2026-11-09T04:40:11.897Z",
-   "lastSuccessAt": "2026-11-09T04:40:11.897Z",
+   "checkedAt": "2026-11-10T05:56:44.614Z",
+   "lastSuccessAt": "2026-11-10T05:56:44.614Z",
    "outcome": "ok",
    "status": 200,
    "items": 15
   },
   "math-xsgz": {
    "name": "数学科学学院·学生工作",
-   "checkedAt": "2026-11-09T04:40:11.897Z",
-   "lastSuccessAt": "2026-11-09T04:40:11.897Z",
+   "checkedAt": "2026-11-10T05:56:44.614Z",
+   "lastSuccessAt": "2026-11-10T05:56:44.614Z",
    "outcome": "ok",
    "status": 200,
    "items": 15
