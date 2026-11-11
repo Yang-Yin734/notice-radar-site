@@ -3,18 +3,18 @@
  "name": "电子科技大学",
  "province": "四川省",
  "city": "成都市",
- "generatedAt": "2026-11-11T02:54:03.111Z",
- "total": 95,
+ "generatedAt": "2026-11-11T10:21:36.530Z",
+ "total": 98,
  "bySource": [
   {
    "sourceId": "jwc-important",
    "sourceName": "教务处·重要公告",
-   "count": 11
+   "count": 12
   },
   {
    "sourceId": "news-notice",
    "sourceName": "新闻网·公告",
-   "count": 23
+   "count": 25
   },
   {
    "sourceId": "news-academic",
@@ -45,7 +45,7 @@
     "教务处·重要公告",
     "教务处·学生事务公告"
    ],
-   "count": 35
+   "count": 36
   },
   {
    "id": "数学科学学院",
@@ -63,7 +63,7 @@
     "新闻网·公告",
     "新闻网·学术"
    ],
-   "count": 29
+   "count": 31
   },
   {
    "id": "研究生院",
@@ -131,62 +131,111 @@
  "sourceChecks": {
   "jwc-important": {
    "name": "教务处·重要公告",
-   "checkedAt": "2026-11-11T02:52:07.997Z",
-   "lastSuccessAt": "2026-11-10T23:16:28.488Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-11T10:19:32.765Z",
+   "lastSuccessAt": "2026-11-11T10:19:32.765Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 15
   },
   "jwc-student": {
    "name": "教务处·学生事务公告",
-   "checkedAt": "2026-11-11T02:52:07.997Z",
-   "lastSuccessAt": "2026-11-10T23:16:28.488Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-11T10:19:33.904Z",
+   "lastSuccessAt": "2026-11-11T10:19:33.904Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 15
   },
   "news-notice": {
    "name": "新闻网·公告",
-   "checkedAt": "2026-11-11T02:52:07.997Z",
-   "lastSuccessAt": "2026-11-10T23:16:28.488Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-11T10:19:32.765Z",
+   "lastSuccessAt": "2026-11-11T10:19:32.765Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 4
   },
   "news-academic": {
    "name": "新闻网·学术",
-   "checkedAt": "2026-11-11T02:52:07.997Z",
-   "lastSuccessAt": "2026-11-10T23:16:28.488Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-11T10:19:32.765Z",
+   "lastSuccessAt": "2026-11-11T10:19:32.765Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 4
   },
   "gr-notice": {
    "name": "研究生院·通知",
-   "checkedAt": "2026-11-11T02:52:07.997Z",
-   "lastSuccessAt": "2026-11-10T23:16:28.488Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-11T10:19:32.765Z",
+   "lastSuccessAt": "2026-11-11T10:19:32.765Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 20
   },
   "math-jwgg": {
    "name": "数学科学学院·教务公告",
-   "checkedAt": "2026-11-10T05:56:44.614Z",
-   "lastSuccessAt": "2026-11-10T05:56:44.614Z",
+   "checkedAt": "2026-11-11T04:42:57.342Z",
+   "lastSuccessAt": "2026-11-11T04:42:57.342Z",
    "outcome": "ok",
    "status": 200,
    "items": 15
   },
   "math-xsgz": {
    "name": "数学科学学院·学生工作",
-   "checkedAt": "2026-11-10T05:56:44.614Z",
+   "checkedAt": "2026-11-11T04:42:57.342Z",
    "lastSuccessAt": "2026-11-10T05:56:44.614Z",
-   "outcome": "ok",
+   "outcome": "empty",
    "status": 200,
-   "items": 15
+   "items": 0
   }
  },
  "items": [
+  {
+   "id": "9e3a02ab3649304f",
+   "sourceId": "jwc-important",
+   "sourceName": "教务处·重要公告",
+   "school": "uestc",
+   "title": "2026年“晨电智能杯”嵌入式设计竞赛低年级组获奖名单公示",
+   "url": "https://www.jwc.uestc.edu.cn/info/1127/24417.htm",
+   "date": "2026-11-11",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-11T10:19:32.769Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "48f00a81cfb18810",
+   "sourceId": "news-notice",
+   "sourceName": "新闻网·公告",
+   "school": "uestc",
+   "title": "成电讲坛 | 走近中国川剧共享戏曲之美",
+   "url": "https://news.uestc.edu.cn/info/1016/45316.htm",
+   "date": "2026-11-11",
+   "tag": "文化",
+   "category": null,
+   "alsoIn": [
+    "新闻网·学术"
+   ],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-11T10:19:32.769Z",
+   "unit": "新闻网"
+  },
+  {
+   "id": "07de6ff3fcb332bd",
+   "sourceId": "news-notice",
+   "sourceName": "新闻网·公告",
+   "school": "uestc",
+   "title": "学者论坛：从 Hopfield 网络到非 BP 算法——非传统学习规则的探索",
+   "url": "https://news.uestc.edu.cn/info/1015/45261.htm",
+   "date": "2026-11-11",
+   "tag": "学术",
+   "category": null,
+   "alsoIn": [
+    "新闻网·学术"
+   ],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-11T10:19:32.769Z",
+   "unit": "新闻网"
+  },
   {
    "id": "3e72fa4dc7e2d545",
    "sourceId": "jwc-important",

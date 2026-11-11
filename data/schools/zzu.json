@@ -3,18 +3,18 @@
  "name": "郑州大学",
  "province": "河南省",
  "city": "郑州市",
- "generatedAt": "2026-11-11T02:54:03.111Z",
- "total": 121,
+ "generatedAt": "2026-11-11T10:21:36.530Z",
+ "total": 125,
  "bySource": [
   {
    "sourceId": "rsc-tzgg",
    "sourceName": "人事部·通知公告",
-   "count": 14
+   "count": 15
   },
   {
    "sourceId": "news",
    "sourceName": "新闻网·综合",
-   "count": 19
+   "count": 22
   },
   {
    "sourceId": "jwc-tzgg",
@@ -62,7 +62,7 @@
    "sources": [
     "新闻网·综合"
    ],
-   "count": 19
+   "count": 22
   },
   {
    "id": "人事部",
@@ -70,7 +70,7 @@
    "sources": [
     "人事部·通知公告"
    ],
-   "count": 14
+   "count": 15
   }
  ],
  "sourceCatalog": [
@@ -114,54 +114,114 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务部·通知公告",
-   "checkedAt": "2026-11-11T02:54:02.824Z",
-   "lastSuccessAt": "2026-11-11T02:54:02.824Z",
+   "checkedAt": "2026-11-11T10:21:36.226Z",
+   "lastSuccessAt": "2026-11-11T10:21:36.226Z",
    "outcome": "ok",
    "status": 200,
    "items": 15
   },
   "jwc-xwkd": {
    "name": "教务部·新闻快递",
-   "checkedAt": "2026-11-11T02:54:02.824Z",
-   "lastSuccessAt": "2026-11-11T02:54:02.824Z",
+   "checkedAt": "2026-11-11T10:21:36.226Z",
+   "lastSuccessAt": "2026-11-11T10:21:36.226Z",
    "outcome": "ok",
    "status": 200,
    "items": 15
   },
   "gs-gg": {
    "name": "研究生院·公告",
-   "checkedAt": "2026-11-11T02:54:02.824Z",
-   "lastSuccessAt": "2026-11-10T23:18:14.370Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-11T10:21:36.226Z",
+   "lastSuccessAt": "2026-11-11T10:21:36.226Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 28
   },
   "gs-xw": {
    "name": "研究生院·新闻",
-   "checkedAt": "2026-11-11T02:54:02.824Z",
-   "lastSuccessAt": "2026-11-10T23:18:14.370Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-11T10:21:36.226Z",
+   "lastSuccessAt": "2026-11-11T10:21:36.226Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 28
   },
   "rsc-tzgg": {
    "name": "人事部·通知公告",
-   "checkedAt": "2026-11-11T02:54:02.824Z",
-   "lastSuccessAt": "2026-11-11T02:54:02.824Z",
+   "checkedAt": "2026-11-11T10:21:36.226Z",
+   "lastSuccessAt": "2026-11-11T10:21:36.226Z",
    "outcome": "ok",
    "status": 200,
    "items": 14
   },
   "news": {
    "name": "新闻网·综合",
-   "checkedAt": "2026-11-11T02:54:02.824Z",
-   "lastSuccessAt": "2026-11-10T23:18:14.370Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-11T10:21:36.226Z",
+   "lastSuccessAt": "2026-11-11T10:21:36.226Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 10
   }
  },
  "items": [
+  {
+   "id": "301f7f8f6afd4b6c",
+   "sourceId": "rsc-tzgg",
+   "sourceName": "人事部·通知公告",
+   "school": "zzu",
+   "title": "关于开展郑州大学2026年度教职工荣休活动的通知",
+   "url": "https://www5.zzu.edu.cn/rsc/info/1050/6527.htm",
+   "date": "2026-11-11",
+   "tag": null,
+   "category": "人事",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-11T10:21:36.229Z",
+   "unit": "人事部"
+  },
+  {
+   "id": "e9ed63f7d7e6b33c",
+   "sourceId": "news",
+   "sourceName": "新闻网·综合",
+   "school": "zzu",
+   "title": "郑州大学承办中国高等教育学会保健医学分会2026年学术年会",
+   "url": "http://www.zzu.edu.cn/info/1217/89385.htm",
+   "date": "2026-11-11",
+   "tag": null,
+   "category": "综合",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-11T10:21:36.229Z",
+   "unit": "新闻网"
+  },
+  {
+   "id": "0261b7a77b7ad612",
+   "sourceId": "news",
+   "sourceName": "新闻网·综合",
+   "school": "zzu",
+   "title": "郑州大学主办2026中国领导人才论坛·领导人才发展研讨会",
+   "url": "http://www.zzu.edu.cn/info/1217/89381.htm",
+   "date": "2026-11-10",
+   "tag": null,
+   "category": "综合",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-11T10:21:36.229Z",
+   "unit": "新闻网"
+  },
+  {
+   "id": "ded0369ce10e4824",
+   "sourceId": "news",
+   "sourceName": "新闻网·综合",
+   "school": "zzu",
+   "title": "郑州大学承办中国工业经济学会2026年学术年会",
+   "url": "http://www.zzu.edu.cn/info/1217/89376.htm",
+   "date": "2026-11-10",
+   "tag": null,
+   "category": "综合",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-11T10:21:36.229Z",
+   "unit": "新闻网"
+  },
   {
    "id": "aa3592d8488312c7",
    "sourceId": "rsc-tzgg",

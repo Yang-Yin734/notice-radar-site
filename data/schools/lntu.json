@@ -3,7 +3,7 @@
  "name": "辽宁工程技术大学",
  "province": "辽宁省",
  "city": "阜新市",
- "generatedAt": "2026-11-11T02:54:03.111Z",
+ "generatedAt": "2026-11-11T10:21:36.530Z",
  "total": 4,
  "bySource": [
   {
@@ -33,11 +33,11 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务·通知公告",
-   "checkedAt": "2026-11-11T02:53:05.355Z",
+   "checkedAt": "2026-11-11T10:20:31.744Z",
    "lastSuccessAt": "2026-11-11T02:53:05.355Z",
-   "outcome": "ok",
-   "status": 200,
-   "items": 10
+   "outcome": "network",
+   "status": null,
+   "items": 0
   }
  },
  "items": [

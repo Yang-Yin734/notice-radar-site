@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T02:54:03.111Z",
+ "generatedAt": "2026-11-11T10:21:36.530Z",
  "source": "教育部《全国高等学校名单》（config/schools/directory.tsv，见 config/schools/README.md）",
  "note": "status=active 表示真抓过、能出通知；pending 只是目录条目，选中会提示尚未接入。接入方法见 docs/add-your-school.md",
  "counts": {
@@ -14382,15 +14382,15 @@
     {
      "id": "新闻网",
      "name": "新闻网",
-     "count": 19
+     "count": 22
     },
     {
      "id": "人事部",
      "name": "人事部",
-     "count": 14
+     "count": 15
     }
    ],
-   "total": 121
+   "total": 125
   },
   {
    "id": "hpu",
@@ -22005,7 +22005,7 @@
     {
      "id": "教务处",
      "name": "教务处",
-     "count": 35
+     "count": 36
     },
     {
      "id": "数学科学学院",
@@ -22015,7 +22015,7 @@
     {
      "id": "新闻网",
      "name": "新闻网",
-     "count": 29
+     "count": 31
     },
     {
      "id": "研究生院",
@@ -22023,7 +22023,7 @@
      "count": 0
     }
    ],
-   "total": 95
+   "total": 98
   },
   {
    "id": "swpu",
@@ -24994,10 +24994,10 @@
     {
      "id": "教务部",
      "name": "教务部",
-     "count": 24
+     "count": 25
     }
    ],
-   "total": 24
+   "total": 25
   },
   {
    "id": "xaut",
