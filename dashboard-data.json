@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-11T10:21:36.530Z",
-  "total": 645,
+  "generatedAt": "2026-11-11T17:59:22.461Z",
+  "total": 646,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
-      "sourceName": "教务·通知公告",
-      "count": 263
+      "sourceName": "教务处·通知公告",
+      "count": 264
     },
     {
       "sourceId": "jwb-tzgg",
@@ -114,6 +114,20 @@
     }
   ],
   "items": [
+    {
+      "id": "608212572a684f25",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "cufe",
+      "title": "教字〔2026〕173号关于开展2026-2027学年秋季学期本科期中教学检查工作的通知",
+      "url": "https://jwc.cufe.edu.cn/info/1101/8334.htm",
+      "date": "2026-11-11",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-11T17:58:07.659Z"
+    },
     {
       "id": "301f7f8f6afd4b6c",
       "sourceId": "rsc-tzgg",
