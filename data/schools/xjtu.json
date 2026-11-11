@@ -3,13 +3,13 @@
  "name": "西安交通大学",
  "province": "陕西省",
  "city": "西安市",
- "generatedAt": "2026-11-10T23:18:14.807Z",
- "total": 15,
+ "generatedAt": "2026-11-11T02:54:03.111Z",
+ "total": 16,
  "bySource": [
   {
    "sourceId": "jwc-jxtz",
    "sourceName": "教务处·教学通知",
-   "count": 15
+   "count": 16
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务处·教学通知"
    ],
-   "count": 15
+   "count": 16
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,29 @@
  "sourceChecks": {
   "jwc-jxtz": {
    "name": "教务处·教学通知",
-   "checkedAt": "2026-11-10T23:18:04.518Z",
-   "lastSuccessAt": "2026-11-10T23:18:04.518Z",
+   "checkedAt": "2026-11-11T02:53:47.500Z",
+   "lastSuccessAt": "2026-11-11T02:53:47.500Z",
    "outcome": "ok",
    "status": 200,
    "items": 9
   }
  },
  "items": [
+  {
+   "id": "45decc6899e7bf0e",
+   "sourceId": "jwc-jxtz",
+   "sourceName": "教务处·教学通知",
+   "school": "xjtu",
+   "title": "[考试安排]关于西安交通大学2026年下半年全国大学英语四六级口语考试的温馨提示",
+   "url": "https://jwc.xjtu.edu.cn/info/1171/10642.htm",
+   "date": "2026-11-11",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-11T02:53:47.514Z",
+   "unit": "教务处"
+  },
   {
    "id": "21895c04009bccde",
    "sourceId": "jwc-jxtz",

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-10T23:18:14.807Z",
-  "total": 636,
+  "generatedAt": "2026-11-11T02:54:03.111Z",
+  "total": 637,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
@@ -43,6 +43,11 @@
       "count": 22
     },
     {
+      "sourceId": "jwc-jxtz",
+      "sourceName": "教务处·教学通知",
+      "count": 19
+    },
+    {
       "sourceId": "news",
       "sourceName": "新闻网·综合",
       "count": 19
@@ -51,11 +56,6 @@
       "sourceId": "aao-tzgg",
       "sourceName": "教务处·通知公告",
       "count": 19
-    },
-    {
-      "sourceId": "jwc-jxtz",
-      "sourceName": "教务处·教学通知",
-      "count": 18
     },
     {
       "sourceId": "math-jwgg",
@@ -114,6 +114,20 @@
     }
   ],
   "items": [
+    {
+      "id": "45decc6899e7bf0e",
+      "sourceId": "jwc-jxtz",
+      "sourceName": "教务处·教学通知",
+      "school": "xjtu",
+      "title": "[考试安排]关于西安交通大学2026年下半年全国大学英语四六级口语考试的温馨提示",
+      "url": "https://jwc.xjtu.edu.cn/info/1171/10642.htm",
+      "date": "2026-11-11",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-11T02:53:47.514Z"
+    },
     {
       "id": "d940a7329ad2bff9",
       "sourceId": "jwc-tzgg",
