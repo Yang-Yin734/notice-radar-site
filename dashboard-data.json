@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-12T07:11:26.010Z",
-  "total": 648,
+  "generatedAt": "2026-11-12T15:59:32.157Z",
+  "total": 655,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
       "sourceName": "教务处·通知公告",
-      "count": 264
+      "count": 266
     },
     {
       "sourceId": "jwb-tzgg",
@@ -15,12 +15,12 @@
     {
       "sourceId": "gs-xw",
       "sourceName": "研究生院·新闻",
-      "count": 30
+      "count": 31
     },
     {
       "sourceId": "jiaowu-tzgg",
       "sourceName": "教务部·通知公告",
-      "count": 25
+      "count": 26
     },
     {
       "sourceId": "news-notice",
@@ -50,7 +50,7 @@
     {
       "sourceId": "aao-tzgg",
       "sourceName": "教务处·通知公告",
-      "count": 20
+      "count": 21
     },
     {
       "sourceId": "jwc-jxtz",
@@ -98,14 +98,14 @@
       "count": 12
     },
     {
+      "sourceId": "news-academic",
+      "sourceName": "新闻网·学术",
+      "count": 8
+    },
+    {
       "sourceId": "jwc-tztg",
       "sourceName": "教务处·通知通告",
       "count": 7
-    },
-    {
-      "sourceId": "news-academic",
-      "sourceName": "新闻网·学术",
-      "count": 6
     },
     {
       "sourceId": "oaa-tzgg",
@@ -114,6 +114,91 @@
     }
   ],
   "items": [
+    {
+      "id": "24e078368fa6754c",
+      "sourceId": "gs-xw",
+      "sourceName": "研究生院·新闻",
+      "school": "zzu",
+      "title": "研究生院党支部召开党员大会",
+      "url": "https://gs.zzu.edu.cn/info/1072/13937.htm",
+      "date": "2026-11-12",
+      "tag": null,
+      "category": "研究生",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-12T15:59:31.676Z"
+    },
+    {
+      "id": "0fe3f606d5211c0b",
+      "sourceId": "jiaowu-tzgg",
+      "sourceName": "教务部·通知公告",
+      "school": "nwpu",
+      "title": "第十九届尖烽时刻全国商业模拟大赛校内选拔赛报名通知",
+      "url": "https://jiaowu.nwpu.edu.cn/info/1164/30808.htm",
+      "date": "2026-11-12",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "deadline": "2027-01-30",
+      "tier": "digest",
+      "firstSeenAt": "2026-11-12T15:58:42.844Z"
+    },
+    {
+      "id": "e38093affe6170da",
+      "sourceId": "aao-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "njau",
+      "title": "关于第78次全国计算机等级考试成绩核查的通知",
+      "url": "https://aao.njau.edu.cn/info/1143/7029.htm",
+      "date": "2026-11-12",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-12T15:58:33.508Z"
+    },
+    {
+      "id": "00d09bc4c8771866",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "cufe",
+      "title": "教字〔2026〕176号关于举行大学英语四、六级口语模拟考试的通知",
+      "url": "https://jwc.cufe.edu.cn/info/1101/8337.htm",
+      "date": "2026-11-12",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-12T15:57:52.823Z"
+    },
+    {
+      "id": "86b4925acf6273fe",
+      "sourceId": "news-academic",
+      "sourceName": "新闻网·学术",
+      "school": "uestc",
+      "title": "「人文×科技」思想者讲坛第四十四期讲座预告",
+      "url": "https://news.uestc.edu.cn/info/1015/45363.htm",
+      "date": "2026-11-12",
+      "tag": "学术",
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-12T15:57:13.842Z"
+    },
+    {
+      "id": "0c1af7336691e8de",
+      "sourceId": "news-academic",
+      "sourceName": "新闻网·学术",
+      "school": "uestc",
+      "title": "学者论坛：SIRI—— Tensor Rank Selection via Stability Index with Random Initializations",
+      "url": "https://news.uestc.edu.cn/info/1015/45315.htm",
+      "date": "2026-11-12",
+      "tag": "学术",
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-12T15:57:13.842Z"
+    },
     {
       "id": "cb0702cbebf3bb2b",
       "sourceId": "aao-tzgg",
@@ -8350,6 +8435,20 @@
       "alsoIn": [],
       "tier": "digest",
       "firstSeenAt": "2026-11-09T14:17:44.710Z"
+    },
+    {
+      "id": "5ce3733f613a1569",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "tyut",
+      "title": "关于开展2026年微专业报名与选修工作的通知",
+      "url": "https://jwc.tyut.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1057&wbnewsid=16875",
+      "date": null,
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-12T15:59:09.208Z"
     },
     {
       "id": "444d08b515dfbe8b",

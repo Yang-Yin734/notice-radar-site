@@ -3,9 +3,14 @@
  "name": "电子科技大学",
  "province": "四川省",
  "city": "成都市",
- "generatedAt": "2026-11-12T07:11:26.010Z",
- "total": 99,
+ "generatedAt": "2026-11-12T15:59:32.157Z",
+ "total": 101,
  "bySource": [
+  {
+   "sourceId": "news-academic",
+   "sourceName": "新闻网·学术",
+   "count": 8
+  },
   {
    "sourceId": "jwc-important",
    "sourceName": "教务处·重要公告",
@@ -20,11 +25,6 @@
    "sourceId": "math-xsgz",
    "sourceName": "数学科学学院·学生工作",
    "count": 14
-  },
-  {
-   "sourceId": "news-academic",
-   "sourceName": "新闻网·学术",
-   "count": 6
   },
   {
    "sourceId": "math-jwgg",
@@ -48,6 +48,15 @@
    "count": 36
   },
   {
+   "id": "新闻网",
+   "name": "新闻网",
+   "sources": [
+    "新闻网·学术",
+    "新闻网·公告"
+   ],
+   "count": 33
+  },
+  {
    "id": "数学科学学院",
    "name": "数学科学学院",
    "sources": [
@@ -55,15 +64,6 @@
     "数学科学学院·教务公告"
    ],
    "count": 32
-  },
-  {
-   "id": "新闻网",
-   "name": "新闻网",
-   "sources": [
-    "新闻网·公告",
-    "新闻网·学术"
-   ],
-   "count": 31
   },
   {
    "id": "研究生院",
@@ -131,23 +131,23 @@
  "sourceChecks": {
   "jwc-important": {
    "name": "教务处·重要公告",
-   "checkedAt": "2026-11-12T07:09:15.910Z",
-   "lastSuccessAt": "2026-11-12T00:10:06.116Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-12T15:57:13.836Z",
+   "lastSuccessAt": "2026-11-12T15:57:13.836Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 15
   },
   "jwc-student": {
    "name": "教务处·学生事务公告",
-   "checkedAt": "2026-11-12T07:09:15.910Z",
-   "lastSuccessAt": "2026-11-12T00:10:06.116Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-12T15:57:17.144Z",
+   "lastSuccessAt": "2026-11-12T15:57:17.144Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 15
   },
   "news-notice": {
    "name": "新闻网·公告",
-   "checkedAt": "2026-11-12T07:09:15.910Z",
+   "checkedAt": "2026-11-12T15:57:23.368Z",
    "lastSuccessAt": "2026-11-12T00:10:06.116Z",
    "outcome": "network",
    "status": null,
@@ -155,15 +155,15 @@
   },
   "news-academic": {
    "name": "新闻网·学术",
-   "checkedAt": "2026-11-12T07:09:15.910Z",
-   "lastSuccessAt": "2026-11-12T00:10:06.116Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-12T15:57:13.836Z",
+   "lastSuccessAt": "2026-11-12T15:57:13.836Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 4
   },
   "gr-notice": {
    "name": "研究生院·通知",
-   "checkedAt": "2026-11-12T07:09:15.910Z",
+   "checkedAt": "2026-11-12T15:57:23.368Z",
    "lastSuccessAt": "2026-11-12T00:10:06.116Z",
    "outcome": "network",
    "status": null,
@@ -187,6 +187,36 @@
   }
  },
  "items": [
+  {
+   "id": "86b4925acf6273fe",
+   "sourceId": "news-academic",
+   "sourceName": "新闻网·学术",
+   "school": "uestc",
+   "title": "「人文×科技」思想者讲坛第四十四期讲座预告",
+   "url": "https://news.uestc.edu.cn/info/1015/45363.htm",
+   "date": "2026-11-12",
+   "tag": "学术",
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-12T15:57:13.842Z",
+   "unit": "新闻网"
+  },
+  {
+   "id": "0c1af7336691e8de",
+   "sourceId": "news-academic",
+   "sourceName": "新闻网·学术",
+   "school": "uestc",
+   "title": "学者论坛：SIRI—— Tensor Rank Selection via Stability Index with Random Initializations",
+   "url": "https://news.uestc.edu.cn/info/1015/45315.htm",
+   "date": "2026-11-12",
+   "tag": "学术",
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-12T15:57:13.842Z",
+   "unit": "新闻网"
+  },
   {
    "id": "9e3a02ab3649304f",
    "sourceId": "jwc-important",

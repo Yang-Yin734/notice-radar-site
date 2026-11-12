@@ -3,13 +3,13 @@
  "name": "西北工业大学",
  "province": "陕西省",
  "city": "西安市",
- "generatedAt": "2026-11-12T07:11:26.010Z",
- "total": 25,
+ "generatedAt": "2026-11-12T15:59:32.157Z",
+ "total": 26,
  "bySource": [
   {
    "sourceId": "jiaowu-tzgg",
    "sourceName": "教务部·通知公告",
-   "count": 25
+   "count": 26
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务部·通知公告"
    ],
-   "count": 25
+   "count": 26
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,30 @@
  "sourceChecks": {
   "jiaowu-tzgg": {
    "name": "教务部·通知公告",
-   "checkedAt": "2026-11-12T07:10:41.825Z",
-   "lastSuccessAt": "2026-11-12T00:11:09.799Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-12T15:58:42.839Z",
+   "lastSuccessAt": "2026-11-12T15:58:42.839Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 15
   }
  },
  "items": [
+  {
+   "id": "0fe3f606d5211c0b",
+   "sourceId": "jiaowu-tzgg",
+   "sourceName": "教务部·通知公告",
+   "school": "nwpu",
+   "title": "第十九届尖烽时刻全国商业模拟大赛校内选拔赛报名通知",
+   "url": "https://jiaowu.nwpu.edu.cn/info/1164/30808.htm",
+   "date": "2026-11-12",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "deadline": "2027-01-30",
+   "tier": "digest",
+   "firstSeenAt": "2026-11-12T15:58:42.844Z",
+   "unit": "教务部"
+  },
   {
    "id": "4fe1cc92081981ab",
    "sourceId": "jiaowu-tzgg",

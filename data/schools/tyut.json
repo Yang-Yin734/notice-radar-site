@@ -3,13 +3,13 @@
  "name": "太原理工大学",
  "province": "山西省",
  "city": "太原市",
- "generatedAt": "2026-11-12T07:11:26.010Z",
- "total": 1,
+ "generatedAt": "2026-11-12T15:59:32.157Z",
+ "total": 2,
  "bySource": [
   {
    "sourceId": "jwc-tzgg",
    "sourceName": "教务·通知公告",
-   "count": 1
+   "count": 2
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务·通知公告"
    ],
-   "count": 1
+   "count": 2
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,29 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务·通知公告",
-   "checkedAt": "2026-11-12T07:11:03.946Z",
-   "lastSuccessAt": "2026-11-12T07:11:03.946Z",
+   "checkedAt": "2026-11-12T15:59:09.204Z",
+   "lastSuccessAt": "2026-11-12T15:59:09.204Z",
    "outcome": "ok",
    "status": 200,
    "items": 5
   }
  },
  "items": [
+  {
+   "id": "5ce3733f613a1569",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "tyut",
+   "title": "关于开展2026年微专业报名与选修工作的通知",
+   "url": "https://jwc.tyut.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1057&wbnewsid=16875",
+   "date": null,
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-12T15:59:09.208Z",
+   "unit": "教务"
+  },
   {
    "id": "335636c3f2ff16c3",
    "sourceId": "jwc-tzgg",

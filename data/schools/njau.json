@@ -3,13 +3,13 @@
  "name": "南京农业大学",
  "province": "江苏省",
  "city": "南京市",
- "generatedAt": "2026-11-12T07:11:26.010Z",
- "total": 20,
+ "generatedAt": "2026-11-12T15:59:32.157Z",
+ "total": 21,
  "bySource": [
   {
    "sourceId": "aao-tzgg",
    "sourceName": "教务处·通知公告",
-   "count": 20
+   "count": 21
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务处·通知公告"
    ],
-   "count": 20
+   "count": 21
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,29 @@
  "sourceChecks": {
   "aao-tzgg": {
    "name": "教务处·通知公告",
-   "checkedAt": "2026-11-12T07:10:30.669Z",
-   "lastSuccessAt": "2026-11-12T07:10:30.669Z",
+   "checkedAt": "2026-11-12T15:58:33.502Z",
+   "lastSuccessAt": "2026-11-12T15:58:33.502Z",
    "outcome": "ok",
    "status": 200,
    "items": 20
   }
  },
  "items": [
+  {
+   "id": "e38093affe6170da",
+   "sourceId": "aao-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "njau",
+   "title": "关于第78次全国计算机等级考试成绩核查的通知",
+   "url": "https://aao.njau.edu.cn/info/1143/7029.htm",
+   "date": "2026-11-12",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-12T15:58:33.508Z",
+   "unit": "教务处"
+  },
   {
    "id": "cb0702cbebf3bb2b",
    "sourceId": "aao-tzgg",
