@@ -3,8 +3,8 @@
  "name": "电子科技大学",
  "province": "四川省",
  "city": "成都市",
- "generatedAt": "2026-11-12T00:11:45.400Z",
- "total": 98,
+ "generatedAt": "2026-11-12T07:11:26.010Z",
+ "total": 99,
  "bySource": [
   {
    "sourceId": "jwc-important",
@@ -17,14 +17,14 @@
    "count": 25
   },
   {
+   "sourceId": "math-xsgz",
+   "sourceName": "数学科学学院·学生工作",
+   "count": 14
+  },
+  {
    "sourceId": "news-academic",
    "sourceName": "新闻网·学术",
    "count": 6
-  },
-  {
-   "sourceId": "math-xsgz",
-   "sourceName": "数学科学学院·学生工作",
-   "count": 13
   },
   {
    "sourceId": "math-jwgg",
@@ -54,7 +54,7 @@
     "数学科学学院·学生工作",
     "数学科学学院·教务公告"
    ],
-   "count": 31
+   "count": 32
   },
   {
    "id": "新闻网",
@@ -131,59 +131,59 @@
  "sourceChecks": {
   "jwc-important": {
    "name": "教务处·重要公告",
-   "checkedAt": "2026-11-12T00:10:06.116Z",
+   "checkedAt": "2026-11-12T07:09:15.910Z",
    "lastSuccessAt": "2026-11-12T00:10:06.116Z",
-   "outcome": "ok",
-   "status": 200,
-   "items": 15
+   "outcome": "network",
+   "status": null,
+   "items": 0
   },
   "jwc-student": {
    "name": "教务处·学生事务公告",
-   "checkedAt": "2026-11-12T00:10:06.116Z",
+   "checkedAt": "2026-11-12T07:09:15.910Z",
    "lastSuccessAt": "2026-11-12T00:10:06.116Z",
-   "outcome": "ok",
-   "status": 200,
-   "items": 15
+   "outcome": "network",
+   "status": null,
+   "items": 0
   },
   "news-notice": {
    "name": "新闻网·公告",
-   "checkedAt": "2026-11-12T00:10:06.116Z",
+   "checkedAt": "2026-11-12T07:09:15.910Z",
    "lastSuccessAt": "2026-11-12T00:10:06.116Z",
-   "outcome": "ok",
-   "status": 200,
-   "items": 4
+   "outcome": "network",
+   "status": null,
+   "items": 0
   },
   "news-academic": {
    "name": "新闻网·学术",
-   "checkedAt": "2026-11-12T00:10:06.116Z",
+   "checkedAt": "2026-11-12T07:09:15.910Z",
    "lastSuccessAt": "2026-11-12T00:10:06.116Z",
-   "outcome": "ok",
-   "status": 200,
-   "items": 4
+   "outcome": "network",
+   "status": null,
+   "items": 0
   },
   "gr-notice": {
    "name": "研究生院·通知",
-   "checkedAt": "2026-11-12T00:10:06.116Z",
+   "checkedAt": "2026-11-12T07:09:15.910Z",
    "lastSuccessAt": "2026-11-12T00:10:06.116Z",
-   "outcome": "ok",
-   "status": 200,
-   "items": 20
+   "outcome": "network",
+   "status": null,
+   "items": 0
   },
   "math-jwgg": {
    "name": "数学科学学院·教务公告",
-   "checkedAt": "2026-11-11T04:42:57.342Z",
-   "lastSuccessAt": "2026-11-11T04:42:57.342Z",
+   "checkedAt": "2026-11-12T05:45:06.415Z",
+   "lastSuccessAt": "2026-11-12T05:45:06.415Z",
    "outcome": "ok",
    "status": 200,
    "items": 15
   },
   "math-xsgz": {
    "name": "数学科学学院·学生工作",
-   "checkedAt": "2026-11-11T04:42:57.342Z",
-   "lastSuccessAt": "2026-11-10T05:56:44.614Z",
-   "outcome": "empty",
+   "checkedAt": "2026-11-12T05:45:06.415Z",
+   "lastSuccessAt": "2026-11-12T05:45:06.415Z",
+   "outcome": "ok",
    "status": 200,
-   "items": 0
+   "items": 15
   }
  },
  "items": [
@@ -235,6 +235,21 @@
    "tier": "digest",
    "firstSeenAt": "2026-11-11T10:19:32.769Z",
    "unit": "新闻网"
+  },
+  {
+   "id": "05a7532e8c87ece2",
+   "sourceId": "math-xsgz",
+   "sourceName": "数学科学学院·学生工作",
+   "school": "uestc",
+   "title": "关于开展2026年度国防科技奖学金评选的通知",
+   "url": "https://www.math.uestc.edu.cn/info/1044/10380.htm",
+   "date": "2026-11-10",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-12T05:45:06.418Z",
+   "unit": "数学科学学院"
   },
   {
    "id": "3e72fa4dc7e2d545",

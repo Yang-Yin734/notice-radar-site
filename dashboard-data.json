@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T00:11:45.400Z",
-  "total": 646,
+  "generatedAt": "2026-11-12T07:11:26.010Z",
+  "total": 648,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
@@ -48,13 +48,13 @@
       "count": 22
     },
     {
-      "sourceId": "jwc-jxtz",
-      "sourceName": "教务处·教学通知",
-      "count": 19
-    },
-    {
       "sourceId": "aao-tzgg",
       "sourceName": "教务处·通知公告",
+      "count": 20
+    },
+    {
+      "sourceId": "jwc-jxtz",
+      "sourceName": "教务处·教学通知",
       "count": 19
     },
     {
@@ -90,7 +90,7 @@
     {
       "sourceId": "math-xsgz",
       "sourceName": "数学科学学院·学生工作",
-      "count": 13
+      "count": 14
     },
     {
       "sourceId": "jwc-important",
@@ -114,6 +114,20 @@
     }
   ],
   "items": [
+    {
+      "id": "cb0702cbebf3bb2b",
+      "sourceId": "aao-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "njau",
+      "title": "南京农业大学2026-2027学年第一学期获得创新拓展学分学生名单及项目的公示",
+      "url": "https://aao.njau.edu.cn/info/1101/7027.htm",
+      "date": "2026-11-12",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-12T07:10:30.674Z"
+    },
     {
       "id": "608212572a684f25",
       "sourceId": "jwc-tzgg",
@@ -229,6 +243,20 @@
       "alsoIn": [],
       "tier": "urgent",
       "firstSeenAt": "2026-11-11T02:53:47.514Z"
+    },
+    {
+      "id": "05a7532e8c87ece2",
+      "sourceId": "math-xsgz",
+      "sourceName": "数学科学学院·学生工作",
+      "school": "uestc",
+      "title": "关于开展2026年度国防科技奖学金评选的通知",
+      "url": "https://www.math.uestc.edu.cn/info/1044/10380.htm",
+      "date": "2026-11-10",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-12T05:45:06.418Z"
     },
     {
       "id": "0261b7a77b7ad612",

@@ -3,7 +3,7 @@
  "name": "华东师范大学",
  "province": "上海市",
  "city": "",
- "generatedAt": "2026-11-12T00:11:45.400Z",
+ "generatedAt": "2026-11-12T07:11:26.010Z",
  "total": 15,
  "bySource": [
   {
@@ -33,11 +33,11 @@
  "sourceChecks": {
   "bksy-tzgg": {
    "name": "本科生院·通知公告",
-   "checkedAt": "2026-11-12T00:10:36.104Z",
+   "checkedAt": "2026-11-12T07:09:54.752Z",
    "lastSuccessAt": "2026-11-12T00:10:36.104Z",
-   "outcome": "ok",
-   "status": 200,
-   "items": 14
+   "outcome": "network",
+   "status": null,
+   "items": 0
   }
  },
  "items": [
