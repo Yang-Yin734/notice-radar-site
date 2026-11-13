@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-13T02:38:10.293Z",
-  "total": 659,
+  "generatedAt": "2026-11-13T10:00:00.831Z",
+  "total": 661,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
@@ -75,6 +75,11 @@
     {
       "sourceId": "rsc-tzgg",
       "sourceName": "人事部·通知公告",
+      "count": 16
+    },
+    {
+      "sourceId": "math-xsgz",
+      "sourceName": "数学科学学院·学生工作",
       "count": 15
     },
     {
@@ -86,11 +91,6 @@
       "sourceId": "jw-ggtz",
       "sourceName": "本科生院·公告通知",
       "count": 15
-    },
-    {
-      "sourceId": "math-xsgz",
-      "sourceName": "数学科学学院·学生工作",
-      "count": 14
     },
     {
       "sourceId": "jwc-important",
@@ -114,6 +114,34 @@
     }
   ],
   "items": [
+    {
+      "id": "c7867aefd3f8ff6b",
+      "sourceId": "rsc-tzgg",
+      "sourceName": "人事部·通知公告",
+      "school": "zzu",
+      "title": "关于做好2026年高层次人才年度考核和下半年非在编高层次人才在岗情况核查工作的通知",
+      "url": "https://www5.zzu.edu.cn/rsc/info/1050/6529.htm",
+      "date": "2026-11-13",
+      "tag": null,
+      "category": "人事",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-13T10:00:00.380Z"
+    },
+    {
+      "id": "60c14bb36f835c65",
+      "sourceId": "math-xsgz",
+      "sourceName": "数学科学学院·学生工作",
+      "school": "uestc",
+      "title": "数学科学学院2027届优秀毕业生（研究生）推荐名单公示",
+      "url": "https://www.math.uestc.edu.cn/info/1044/10388.htm",
+      "date": "2026-11-13",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-13T05:03:53.684Z"
+    },
     {
       "id": "5f192eb231d8720f",
       "sourceId": "gs-xw",
