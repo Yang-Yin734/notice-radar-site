@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-13T17:37:03.555Z",
-  "total": 664,
+  "generatedAt": "2026-11-13T22:52:12.998Z",
+  "total": 673,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
-      "sourceName": "教务处·通知公告",
-      "count": 268
+      "sourceName": "教务·通知公告",
+      "count": 277
     },
     {
       "sourceId": "jwb-tzgg",
@@ -114,6 +114,90 @@
     }
   ],
   "items": [
+    {
+      "id": "8db3c23af4742f6b",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "ynu",
+      "title": "关于开展2026年秋季学期本科教学督查督导工作的通知",
+      "url": "https://jwc.ynu.edu.cn/info/1032/4425.htm",
+      "date": "2026-11-13",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-13T22:52:05.860Z"
+    },
+    {
+      "id": "bf8f037de2bc462e",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "hnu",
+      "title": "关于2026-2027-1学期《普通物理AII》课程期中机考预约及考试相关事项的通知",
+      "url": "https://jwc.hnu.edu.cn/info/1022/14852.htm",
+      "date": "2026-11-13",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-13T22:51:14.900Z"
+    },
+    {
+      "id": "4dad7a7d7978ece3",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "fzu",
+      "title": "关于2026-2027学年第一学期《高等数学A（下）》课程期末考试安排的通知",
+      "url": "https://jwch.fzu.edu.cn/info/1036/14907.htm",
+      "date": "2026-11-13",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-13T22:51:08.199Z"
+    },
+    {
+      "id": "3dabfece0c41dc79",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "fzu",
+      "title": "关于2026-2027学年第一学期《工程制图E》课程期末考试安排的通知",
+      "url": "https://jwch.fzu.edu.cn/info/1036/14906.htm",
+      "date": "2026-11-13",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-13T22:51:08.199Z"
+    },
+    {
+      "id": "e941469cff3cc299",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "fzu",
+      "title": "关于2026-2027学年第一学期《线性代数》和《线性代数与解析几何》课程半期考试安排的通知",
+      "url": "https://jwch.fzu.edu.cn/info/1036/14905.htm",
+      "date": "2026-11-13",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-13T22:51:08.199Z"
+    },
+    {
+      "id": "d48cd194eff7513c",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "fzu",
+      "title": "关于2026-2027学年第一学期《习近平新时代中国特色社会主义思想概论》课程期末考试安排的通知",
+      "url": "https://jwch.fzu.edu.cn/info/1036/14904.htm",
+      "date": "2026-11-13",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-13T22:51:08.199Z"
+    },
     {
       "id": "025f9b16c30a81c2",
       "sourceId": "jiaowu-tzgg",
@@ -241,6 +325,20 @@
       "firstSeenAt": "2026-11-13T02:37:13.555Z"
     },
     {
+      "id": "f2c06f4577ee1ab8",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "shu",
+      "title": "2026年上海市高等学校信息技术水平考试考场规则",
+      "url": "https://bksy.shu.edu.cn/info/1015/322844.htm",
+      "date": "2026-11-12",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-13T22:51:43.384Z"
+    },
+    {
       "id": "24e078368fa6754c",
       "sourceId": "gs-xw",
       "sourceName": "研究生院·新闻",
@@ -338,6 +436,35 @@
       "alsoIn": [],
       "tier": "digest",
       "firstSeenAt": "2026-11-12T07:10:30.674Z"
+    },
+    {
+      "id": "903c4520d64888ea",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "ynu",
+      "title": "关于组织2027年第十七届全国大学生计算机应用能力与数字素养大赛报名的通知",
+      "url": "https://jwc.ynu.edu.cn/info/1009/4416.htm",
+      "date": "2026-11-11",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "deadline": "2027-05-23",
+      "tier": "digest",
+      "firstSeenAt": "2026-11-13T22:52:05.860Z"
+    },
+    {
+      "id": "eef78a5eab2871fc",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "ynu",
+      "title": "关于组织开展2027年第十八届蓝桥杯全国大学生软件和信息技术大赛软件类报名和云南大学校内选拔的通知",
+      "url": "https://jwc.ynu.edu.cn/info/1009/4415.htm",
+      "date": "2026-11-11",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-13T22:52:05.860Z"
     },
     {
       "id": "608212572a684f25",

@@ -3,13 +3,13 @@
  "name": "湖南大学",
  "province": "湖南省",
  "city": "长沙市",
- "generatedAt": "2026-11-13T17:37:03.555Z",
- "total": 12,
+ "generatedAt": "2026-11-13T22:52:12.998Z",
+ "total": 13,
  "bySource": [
   {
    "sourceId": "jwc-tzgg",
    "sourceName": "教务处·通知公告",
-   "count": 12
+   "count": 13
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务处·通知公告"
    ],
-   "count": 12
+   "count": 13
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,29 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务处·通知公告",
-   "checkedAt": "2026-11-13T17:36:06.596Z",
-   "lastSuccessAt": "2026-11-13T02:37:11.798Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-13T22:51:14.898Z",
+   "lastSuccessAt": "2026-11-13T22:51:14.898Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 15
   }
  },
  "items": [
+  {
+   "id": "bf8f037de2bc462e",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "hnu",
+   "title": "关于2026-2027-1学期《普通物理AII》课程期中机考预约及考试相关事项的通知",
+   "url": "https://jwc.hnu.edu.cn/info/1022/14852.htm",
+   "date": "2026-11-13",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-13T22:51:14.900Z",
+   "unit": "教务处"
+  },
   {
    "id": "c9ec8b9d27b7e382",
    "sourceId": "jwc-tzgg",

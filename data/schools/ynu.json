@@ -3,13 +3,13 @@
  "name": "云南大学",
  "province": "云南省",
  "city": "昆明市",
- "generatedAt": "2026-11-13T17:37:03.555Z",
- "total": 14,
+ "generatedAt": "2026-11-13T22:52:12.998Z",
+ "total": 17,
  "bySource": [
   {
    "sourceId": "jwc-tzgg",
    "sourceName": "教务·通知公告",
-   "count": 14
+   "count": 17
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务·通知公告"
    ],
-   "count": 14
+   "count": 17
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,60 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务·通知公告",
-   "checkedAt": "2026-11-13T17:36:58.434Z",
-   "lastSuccessAt": "2026-11-09T14:17:44.705Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-13T22:52:05.857Z",
+   "lastSuccessAt": "2026-11-13T22:52:05.857Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 33
   }
  },
  "items": [
+  {
+   "id": "8db3c23af4742f6b",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "ynu",
+   "title": "关于开展2026年秋季学期本科教学督查督导工作的通知",
+   "url": "https://jwc.ynu.edu.cn/info/1032/4425.htm",
+   "date": "2026-11-13",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-13T22:52:05.860Z",
+   "unit": "教务"
+  },
+  {
+   "id": "903c4520d64888ea",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "ynu",
+   "title": "关于组织2027年第十七届全国大学生计算机应用能力与数字素养大赛报名的通知",
+   "url": "https://jwc.ynu.edu.cn/info/1009/4416.htm",
+   "date": "2026-11-11",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "deadline": "2027-05-23",
+   "tier": "digest",
+   "firstSeenAt": "2026-11-13T22:52:05.860Z",
+   "unit": "教务"
+  },
+  {
+   "id": "eef78a5eab2871fc",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "ynu",
+   "title": "关于组织开展2027年第十八届蓝桥杯全国大学生软件和信息技术大赛软件类报名和云南大学校内选拔的通知",
+   "url": "https://jwc.ynu.edu.cn/info/1009/4415.htm",
+   "date": "2026-11-11",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-13T22:52:05.860Z",
+   "unit": "教务"
+  },
   {
    "id": "1e61f49bce44d87c",
    "sourceId": "jwc-tzgg",

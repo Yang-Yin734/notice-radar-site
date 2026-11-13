@@ -3,13 +3,13 @@
  "name": "上海大学",
  "province": "上海市",
  "city": "",
- "generatedAt": "2026-11-13T17:37:03.555Z",
- "total": 5,
+ "generatedAt": "2026-11-13T22:52:12.998Z",
+ "total": 6,
  "bySource": [
   {
    "sourceId": "jwc-tzgg",
    "sourceName": "教务·通知公告",
-   "count": 5
+   "count": 6
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务·通知公告"
    ],
-   "count": 5
+   "count": 6
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,29 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务·通知公告",
-   "checkedAt": "2026-11-13T17:36:39.533Z",
-   "lastSuccessAt": "2026-11-10T23:17:45.565Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-13T22:51:43.378Z",
+   "lastSuccessAt": "2026-11-13T22:51:43.378Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 10
   }
  },
  "items": [
+  {
+   "id": "f2c06f4577ee1ab8",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "shu",
+   "title": "2026年上海市高等学校信息技术水平考试考场规则",
+   "url": "https://bksy.shu.edu.cn/info/1015/322844.htm",
+   "date": "2026-11-12",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-13T22:51:43.384Z",
+   "unit": "教务"
+  },
   {
    "id": "d940a7329ad2bff9",
    "sourceId": "jwc-tzgg",

@@ -3,13 +3,13 @@
  "name": "福州大学",
  "province": "福建省",
  "city": "福州市",
- "generatedAt": "2026-11-13T17:37:03.555Z",
- "total": 5,
+ "generatedAt": "2026-11-13T22:52:12.998Z",
+ "total": 9,
  "bySource": [
   {
    "sourceId": "jwc-tzgg",
    "sourceName": "教务·通知公告",
-   "count": 5
+   "count": 9
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务·通知公告"
    ],
-   "count": 5
+   "count": 9
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,74 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务·通知公告",
-   "checkedAt": "2026-11-13T17:35:58.734Z",
-   "lastSuccessAt": "2026-11-12T00:10:41.705Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-13T22:51:08.196Z",
+   "lastSuccessAt": "2026-11-13T22:51:08.196Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 8
   }
  },
  "items": [
+  {
+   "id": "4dad7a7d7978ece3",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "fzu",
+   "title": "关于2026-2027学年第一学期《高等数学A（下）》课程期末考试安排的通知",
+   "url": "https://jwch.fzu.edu.cn/info/1036/14907.htm",
+   "date": "2026-11-13",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-13T22:51:08.199Z",
+   "unit": "教务"
+  },
+  {
+   "id": "3dabfece0c41dc79",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "fzu",
+   "title": "关于2026-2027学年第一学期《工程制图E》课程期末考试安排的通知",
+   "url": "https://jwch.fzu.edu.cn/info/1036/14906.htm",
+   "date": "2026-11-13",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-13T22:51:08.199Z",
+   "unit": "教务"
+  },
+  {
+   "id": "e941469cff3cc299",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "fzu",
+   "title": "关于2026-2027学年第一学期《线性代数》和《线性代数与解析几何》课程半期考试安排的通知",
+   "url": "https://jwch.fzu.edu.cn/info/1036/14905.htm",
+   "date": "2026-11-13",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-13T22:51:08.199Z",
+   "unit": "教务"
+  },
+  {
+   "id": "d48cd194eff7513c",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "fzu",
+   "title": "关于2026-2027学年第一学期《习近平新时代中国特色社会主义思想概论》课程期末考试安排的通知",
+   "url": "https://jwch.fzu.edu.cn/info/1036/14904.htm",
+   "date": "2026-11-13",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-13T22:51:08.199Z",
+   "unit": "教务"
+  },
   {
    "id": "b05940dbcc3c7a9e",
    "sourceId": "jwc-tzgg",
