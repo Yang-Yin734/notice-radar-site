@@ -3,13 +3,13 @@
  "name": "西北工业大学",
  "province": "陕西省",
  "city": "西安市",
- "generatedAt": "2026-11-13T10:00:00.831Z",
- "total": 26,
+ "generatedAt": "2026-11-13T17:37:03.555Z",
+ "total": 27,
  "bySource": [
   {
    "sourceId": "jiaowu-tzgg",
    "sourceName": "教务部·通知公告",
-   "count": 26
+   "count": 27
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务部·通知公告"
    ],
-   "count": 26
+   "count": 27
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,29 @@
  "sourceChecks": {
   "jiaowu-tzgg": {
    "name": "教务部·通知公告",
-   "checkedAt": "2026-11-13T09:59:24.806Z",
-   "lastSuccessAt": "2026-11-13T09:59:24.806Z",
+   "checkedAt": "2026-11-13T17:36:28.973Z",
+   "lastSuccessAt": "2026-11-13T17:36:28.973Z",
    "outcome": "ok",
    "status": 200,
    "items": 15
   }
  },
  "items": [
+  {
+   "id": "025f9b16c30a81c2",
+   "sourceId": "jiaowu-tzgg",
+   "sourceName": "教务部·通知公告",
+   "school": "nwpu",
+   "title": "关于第十一届“福思特杯”大学生数字财税技能竞赛校赛结果的公示",
+   "url": "https://jiaowu.nwpu.edu.cn/info/1164/30828.htm",
+   "date": "2026-11-13",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-13T17:36:28.981Z",
+   "unit": "教务部"
+  },
   {
    "id": "0fe3f606d5211c0b",
    "sourceId": "jiaowu-tzgg",

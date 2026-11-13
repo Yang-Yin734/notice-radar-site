@@ -3,13 +3,13 @@
  "name": "北京林业大学",
  "province": "北京市",
  "city": "",
- "generatedAt": "2026-11-13T10:00:00.831Z",
- "total": 19,
+ "generatedAt": "2026-11-13T17:37:03.555Z",
+ "total": 20,
  "bySource": [
   {
    "sourceId": "jwc-tzgg",
    "sourceName": "教务处·通知公告",
-   "count": 19
+   "count": 20
   }
  ],
  "units": [
@@ -19,12 +19,27 @@
    "sources": [
     "教务处·通知公告"
    ],
-   "count": 19
+   "count": 20
   }
  ],
  "sourceCatalog": [],
  "sourceChecks": {},
  "items": [
+  {
+   "id": "5cce5043cb8d8d82",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "bjfu",
+   "title": "公选课《日本国家概况》考试通知",
+   "url": "https://jwc.bjfu.edu.cn/ksxx/a1b78ed120914afe89df39abbfa47bed.html",
+   "date": "2026-11-13",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-13T17:35:38.007Z",
+   "unit": "教务处"
+  },
   {
    "id": "2afd5cca21d1bc15",
    "sourceId": "jwc-tzgg",

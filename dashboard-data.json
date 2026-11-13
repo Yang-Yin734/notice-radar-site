@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-13T10:00:00.831Z",
-  "total": 661,
+  "generatedAt": "2026-11-13T17:37:03.555Z",
+  "total": 664,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
       "sourceName": "教务处·通知公告",
-      "count": 266
+      "count": 268
     },
     {
       "sourceId": "jwb-tzgg",
@@ -20,7 +20,7 @@
     {
       "sourceId": "jiaowu-tzgg",
       "sourceName": "教务部·通知公告",
-      "count": 26
+      "count": 27
     },
     {
       "sourceId": "news-notice",
@@ -114,6 +114,48 @@
     }
   ],
   "items": [
+    {
+      "id": "025f9b16c30a81c2",
+      "sourceId": "jiaowu-tzgg",
+      "sourceName": "教务部·通知公告",
+      "school": "nwpu",
+      "title": "关于第十一届“福思特杯”大学生数字财税技能竞赛校赛结果的公示",
+      "url": "https://jiaowu.nwpu.edu.cn/info/1164/30828.htm",
+      "date": "2026-11-13",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-13T17:36:28.981Z"
+    },
+    {
+      "id": "c436aee5b2901685",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "cufe",
+      "title": "教字〔2026〕174号关于做好2027届本科生毕业论文（设计）工作的通知",
+      "url": "https://jwc.cufe.edu.cn/info/1101/8339.htm",
+      "date": "2026-11-13",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-13T17:35:50.604Z"
+    },
+    {
+      "id": "5cce5043cb8d8d82",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "bjfu",
+      "title": "公选课《日本国家概况》考试通知",
+      "url": "https://jwc.bjfu.edu.cn/ksxx/a1b78ed120914afe89df39abbfa47bed.html",
+      "date": "2026-11-13",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-13T17:35:38.007Z"
+    },
     {
       "id": "c7867aefd3f8ff6b",
       "sourceId": "rsc-tzgg",
