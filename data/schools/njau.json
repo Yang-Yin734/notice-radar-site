@@ -3,13 +3,13 @@
  "name": "南京农业大学",
  "province": "江苏省",
  "city": "南京市",
- "generatedAt": "2026-11-12T22:10:19.740Z",
- "total": 21,
+ "generatedAt": "2026-11-13T02:38:10.293Z",
+ "total": 22,
  "bySource": [
   {
    "sourceId": "aao-tzgg",
    "sourceName": "教务处·通知公告",
-   "count": 21
+   "count": 22
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务处·通知公告"
    ],
-   "count": 21
+   "count": 22
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,29 @@
  "sourceChecks": {
   "aao-tzgg": {
    "name": "教务处·通知公告",
-   "checkedAt": "2026-11-12T22:09:39.359Z",
-   "lastSuccessAt": "2026-11-12T22:09:39.359Z",
+   "checkedAt": "2026-11-13T02:37:25.067Z",
+   "lastSuccessAt": "2026-11-13T02:37:25.067Z",
    "outcome": "ok",
    "status": 200,
    "items": 20
   }
  },
  "items": [
+  {
+   "id": "b3b8ee891e26a498",
+   "sourceId": "aao-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "njau",
+   "title": "关于2026-2027学年第一学期“尔雅通识教育网络课程”考试时间及考试方式的通知",
+   "url": "https://aao.njau.edu.cn/info/1101/7030.htm",
+   "date": "2026-11-13",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-13T02:37:25.071Z",
+   "unit": "教务处"
+  },
   {
    "id": "e38093affe6170da",
    "sourceId": "aao-tzgg",

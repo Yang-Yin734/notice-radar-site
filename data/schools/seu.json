@@ -3,13 +3,13 @@
  "name": "东南大学",
  "province": "江苏省",
  "city": "南京市",
- "generatedAt": "2026-11-12T22:10:19.740Z",
- "total": 7,
+ "generatedAt": "2026-11-13T02:38:10.293Z",
+ "total": 8,
  "bySource": [
   {
    "sourceId": "notice-list",
    "sourceName": "教务处·教务信息",
-   "count": 7
+   "count": 8
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务处·教务信息"
    ],
-   "count": 7
+   "count": 8
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,29 @@
  "sourceChecks": {
   "notice-list": {
    "name": "教务处·教务信息",
-   "checkedAt": "2026-11-12T22:09:51.861Z",
-   "lastSuccessAt": "2026-11-10T23:17:43.251Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-13T02:37:43.177Z",
+   "lastSuccessAt": "2026-11-13T02:37:43.177Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 15
   }
  },
  "items": [
+  {
+   "id": "4c2fef88278665e6",
+   "sourceId": "notice-list",
+   "sourceName": "教务处·教务信息",
+   "school": "seu",
+   "title": "关于组织2026年下半年大学英语四六级口语机考模拟考试的通知",
+   "url": "https://jwc.seu.edu.cn/2026/1113/c21678a589468/page.htm",
+   "date": "2026-11-13",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-13T02:37:43.184Z",
+   "unit": "教务处"
+  },
   {
    "id": "d36b5314f9714146",
    "sourceId": "notice-list",

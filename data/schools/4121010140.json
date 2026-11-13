@@ -3,7 +3,7 @@
  "name": "辽宁大学",
  "province": "辽宁省",
  "city": "沈阳市",
- "generatedAt": "2026-11-12T22:10:19.740Z",
+ "generatedAt": "2026-11-13T02:38:10.293Z",
  "total": 6,
  "bySource": [
   {
@@ -33,11 +33,11 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务·通知公告",
-   "checkedAt": "2026-11-12T22:08:56.392Z",
-   "lastSuccessAt": "2026-11-11T17:57:49.910Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-13T02:36:41.388Z",
+   "lastSuccessAt": "2026-11-13T02:36:41.388Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 10
   }
  },
  "items": [

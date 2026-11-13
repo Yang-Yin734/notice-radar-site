@@ -3,13 +3,13 @@
  "name": "华中科技大学",
  "province": "湖北省",
  "city": "武汉市",
- "generatedAt": "2026-11-12T22:10:19.740Z",
- "total": 22,
+ "generatedAt": "2026-11-13T02:38:10.293Z",
+ "total": 23,
  "bySource": [
   {
    "sourceId": "ugs-tzgg",
    "sourceName": "本科生院·通知公告",
-   "count": 22
+   "count": 23
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "本科生院·通知公告"
    ],
-   "count": 22
+   "count": 23
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,29 @@
  "sourceChecks": {
   "ugs-tzgg": {
    "name": "本科生院·通知公告",
-   "checkedAt": "2026-11-12T22:09:25.198Z",
-   "lastSuccessAt": "2026-11-12T15:58:10.731Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-13T02:37:13.541Z",
+   "lastSuccessAt": "2026-11-13T02:37:13.541Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 20
   }
  },
  "items": [
+  {
+   "id": "442b3b0ecdfd30ef",
+   "sourceId": "ugs-tzgg",
+   "sourceName": "本科生院·通知公告",
+   "school": "hust",
+   "title": "关于公示我校2026年度教育部“人工智能+”虚拟仿真实验教学项目拟推荐名单的通...",
+   "url": "https://ugs.hust.edu.cn/info/1142/7704.htm",
+   "date": "2026-11-13",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-13T02:37:13.555Z",
+   "unit": "本科生院"
+  },
   {
    "id": "f5f104f89f41ebcb",
    "sourceId": "ugs-tzgg",

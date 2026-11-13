@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T22:10:19.740Z",
-  "total": 655,
+  "generatedAt": "2026-11-13T02:38:10.293Z",
+  "total": 659,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
@@ -15,7 +15,7 @@
     {
       "sourceId": "gs-xw",
       "sourceName": "研究生院·新闻",
-      "count": 31
+      "count": 32
     },
     {
       "sourceId": "jiaowu-tzgg",
@@ -38,19 +38,19 @@
       "count": 24
     },
     {
-      "sourceId": "news",
-      "sourceName": "新闻网·综合",
-      "count": 22
-    },
-    {
       "sourceId": "ugs-tzgg",
       "sourceName": "本科生院·通知公告",
-      "count": 22
+      "count": 23
     },
     {
       "sourceId": "aao-tzgg",
       "sourceName": "教务处·通知公告",
-      "count": 21
+      "count": 22
+    },
+    {
+      "sourceId": "news",
+      "sourceName": "新闻网·综合",
+      "count": 22
     },
     {
       "sourceId": "jwc-jxtz",
@@ -58,14 +58,14 @@
       "count": 19
     },
     {
-      "sourceId": "math-jwgg",
-      "sourceName": "数学科学学院·教务公告",
+      "sourceId": "notice-list",
+      "sourceName": "教务处·教务信息",
       "count": 18
     },
     {
-      "sourceId": "notice-list",
-      "sourceName": "官网·通知公告",
-      "count": 17
+      "sourceId": "math-jwgg",
+      "sourceName": "数学科学学院·教务公告",
+      "count": 18
     },
     {
       "sourceId": "jwc-xwkd",
@@ -114,6 +114,62 @@
     }
   ],
   "items": [
+    {
+      "id": "5f192eb231d8720f",
+      "sourceId": "gs-xw",
+      "sourceName": "研究生院·新闻",
+      "school": "zzu",
+      "title": "郑州大学承办2026年华中地区研究生教育工作研讨会",
+      "url": "https://gs.zzu.edu.cn/info/1072/13940.htm",
+      "date": "2026-11-13",
+      "tag": null,
+      "category": "研究生",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-13T02:38:09.985Z"
+    },
+    {
+      "id": "4c2fef88278665e6",
+      "sourceId": "notice-list",
+      "sourceName": "教务处·教务信息",
+      "school": "seu",
+      "title": "关于组织2026年下半年大学英语四六级口语机考模拟考试的通知",
+      "url": "https://jwc.seu.edu.cn/2026/1113/c21678a589468/page.htm",
+      "date": "2026-11-13",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-13T02:37:43.184Z"
+    },
+    {
+      "id": "b3b8ee891e26a498",
+      "sourceId": "aao-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "njau",
+      "title": "关于2026-2027学年第一学期“尔雅通识教育网络课程”考试时间及考试方式的通知",
+      "url": "https://aao.njau.edu.cn/info/1101/7030.htm",
+      "date": "2026-11-13",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-13T02:37:25.071Z"
+    },
+    {
+      "id": "442b3b0ecdfd30ef",
+      "sourceId": "ugs-tzgg",
+      "sourceName": "本科生院·通知公告",
+      "school": "hust",
+      "title": "关于公示我校2026年度教育部“人工智能+”虚拟仿真实验教学项目拟推荐名单的通...",
+      "url": "https://ugs.hust.edu.cn/info/1142/7704.htm",
+      "date": "2026-11-13",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-13T02:37:13.555Z"
+    },
     {
       "id": "24e078368fa6754c",
       "sourceId": "gs-xw",

@@ -3,7 +3,7 @@
  "name": "厦门大学",
  "province": "福建省",
  "city": "厦门市",
- "generatedAt": "2026-11-12T22:10:19.740Z",
+ "generatedAt": "2026-11-13T02:38:10.293Z",
  "total": 15,
  "bySource": [
   {
@@ -33,11 +33,11 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务处·通知公告",
-   "checkedAt": "2026-11-12T22:10:12.749Z",
-   "lastSuccessAt": "2026-11-09T14:17:43.688Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-13T02:38:04.071Z",
+   "lastSuccessAt": "2026-11-13T02:38:04.071Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 15
   }
  },
  "items": [
