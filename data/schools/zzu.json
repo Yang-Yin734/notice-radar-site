@@ -3,9 +3,14 @@
  "name": "郑州大学",
  "province": "河南省",
  "city": "郑州市",
- "generatedAt": "2026-11-14T02:56:56.422Z",
- "total": 128,
+ "generatedAt": "2026-11-14T09:50:16.979Z",
+ "total": 129,
  "bySource": [
+  {
+   "sourceId": "news",
+   "sourceName": "新闻网·综合",
+   "count": 23
+  },
   {
    "sourceId": "rsc-tzgg",
    "sourceName": "人事部·通知公告",
@@ -15,11 +20,6 @@
    "sourceId": "gs-xw",
    "sourceName": "研究生院·新闻",
    "count": 32
-  },
-  {
-   "sourceId": "news",
-   "sourceName": "新闻网·综合",
-   "count": 22
   },
   {
    "sourceId": "jwc-tzgg",
@@ -62,7 +62,7 @@
    "sources": [
     "新闻网·综合"
    ],
-   "count": 22
+   "count": 23
   },
   {
    "id": "人事部",
@@ -114,54 +114,69 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务部·通知公告",
-   "checkedAt": "2026-11-14T02:56:55.999Z",
-   "lastSuccessAt": "2026-11-14T02:56:55.999Z",
+   "checkedAt": "2026-11-14T09:50:16.556Z",
+   "lastSuccessAt": "2026-11-14T09:50:16.556Z",
    "outcome": "ok",
    "status": 200,
    "items": 15
   },
   "jwc-xwkd": {
    "name": "教务部·新闻快递",
-   "checkedAt": "2026-11-14T02:56:55.999Z",
-   "lastSuccessAt": "2026-11-14T02:56:55.999Z",
+   "checkedAt": "2026-11-14T09:50:16.556Z",
+   "lastSuccessAt": "2026-11-14T09:50:16.556Z",
    "outcome": "ok",
    "status": 200,
    "items": 15
   },
   "gs-gg": {
    "name": "研究生院·公告",
-   "checkedAt": "2026-11-14T02:56:55.999Z",
-   "lastSuccessAt": "2026-11-13T22:52:12.748Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-14T09:50:16.556Z",
+   "lastSuccessAt": "2026-11-14T09:50:16.556Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 28
   },
   "gs-xw": {
    "name": "研究生院·新闻",
-   "checkedAt": "2026-11-14T02:56:55.999Z",
-   "lastSuccessAt": "2026-11-13T22:52:12.748Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-14T09:50:16.556Z",
+   "lastSuccessAt": "2026-11-14T09:50:16.556Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 28
   },
   "rsc-tzgg": {
    "name": "人事部·通知公告",
-   "checkedAt": "2026-11-14T02:56:55.999Z",
-   "lastSuccessAt": "2026-11-14T02:56:55.999Z",
+   "checkedAt": "2026-11-14T09:50:16.556Z",
+   "lastSuccessAt": "2026-11-14T09:50:16.556Z",
    "outcome": "ok",
    "status": 200,
    "items": 14
   },
   "news": {
    "name": "新闻网·综合",
-   "checkedAt": "2026-11-14T02:56:55.999Z",
-   "lastSuccessAt": "2026-11-13T22:52:12.748Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-14T09:50:16.556Z",
+   "lastSuccessAt": "2026-11-14T09:50:16.556Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 10
   }
  },
  "items": [
+  {
+   "id": "f828a2df10f9afd7",
+   "sourceId": "news",
+   "sourceName": "新闻网·综合",
+   "school": "zzu",
+   "title": "郑州大学举办第七届全国高校马克思主义理论学科研究生中原论坛",
+   "url": "http://www.zzu.edu.cn/info/1217/89402.htm",
+   "date": "2026-11-13",
+   "tag": null,
+   "category": "综合",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-14T09:50:16.562Z",
+   "unit": "新闻网"
+  },
   {
    "id": "c7867aefd3f8ff6b",
    "sourceId": "rsc-tzgg",
