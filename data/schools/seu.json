@@ -3,7 +3,7 @@
  "name": "东南大学",
  "province": "江苏省",
  "city": "南京市",
- "generatedAt": "2026-11-13T22:52:12.998Z",
+ "generatedAt": "2026-11-14T02:56:56.422Z",
  "total": 8,
  "bySource": [
   {
@@ -33,11 +33,11 @@
  "sourceChecks": {
   "notice-list": {
    "name": "教务处·教务信息",
-   "checkedAt": "2026-11-13T22:51:41.487Z",
+   "checkedAt": "2026-11-14T02:56:28.396Z",
    "lastSuccessAt": "2026-11-13T22:51:41.487Z",
-   "outcome": "ok",
-   "status": 200,
-   "items": 15
+   "outcome": "network",
+   "status": null,
+   "items": 0
   }
  },
  "items": [

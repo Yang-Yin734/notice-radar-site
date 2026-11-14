@@ -3,7 +3,7 @@
  "name": "北京师范大学",
  "province": "北京市",
  "city": "",
- "generatedAt": "2026-11-13T22:52:12.998Z",
+ "generatedAt": "2026-11-14T02:56:56.422Z",
  "total": 30,
  "bySource": [
   {
@@ -33,8 +33,8 @@
  "sourceChecks": {
   "jwb-tzgg": {
    "name": "教务部·通知公告",
-   "checkedAt": "2026-11-13T22:50:54.116Z",
-   "lastSuccessAt": "2026-11-13T22:50:54.116Z",
+   "checkedAt": "2026-11-14T02:55:43.320Z",
+   "lastSuccessAt": "2026-11-14T02:55:43.320Z",
    "outcome": "ok",
    "status": 200,
    "items": 20
