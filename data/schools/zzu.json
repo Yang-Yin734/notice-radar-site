@@ -3,7 +3,7 @@
  "name": "郑州大学",
  "province": "河南省",
  "city": "郑州市",
- "generatedAt": "2026-11-14T09:50:16.979Z",
+ "generatedAt": "2026-11-14T16:12:44.415Z",
  "total": 129,
  "bySource": [
   {
@@ -114,51 +114,51 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务部·通知公告",
-   "checkedAt": "2026-11-14T09:50:16.556Z",
-   "lastSuccessAt": "2026-11-14T09:50:16.556Z",
+   "checkedAt": "2026-11-14T16:12:43.988Z",
+   "lastSuccessAt": "2026-11-14T16:12:43.988Z",
    "outcome": "ok",
    "status": 200,
    "items": 15
   },
   "jwc-xwkd": {
    "name": "教务部·新闻快递",
-   "checkedAt": "2026-11-14T09:50:16.556Z",
-   "lastSuccessAt": "2026-11-14T09:50:16.556Z",
+   "checkedAt": "2026-11-14T16:12:43.988Z",
+   "lastSuccessAt": "2026-11-14T16:12:43.988Z",
    "outcome": "ok",
    "status": 200,
    "items": 15
   },
   "gs-gg": {
    "name": "研究生院·公告",
-   "checkedAt": "2026-11-14T09:50:16.556Z",
+   "checkedAt": "2026-11-14T16:12:43.988Z",
    "lastSuccessAt": "2026-11-14T09:50:16.556Z",
-   "outcome": "ok",
-   "status": 200,
-   "items": 28
+   "outcome": "network",
+   "status": null,
+   "items": 0
   },
   "gs-xw": {
    "name": "研究生院·新闻",
-   "checkedAt": "2026-11-14T09:50:16.556Z",
+   "checkedAt": "2026-11-14T16:12:43.988Z",
    "lastSuccessAt": "2026-11-14T09:50:16.556Z",
-   "outcome": "ok",
-   "status": 200,
-   "items": 28
+   "outcome": "network",
+   "status": null,
+   "items": 0
   },
   "rsc-tzgg": {
    "name": "人事部·通知公告",
-   "checkedAt": "2026-11-14T09:50:16.556Z",
-   "lastSuccessAt": "2026-11-14T09:50:16.556Z",
+   "checkedAt": "2026-11-14T16:12:43.988Z",
+   "lastSuccessAt": "2026-11-14T16:12:43.988Z",
    "outcome": "ok",
    "status": 200,
    "items": 14
   },
   "news": {
    "name": "新闻网·综合",
-   "checkedAt": "2026-11-14T09:50:16.556Z",
+   "checkedAt": "2026-11-14T16:12:43.988Z",
    "lastSuccessAt": "2026-11-14T09:50:16.556Z",
-   "outcome": "ok",
-   "status": 200,
-   "items": 10
+   "outcome": "network",
+   "status": null,
+   "items": 0
   }
  },
  "items": [

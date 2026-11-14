@@ -3,7 +3,7 @@
  "name": "中国海洋大学",
  "province": "山东省",
  "city": "青岛市",
- "generatedAt": "2026-11-14T09:50:16.979Z",
+ "generatedAt": "2026-11-14T16:12:44.415Z",
  "total": 13,
  "bySource": [
   {
@@ -33,11 +33,11 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务处·通知公告",
-   "checkedAt": "2026-11-14T09:49:37.059Z",
+   "checkedAt": "2026-11-14T16:12:11.071Z",
    "lastSuccessAt": "2026-11-14T09:49:37.059Z",
-   "outcome": "ok",
-   "status": 200,
-   "items": 14
+   "outcome": "network",
+   "status": null,
+   "items": 0
   }
  },
  "items": [
