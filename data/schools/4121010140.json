@@ -3,7 +3,7 @@
  "name": "辽宁大学",
  "province": "辽宁省",
  "city": "沈阳市",
- "generatedAt": "2026-11-15T00:26:11.348Z",
+ "generatedAt": "2026-11-15T06:59:26.714Z",
  "total": 6,
  "bySource": [
   {
@@ -33,7 +33,7 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务·通知公告",
-   "checkedAt": "2026-11-15T00:24:39.844Z",
+   "checkedAt": "2026-11-15T06:57:48.490Z",
    "lastSuccessAt": "2026-11-14T20:42:42.271Z",
    "outcome": "network",
    "status": null,

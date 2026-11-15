@@ -3,7 +3,7 @@
  "name": "中国矿业大学",
  "province": "江苏省",
  "city": "徐州市",
- "generatedAt": "2026-11-15T00:26:11.348Z",
+ "generatedAt": "2026-11-15T06:59:26.714Z",
  "total": 4,
  "bySource": [
   {
@@ -33,7 +33,7 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务·通知公告",
-   "checkedAt": "2026-11-15T00:24:41.077Z",
+   "checkedAt": "2026-11-15T06:57:49.749Z",
    "lastSuccessAt": "2026-11-13T22:50:45.224Z",
    "outcome": "network",
    "status": null,
