@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-15T14:36:20.919Z",
-  "total": 675,
+  "generatedAt": "2026-11-15T19:57:57.927Z",
+  "total": 678,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
       "sourceName": "教务·通知公告",
-      "count": 277
+      "count": 278
     },
     {
       "sourceId": "jwb-tzgg",
@@ -23,6 +23,11 @@
       "count": 27
     },
     {
+      "sourceId": "news",
+      "sourceName": "新闻网·综合",
+      "count": 25
+    },
+    {
       "sourceId": "news-notice",
       "sourceName": "新闻网·公告",
       "count": 25
@@ -36,11 +41,6 @@
       "sourceId": "jwc-student",
       "sourceName": "教务处·学生事务公告",
       "count": 24
-    },
-    {
-      "sourceId": "news",
-      "sourceName": "新闻网·综合",
-      "count": 23
     },
     {
       "sourceId": "ugs-tzgg",
@@ -114,6 +114,34 @@
     }
   ],
   "items": [
+    {
+      "id": "a1299d139019fe4e",
+      "sourceId": "news",
+      "sourceName": "新闻网·综合",
+      "school": "zzu",
+      "title": "郑州大学召开2025—2026学年本科招生工作总结表彰会",
+      "url": "http://www.zzu.edu.cn/info/1217/89420.htm",
+      "date": "2026-11-15",
+      "tag": null,
+      "category": "综合",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-15T19:57:57.451Z"
+    },
+    {
+      "id": "d48fc626f23e8433",
+      "sourceId": "news",
+      "sourceName": "新闻网·综合",
+      "school": "zzu",
+      "title": "靳凤伟为郑州大学2026年秋季学期中青年干部培训班学员作专题辅导报告",
+      "url": "http://www.zzu.edu.cn/info/1217/89412.htm",
+      "date": "2026-11-15",
+      "tag": null,
+      "category": "综合",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-15T19:57:57.451Z"
+    },
     {
       "id": "f828a2df10f9afd7",
       "sourceId": "news",
@@ -351,6 +379,20 @@
       "alsoIn": [],
       "tier": "digest",
       "firstSeenAt": "2026-11-13T02:37:13.555Z"
+    },
+    {
+      "id": "7c2d1b32f10800a7",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "neau",
+      "title": "关于召开第七届全国高校教师教学创新大赛东北农业大学选拔赛开幕式的通知",
+      "url": "https://jwc.neau.edu.cn/info/1003/7398.htm",
+      "date": "2026-11-12",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-15T19:57:06.296Z"
     },
     {
       "id": "f2c06f4577ee1ab8",
