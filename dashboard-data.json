@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-16T03:17:01.409Z",
-  "total": 680,
+  "generatedAt": "2026-11-16T11:40:13.959Z",
+  "total": 686,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
-      "sourceName": "教务处·通知公告",
-      "count": 279
+      "sourceName": "教务部·通知公告",
+      "count": 281
     },
     {
       "sourceId": "jwb-tzgg",
@@ -55,7 +55,7 @@
     {
       "sourceId": "jwc-jxtz",
       "sourceName": "教务处·教学通知",
-      "count": 19
+      "count": 20
     },
     {
       "sourceId": "notice-list",
@@ -95,17 +95,17 @@
     {
       "sourceId": "jwc-important",
       "sourceName": "教务处·重要公告",
-      "count": 12
+      "count": 13
+    },
+    {
+      "sourceId": "jwc-tztg",
+      "sourceName": "教务处·通知通告",
+      "count": 9
     },
     {
       "sourceId": "news-academic",
       "sourceName": "新闻网·学术",
       "count": 8
-    },
-    {
-      "sourceId": "jwc-tztg",
-      "sourceName": "教务处·通知通告",
-      "count": 7
     },
     {
       "sourceId": "oaa-tzgg",
@@ -114,6 +114,64 @@
     }
   ],
   "items": [
+    {
+      "id": "377392243faf8cef",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务部·通知公告",
+      "school": "zzu",
+      "title": "关于2026年下半年全国大学英语四、六级口语考试的通知",
+      "url": "https://www5.zzu.edu.cn/jwc/info/1125/5457.htm",
+      "date": "2026-11-16",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-16T11:40:13.542Z"
+    },
+    {
+      "id": "22d0d979bfbbb19a",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务部·通知公告",
+      "school": "zzu",
+      "title": "郑州大学关于2026年微专业招生拟录取学生名单的公示",
+      "url": "https://www5.zzu.edu.cn/jwc/info/1125/5456.htm",
+      "date": "2026-11-16",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-16T11:40:13.542Z"
+    },
+    {
+      "id": "b2e2a7071a7ea085",
+      "sourceId": "jwc-jxtz",
+      "sourceName": "教务处·教学通知",
+      "school": "xjtu",
+      "title": "[课程安排]2026-2027学年第一学期2025级本科生“形势与政策”开课、选课通知",
+      "url": "https://jwc.xjtu.edu.cn/info/1093/10645.htm",
+      "date": "2026-11-16",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-16T11:40:01.495Z"
+    },
+    {
+      "id": "4a7ca7447c68a4a9",
+      "sourceId": "jwc-important",
+      "sourceName": "教务处·重要公告",
+      "school": "uestc",
+      "title": "关于做好本学期考研学生期末考试缓考工作的通知",
+      "url": "https://www.jwc.uestc.edu.cn/info/1126/24504.htm",
+      "date": "2026-11-16",
+      "tag": null,
+      "category": null,
+      "alsoIn": [
+        "教务处·学生事务公告"
+      ],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-16T11:38:22.269Z"
+    },
     {
       "id": "4f26a8d845161521",
       "sourceId": "aao-tzgg",
@@ -504,7 +562,9 @@
       "date": "2026-11-12",
       "tag": "学术",
       "category": null,
-      "alsoIn": [],
+      "alsoIn": [
+        "新闻网·公告"
+      ],
       "tier": "digest",
       "firstSeenAt": "2026-11-12T15:57:13.842Z"
     },
@@ -518,7 +578,9 @@
       "date": "2026-11-12",
       "tag": "学术",
       "category": null,
-      "alsoIn": [],
+      "alsoIn": [
+        "新闻网·公告"
+      ],
       "tier": "digest",
       "firstSeenAt": "2026-11-12T15:57:13.842Z"
     },
@@ -2399,6 +2461,20 @@
       "firstSeenAt": "2026-10-25T00:54:25.647Z"
     },
     {
+      "id": "732ebf8bfa00fe95",
+      "sourceId": "jwc-tztg",
+      "sourceName": "教务处·通知通告",
+      "school": "ustb",
+      "title": "教通知【2026】161号-关于公布2026年北京科技大学物理竞赛获奖结果的通知",
+      "url": "https://jwc.ustb.edu.cn/tztg/8e33b582d60f464f8bee9fafd12f1818.htm",
+      "date": "2026-10-23",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-16T11:39:55.509Z"
+    },
+    {
       "id": "5dfcd717fa00c929",
       "sourceId": "jwc-tzgg",
       "sourceName": "教务·通知公告",
@@ -3046,6 +3122,21 @@
       "alsoIn": [],
       "firstSeenAt": "2026-10-20T03:18:42.679Z",
       "deadline": "2026-12-15"
+    },
+    {
+      "id": "f6f35daa30924ada",
+      "sourceId": "jwc-tztg",
+      "sourceName": "教务处·通知通告",
+      "school": "ustb",
+      "title": "教通知【2026】163号-关于做好2027届本科生、第二学士学位学生进入毕业环节资格审核工作的通知",
+      "url": "https://jwc.ustb.edu.cn/tztg/159b395fd0cf4744ad09b702a871b8da.htm",
+      "date": "2026-10-19",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "deadline": "2026-10-23",
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-16T11:39:55.509Z"
     },
     {
       "id": "47687278cb4157b1",

@@ -3,9 +3,14 @@
  "name": "郑州大学",
  "province": "河南省",
  "city": "郑州市",
- "generatedAt": "2026-11-16T03:17:01.409Z",
- "total": 131,
+ "generatedAt": "2026-11-16T11:40:13.959Z",
+ "total": 133,
  "bySource": [
+  {
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务部·通知公告",
+   "count": 19
+  },
   {
    "sourceId": "news",
    "sourceName": "新闻网·综合",
@@ -20,11 +25,6 @@
    "sourceId": "gs-xw",
    "sourceName": "研究生院·新闻",
    "count": 32
-  },
-  {
-   "sourceId": "jwc-tzgg",
-   "sourceName": "教务部·通知公告",
-   "count": 17
   },
   {
    "sourceId": "jwc-xwkd",
@@ -54,7 +54,7 @@
     "教务部·通知公告",
     "教务部·新闻快递"
    ],
-   "count": 34
+   "count": 36
   },
   {
    "id": "新闻网",
@@ -114,23 +114,23 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务部·通知公告",
-   "checkedAt": "2026-11-16T03:17:01.059Z",
-   "lastSuccessAt": "2026-11-16T03:17:01.059Z",
+   "checkedAt": "2026-11-16T11:40:13.535Z",
+   "lastSuccessAt": "2026-11-16T11:40:13.535Z",
    "outcome": "ok",
    "status": 200,
    "items": 15
   },
   "jwc-xwkd": {
    "name": "教务部·新闻快递",
-   "checkedAt": "2026-11-16T03:17:01.059Z",
-   "lastSuccessAt": "2026-11-16T03:17:01.059Z",
+   "checkedAt": "2026-11-16T11:40:13.535Z",
+   "lastSuccessAt": "2026-11-16T11:40:13.535Z",
    "outcome": "ok",
    "status": 200,
    "items": 15
   },
   "gs-gg": {
    "name": "研究生院·公告",
-   "checkedAt": "2026-11-16T03:17:01.059Z",
+   "checkedAt": "2026-11-16T11:40:13.535Z",
    "lastSuccessAt": "2026-11-15T19:57:57.447Z",
    "outcome": "network",
    "status": null,
@@ -138,7 +138,7 @@
   },
   "gs-xw": {
    "name": "研究生院·新闻",
-   "checkedAt": "2026-11-16T03:17:01.059Z",
+   "checkedAt": "2026-11-16T11:40:13.535Z",
    "lastSuccessAt": "2026-11-15T19:57:57.447Z",
    "outcome": "network",
    "status": null,
@@ -146,22 +146,52 @@
   },
   "rsc-tzgg": {
    "name": "人事部·通知公告",
-   "checkedAt": "2026-11-16T03:17:01.059Z",
-   "lastSuccessAt": "2026-11-16T03:17:01.059Z",
+   "checkedAt": "2026-11-16T11:40:13.535Z",
+   "lastSuccessAt": "2026-11-16T11:40:13.535Z",
    "outcome": "ok",
    "status": 200,
    "items": 14
   },
   "news": {
    "name": "新闻网·综合",
-   "checkedAt": "2026-11-16T03:17:01.059Z",
-   "lastSuccessAt": "2026-11-16T03:17:01.059Z",
+   "checkedAt": "2026-11-16T11:40:13.535Z",
+   "lastSuccessAt": "2026-11-16T11:40:13.535Z",
    "outcome": "ok",
    "status": 200,
    "items": 10
   }
  },
  "items": [
+  {
+   "id": "377392243faf8cef",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务部·通知公告",
+   "school": "zzu",
+   "title": "关于2026年下半年全国大学英语四、六级口语考试的通知",
+   "url": "https://www5.zzu.edu.cn/jwc/info/1125/5457.htm",
+   "date": "2026-11-16",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-16T11:40:13.542Z",
+   "unit": "教务部"
+  },
+  {
+   "id": "22d0d979bfbbb19a",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务部·通知公告",
+   "school": "zzu",
+   "title": "郑州大学关于2026年微专业招生拟录取学生名单的公示",
+   "url": "https://www5.zzu.edu.cn/jwc/info/1125/5456.htm",
+   "date": "2026-11-16",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-16T11:40:13.542Z",
+   "unit": "教务部"
+  },
   {
    "id": "a1299d139019fe4e",
    "sourceId": "news",

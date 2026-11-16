@@ -3,13 +3,13 @@
  "name": "西安交通大学",
  "province": "陕西省",
  "city": "西安市",
- "generatedAt": "2026-11-16T03:17:01.409Z",
- "total": 16,
+ "generatedAt": "2026-11-16T11:40:13.959Z",
+ "total": 17,
  "bySource": [
   {
    "sourceId": "jwc-jxtz",
    "sourceName": "教务处·教学通知",
-   "count": 16
+   "count": 17
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务处·教学通知"
    ],
-   "count": 16
+   "count": 17
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,29 @@
  "sourceChecks": {
   "jwc-jxtz": {
    "name": "教务处·教学通知",
-   "checkedAt": "2026-11-16T03:16:50.526Z",
-   "lastSuccessAt": "2026-11-16T03:16:50.526Z",
+   "checkedAt": "2026-11-16T11:40:01.491Z",
+   "lastSuccessAt": "2026-11-16T11:40:01.491Z",
    "outcome": "ok",
    "status": 200,
    "items": 9
   }
  },
  "items": [
+  {
+   "id": "b2e2a7071a7ea085",
+   "sourceId": "jwc-jxtz",
+   "sourceName": "教务处·教学通知",
+   "school": "xjtu",
+   "title": "[课程安排]2026-2027学年第一学期2025级本科生“形势与政策”开课、选课通知",
+   "url": "https://jwc.xjtu.edu.cn/info/1093/10645.htm",
+   "date": "2026-11-16",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-16T11:40:01.495Z",
+   "unit": "教务处"
+  },
   {
    "id": "45decc6899e7bf0e",
    "sourceId": "jwc-jxtz",
