@@ -3,13 +3,13 @@
  "name": "中央财经大学",
  "province": "北京市",
  "city": "",
- "generatedAt": "2026-11-15T23:48:53.928Z",
- "total": 5,
+ "generatedAt": "2026-11-16T03:17:01.409Z",
+ "total": 6,
  "bySource": [
   {
    "sourceId": "jwc-tzgg",
    "sourceName": "教务处·通知公告",
-   "count": 5
+   "count": 6
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务处·通知公告"
    ],
-   "count": 5
+   "count": 6
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,30 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务处·通知公告",
-   "checkedAt": "2026-11-15T23:47:51.544Z",
-   "lastSuccessAt": "2026-11-15T23:47:51.544Z",
+   "checkedAt": "2026-11-16T03:15:37.437Z",
+   "lastSuccessAt": "2026-11-16T03:15:37.437Z",
    "outcome": "ok",
    "status": 200,
    "items": 15
   }
  },
  "items": [
+  {
+   "id": "0730923dfd847429",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "cufe",
+   "title": "关于做好2026级普通全日制本科生网上学籍信息补充及核对确认的通知",
+   "url": "https://jwc.cufe.edu.cn/info/1101/8340.htm",
+   "date": "2026-11-13",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "deadline": "2026-11-25",
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-16T03:15:37.441Z",
+   "unit": "教务处"
+  },
   {
    "id": "c436aee5b2901685",
    "sourceId": "jwc-tzgg",

@@ -3,7 +3,7 @@
  "name": "复旦大学",
  "province": "上海市",
  "city": "",
- "generatedAt": "2026-11-15T23:48:53.928Z",
+ "generatedAt": "2026-11-16T03:17:01.409Z",
  "total": 3,
  "bySource": [
   {
@@ -33,7 +33,7 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务·通知公告",
-   "checkedAt": "2026-11-15T23:47:57.709Z",
+   "checkedAt": "2026-11-16T03:15:46.049Z",
    "lastSuccessAt": "2026-11-15T19:56:44.155Z",
    "outcome": "network",
    "status": null,

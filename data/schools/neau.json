@@ -3,7 +3,7 @@
  "name": "东北农业大学",
  "province": "黑龙江省",
  "city": "哈尔滨市",
- "generatedAt": "2026-11-15T23:48:53.928Z",
+ "generatedAt": "2026-11-16T03:17:01.409Z",
  "total": 9,
  "bySource": [
   {
@@ -33,7 +33,7 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务·通知公告",
-   "checkedAt": "2026-11-15T23:48:11.495Z",
+   "checkedAt": "2026-11-16T03:16:03.675Z",
    "lastSuccessAt": "2026-11-15T19:57:06.289Z",
    "outcome": "network",
    "status": null,

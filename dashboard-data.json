@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-15T23:48:53.928Z",
-  "total": 678,
+  "generatedAt": "2026-11-16T03:17:01.409Z",
+  "total": 680,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
-      "sourceName": "教务·通知公告",
-      "count": 278
+      "sourceName": "教务处·通知公告",
+      "count": 279
     },
     {
       "sourceId": "jwb-tzgg",
@@ -43,14 +43,14 @@
       "count": 24
     },
     {
-      "sourceId": "ugs-tzgg",
-      "sourceName": "本科生院·通知公告",
+      "sourceId": "aao-tzgg",
+      "sourceName": "教务处·通知公告",
       "count": 23
     },
     {
-      "sourceId": "aao-tzgg",
-      "sourceName": "教务处·通知公告",
-      "count": 22
+      "sourceId": "ugs-tzgg",
+      "sourceName": "本科生院·通知公告",
+      "count": 23
     },
     {
       "sourceId": "jwc-jxtz",
@@ -115,6 +115,20 @@
   ],
   "items": [
     {
+      "id": "4f26a8d845161521",
+      "sourceId": "aao-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "njau",
+      "title": "关于2026年11月份四六级口语考试模拟测试的通知",
+      "url": "https://aao.njau.edu.cn/info/1143/7031.htm",
+      "date": "2026-11-16",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-16T03:16:05.697Z"
+    },
+    {
       "id": "a1299d139019fe4e",
       "sourceId": "news",
       "sourceName": "新闻网·综合",
@@ -141,6 +155,21 @@
       "alsoIn": [],
       "tier": "digest",
       "firstSeenAt": "2026-11-15T19:57:57.451Z"
+    },
+    {
+      "id": "0730923dfd847429",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "cufe",
+      "title": "关于做好2026级普通全日制本科生网上学籍信息补充及核对确认的通知",
+      "url": "https://jwc.cufe.edu.cn/info/1101/8340.htm",
+      "date": "2026-11-13",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "deadline": "2026-11-25",
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-16T03:15:37.441Z"
     },
     {
       "id": "f828a2df10f9afd7",

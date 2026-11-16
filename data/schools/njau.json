@@ -3,13 +3,13 @@
  "name": "南京农业大学",
  "province": "江苏省",
  "city": "南京市",
- "generatedAt": "2026-11-15T23:48:53.928Z",
- "total": 22,
+ "generatedAt": "2026-11-16T03:17:01.409Z",
+ "total": 23,
  "bySource": [
   {
    "sourceId": "aao-tzgg",
    "sourceName": "教务处·通知公告",
-   "count": 22
+   "count": 23
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务处·通知公告"
    ],
-   "count": 22
+   "count": 23
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,29 @@
  "sourceChecks": {
   "aao-tzgg": {
    "name": "教务处·通知公告",
-   "checkedAt": "2026-11-15T23:48:15.425Z",
-   "lastSuccessAt": "2026-11-15T23:48:15.425Z",
+   "checkedAt": "2026-11-16T03:16:05.692Z",
+   "lastSuccessAt": "2026-11-16T03:16:05.692Z",
    "outcome": "ok",
    "status": 200,
    "items": 20
   }
  },
  "items": [
+  {
+   "id": "4f26a8d845161521",
+   "sourceId": "aao-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "njau",
+   "title": "关于2026年11月份四六级口语考试模拟测试的通知",
+   "url": "https://aao.njau.edu.cn/info/1143/7031.htm",
+   "date": "2026-11-16",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-16T03:16:05.697Z",
+   "unit": "教务处"
+  },
   {
    "id": "b3b8ee891e26a498",
    "sourceId": "aao-tzgg",
