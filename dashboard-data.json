@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-16T11:40:13.959Z",
-  "total": 686,
+  "generatedAt": "2026-11-16T21:15:51.604Z",
+  "total": 689,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
-      "sourceName": "教务部·通知公告",
-      "count": 281
+      "sourceName": "教务处·通知公告",
+      "count": 284
     },
     {
       "sourceId": "jwb-tzgg",
@@ -114,6 +114,48 @@
     }
   ],
   "items": [
+    {
+      "id": "2375c6615a8a1ae9",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "xidian",
+      "title": "关于2026年课程思政精品课程 （本科教育）拟推荐名单的公示",
+      "url": "https://jwc.xidian.edu.cn/info/1012/23943.htm",
+      "date": "2026-11-16",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-16T21:15:35.870Z"
+    },
+    {
+      "id": "ec0080c4d46e1b9d",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "xidian",
+      "title": "2026年下半年全国大学英语四六级口语考试考生须知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/23933.htm",
+      "date": "2026-11-16",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-16T21:15:35.870Z"
+    },
+    {
+      "id": "ea0db3eafbf46b0e",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "4111010033",
+      "title": "关于启动2026-2027学年本科生转专业报名工作的通知",
+      "url": "https://jwc.cuc.edu.cn/2026/1116/c6364a276258/page.htm",
+      "date": "2026-11-16",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-16T21:14:06.998Z"
+    },
     {
       "id": "377392243faf8cef",
       "sourceId": "jwc-tzgg",

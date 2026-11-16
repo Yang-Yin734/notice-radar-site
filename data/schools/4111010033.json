@@ -3,13 +3,13 @@
  "name": "中国传媒大学",
  "province": "北京市",
  "city": "",
- "generatedAt": "2026-11-16T11:40:13.959Z",
- "total": 12,
+ "generatedAt": "2026-11-16T21:15:51.604Z",
+ "total": 13,
  "bySource": [
   {
    "sourceId": "jwc-tzgg",
    "sourceName": "教务处·通知公告",
-   "count": 12
+   "count": 13
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务处·通知公告"
    ],
-   "count": 12
+   "count": 13
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,29 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务处·通知公告",
-   "checkedAt": "2026-11-16T11:38:23.817Z",
-   "lastSuccessAt": "2026-11-16T03:15:15.148Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-16T21:14:06.992Z",
+   "lastSuccessAt": "2026-11-16T21:14:06.992Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 14
   }
  },
  "items": [
+  {
+   "id": "ea0db3eafbf46b0e",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "4111010033",
+   "title": "关于启动2026-2027学年本科生转专业报名工作的通知",
+   "url": "https://jwc.cuc.edu.cn/2026/1116/c6364a276258/page.htm",
+   "date": "2026-11-16",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-16T21:14:06.998Z",
+   "unit": "教务处"
+  },
   {
    "id": "541371aacb7cb116",
    "sourceId": "jwc-tzgg",

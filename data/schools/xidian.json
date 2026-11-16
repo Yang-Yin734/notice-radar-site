@@ -3,13 +3,13 @@
  "name": "西安电子科技大学",
  "province": "陕西省",
  "city": "西安市",
- "generatedAt": "2026-11-16T11:40:13.959Z",
- "total": 10,
+ "generatedAt": "2026-11-16T21:15:51.604Z",
+ "total": 12,
  "bySource": [
   {
    "sourceId": "jwc-tzgg",
    "sourceName": "教务处·通知公告",
-   "count": 10
+   "count": 12
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务处·通知公告"
    ],
-   "count": 10
+   "count": 12
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,44 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务处·通知公告",
-   "checkedAt": "2026-11-16T11:39:58.753Z",
-   "lastSuccessAt": "2026-11-16T03:16:48.322Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-16T21:15:35.863Z",
+   "lastSuccessAt": "2026-11-16T21:15:35.863Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 13
   }
  },
  "items": [
+  {
+   "id": "2375c6615a8a1ae9",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "xidian",
+   "title": "关于2026年课程思政精品课程 （本科教育）拟推荐名单的公示",
+   "url": "https://jwc.xidian.edu.cn/info/1012/23943.htm",
+   "date": "2026-11-16",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-16T21:15:35.870Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "ec0080c4d46e1b9d",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "xidian",
+   "title": "2026年下半年全国大学英语四六级口语考试考生须知",
+   "url": "https://jwc.xidian.edu.cn/info/1012/23933.htm",
+   "date": "2026-11-16",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-16T21:15:35.870Z",
+   "unit": "教务处"
+  },
   {
    "id": "2cde1cec9e91ce57",
    "sourceId": "jwc-tzgg",
