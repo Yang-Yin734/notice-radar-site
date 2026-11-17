@@ -3,9 +3,14 @@
  "name": "电子科技大学",
  "province": "四川省",
  "city": "成都市",
- "generatedAt": "2026-11-17T04:00:11.277Z",
- "total": 104,
+ "generatedAt": "2026-11-17T13:00:22.222Z",
+ "total": 105,
  "bySource": [
+  {
+   "sourceId": "news-notice",
+   "sourceName": "新闻网·公告",
+   "count": 26
+  },
   {
    "sourceId": "jwc-important",
    "sourceName": "教务处·重要公告",
@@ -20,11 +25,6 @@
    "sourceId": "news-academic",
    "sourceName": "新闻网·学术",
    "count": 8
-  },
-  {
-   "sourceId": "news-notice",
-   "sourceName": "新闻网·公告",
-   "count": 25
   },
   {
    "sourceId": "math-jwgg",
@@ -60,10 +60,10 @@
    "id": "新闻网",
    "name": "新闻网",
    "sources": [
-    "新闻网·学术",
-    "新闻网·公告"
+    "新闻网·公告",
+    "新闻网·学术"
    ],
-   "count": 33
+   "count": 34
   },
   {
    "id": "研究生院",
@@ -131,62 +131,79 @@
  "sourceChecks": {
   "jwc-important": {
    "name": "教务处·重要公告",
-   "checkedAt": "2026-11-17T03:58:13.964Z",
-   "lastSuccessAt": "2026-11-17T03:58:13.964Z",
+   "checkedAt": "2026-11-17T12:58:09.412Z",
+   "lastSuccessAt": "2026-11-17T12:58:09.412Z",
    "outcome": "ok",
    "status": 200,
    "items": 15
   },
   "jwc-student": {
    "name": "教务处·学生事务公告",
-   "checkedAt": "2026-11-17T03:58:13.964Z",
+   "checkedAt": "2026-11-17T12:58:19.507Z",
    "lastSuccessAt": "2026-11-17T03:58:13.964Z",
-   "outcome": "ok",
-   "status": 200,
-   "items": 15
+   "outcome": "network",
+   "status": null,
+   "items": 0
   },
   "news-notice": {
    "name": "新闻网·公告",
-   "checkedAt": "2026-11-17T03:58:13.964Z",
-   "lastSuccessAt": "2026-11-17T03:58:13.964Z",
+   "checkedAt": "2026-11-17T12:58:13.258Z",
+   "lastSuccessAt": "2026-11-17T12:58:13.258Z",
    "outcome": "ok",
    "status": 200,
    "items": 4
   },
   "news-academic": {
    "name": "新闻网·学术",
-   "checkedAt": "2026-11-17T03:58:13.964Z",
-   "lastSuccessAt": "2026-11-17T03:58:13.964Z",
+   "checkedAt": "2026-11-17T12:58:13.258Z",
+   "lastSuccessAt": "2026-11-17T12:58:13.258Z",
    "outcome": "ok",
    "status": 200,
    "items": 4
   },
   "gr-notice": {
    "name": "研究生院·通知",
-   "checkedAt": "2026-11-17T03:58:13.964Z",
+   "checkedAt": "2026-11-17T12:58:19.507Z",
    "lastSuccessAt": "2026-11-17T03:58:13.964Z",
-   "outcome": "ok",
-   "status": 200,
-   "items": 20
+   "outcome": "network",
+   "status": null,
+   "items": 0
   },
   "math-jwgg": {
    "name": "数学科学学院·教务公告",
-   "checkedAt": "2026-11-16T04:45:18.376Z",
-   "lastSuccessAt": "2026-11-16T04:45:18.376Z",
+   "checkedAt": "2026-11-17T06:32:57.647Z",
+   "lastSuccessAt": "2026-11-17T06:32:57.647Z",
    "outcome": "ok",
    "status": 200,
    "items": 15
   },
   "math-xsgz": {
    "name": "数学科学学院·学生工作",
-   "checkedAt": "2026-11-16T04:45:18.376Z",
-   "lastSuccessAt": "2026-11-16T04:45:18.376Z",
+   "checkedAt": "2026-11-17T06:32:57.647Z",
+   "lastSuccessAt": "2026-11-17T06:32:57.647Z",
    "outcome": "ok",
    "status": 200,
    "items": 15
   }
  },
  "items": [
+  {
+   "id": "5021d6f126fa1845",
+   "sourceId": "news-notice",
+   "sourceName": "新闻网·公告",
+   "school": "uestc",
+   "title": "成电讲坛 | 著名作家张嘉佳：与过去告别，和自己重逢——《我是你的遗物》图书分享",
+   "url": "https://news.uestc.edu.cn/info/1016/45542.htm",
+   "date": "2026-11-17",
+   "tag": "文化",
+   "category": null,
+   "alsoIn": [
+    "新闻网·学术"
+   ],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-17T12:58:13.263Z",
+   "unit": "新闻网"
+  },
   {
    "id": "4a7ca7447c68a4a9",
    "sourceId": "jwc-important",

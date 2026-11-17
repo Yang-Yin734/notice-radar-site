@@ -3,7 +3,7 @@
  "name": "武汉大学",
  "province": "湖北省",
  "city": "武汉市",
- "generatedAt": "2026-11-17T04:00:11.277Z",
+ "generatedAt": "2026-11-17T13:00:22.222Z",
  "total": 5,
  "bySource": [
   {
@@ -33,7 +33,7 @@
  "sourceChecks": {
   "notice-list": {
    "name": "官网·通知公告",
-   "checkedAt": "2026-11-17T03:59:48.752Z",
+   "checkedAt": "2026-11-17T12:59:58.268Z",
    "lastSuccessAt": "2026-11-16T21:15:34.069Z",
    "outcome": "network",
    "status": null,

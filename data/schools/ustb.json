@@ -3,13 +3,13 @@
  "name": "北京科技大学",
  "province": "北京市",
  "city": "",
- "generatedAt": "2026-11-17T04:00:11.277Z",
- "total": 9,
+ "generatedAt": "2026-11-17T13:00:22.222Z",
+ "total": 10,
  "bySource": [
   {
    "sourceId": "jwc-tztg",
    "sourceName": "教务处·通知通告",
-   "count": 9
+   "count": 10
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务处·通知通告"
    ],
-   "count": 9
+   "count": 10
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,29 @@
  "sourceChecks": {
   "jwc-tztg": {
    "name": "教务处·通知通告",
-   "checkedAt": "2026-11-17T03:59:46.783Z",
-   "lastSuccessAt": "2026-11-17T03:59:46.783Z",
+   "checkedAt": "2026-11-17T12:59:53.634Z",
+   "lastSuccessAt": "2026-11-17T12:59:53.634Z",
    "outcome": "ok",
    "status": 200,
    "items": 20
   }
  },
  "items": [
+  {
+   "id": "73f3da46dfe08c34",
+   "sourceId": "jwc-tztg",
+   "sourceName": "教务处·通知通告",
+   "school": "ustb",
+   "title": "教通知【2026】164号-关于公布2026年北京科技大学物理实验（暨创新设计）竞赛获奖名单的通知",
+   "url": "https://jwc.ustb.edu.cn/tztg/807297ab27b04f38a1e843f951c0f987.htm",
+   "date": "2026-10-23",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-17T12:59:53.639Z",
+   "unit": "教务处"
+  },
   {
    "id": "732ebf8bfa00fe95",
    "sourceId": "jwc-tztg",

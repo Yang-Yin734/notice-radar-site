@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-17T04:00:11.277Z",
-  "total": 690,
+  "generatedAt": "2026-11-17T13:00:22.222Z",
+  "total": 693,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
       "sourceName": "教务处·通知公告",
-      "count": 285
+      "count": 286
     },
     {
       "sourceId": "jwb-tzgg",
@@ -23,13 +23,13 @@
       "count": 27
     },
     {
-      "sourceId": "news",
-      "sourceName": "新闻网·综合",
-      "count": 25
-    },
-    {
       "sourceId": "news-notice",
       "sourceName": "新闻网·公告",
+      "count": 26
+    },
+    {
+      "sourceId": "news",
+      "sourceName": "新闻网·综合",
       "count": 25
     },
     {
@@ -100,7 +100,7 @@
     {
       "sourceId": "jwc-tztg",
       "sourceName": "教务处·通知通告",
-      "count": 9
+      "count": 10
     },
     {
       "sourceId": "news-academic",
@@ -114,6 +114,36 @@
     }
   ],
   "items": [
+    {
+      "id": "489ecfbc64662734",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "bjfu",
+      "title": "关于2026年11月全国大学英语四、六级口语考试模拟测试的通知",
+      "url": "https://jwc.bjfu.edu.cn/ksxx/cd1b4e862b7a465f9bc199d71cf598f4.html",
+      "date": "2026-11-17",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-17T12:58:31.710Z"
+    },
+    {
+      "id": "5021d6f126fa1845",
+      "sourceId": "news-notice",
+      "sourceName": "新闻网·公告",
+      "school": "uestc",
+      "title": "成电讲坛 | 著名作家张嘉佳：与过去告别，和自己重逢——《我是你的遗物》图书分享",
+      "url": "https://news.uestc.edu.cn/info/1016/45542.htm",
+      "date": "2026-11-17",
+      "tag": "文化",
+      "category": null,
+      "alsoIn": [
+        "新闻网·学术"
+      ],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-17T12:58:13.263Z"
+    },
     {
       "id": "353167b35af7fc20",
       "sourceId": "jwc-tzgg",
@@ -2515,6 +2545,20 @@
       "category": "综合",
       "alsoIn": [],
       "firstSeenAt": "2026-10-25T00:54:25.647Z"
+    },
+    {
+      "id": "73f3da46dfe08c34",
+      "sourceId": "jwc-tztg",
+      "sourceName": "教务处·通知通告",
+      "school": "ustb",
+      "title": "教通知【2026】164号-关于公布2026年北京科技大学物理实验（暨创新设计）竞赛获奖名单的通知",
+      "url": "https://jwc.ustb.edu.cn/tztg/807297ab27b04f38a1e843f951c0f987.htm",
+      "date": "2026-10-23",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-17T12:59:53.639Z"
     },
     {
       "id": "732ebf8bfa00fe95",
