@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-16T21:15:51.604Z",
-  "total": 689,
+  "generatedAt": "2026-11-17T04:00:11.277Z",
+  "total": 690,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
       "sourceName": "教务处·通知公告",
-      "count": 284
+      "count": 285
     },
     {
       "sourceId": "jwb-tzgg",
@@ -114,6 +114,20 @@
     }
   ],
   "items": [
+    {
+      "id": "353167b35af7fc20",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "nankai",
+      "title": "关于开展2026年秋季学期本科生毕业及学位申请工作的通知",
+      "url": "https://jwc.nankai.edu.cn/2026/1117/c35436a606904/page.htm",
+      "date": "2026-11-17",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-17T03:59:06.467Z"
+    },
     {
       "id": "2375c6615a8a1ae9",
       "sourceId": "jwc-tzgg",
