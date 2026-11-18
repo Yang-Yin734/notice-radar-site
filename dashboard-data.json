@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-18T03:09:48.013Z",
-  "total": 694,
+  "generatedAt": "2026-11-18T11:35:32.125Z",
+  "total": 703,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
       "sourceName": "教务处·通知公告",
-      "count": 286
+      "count": 289
     },
     {
       "sourceId": "jwb-tzgg",
       "sourceName": "教务部·通知公告",
-      "count": 33
+      "count": 34
     },
     {
       "sourceId": "gs-xw",
@@ -18,19 +18,19 @@
       "count": 32
     },
     {
-      "sourceId": "jiaowu-tzgg",
-      "sourceName": "教务部·通知公告",
-      "count": 27
-    },
-    {
       "sourceId": "news-notice",
       "sourceName": "新闻网·公告",
-      "count": 26
+      "count": 27
     },
     {
       "sourceId": "news",
       "sourceName": "新闻网·综合",
-      "count": 25
+      "count": 27
+    },
+    {
+      "sourceId": "jiaowu-tzgg",
+      "sourceName": "教务部·通知公告",
+      "count": 27
     },
     {
       "sourceId": "aao-tzgg",
@@ -68,14 +68,14 @@
       "count": 18
     },
     {
-      "sourceId": "jwc-xwkd",
-      "sourceName": "教务部·新闻快递",
+      "sourceId": "math-xsgz",
+      "sourceName": "数学科学学院·学生工作",
       "count": 17
     },
     {
-      "sourceId": "math-xsgz",
-      "sourceName": "数学科学学院·学生工作",
-      "count": 16
+      "sourceId": "jwc-xwkd",
+      "sourceName": "教务部·新闻快递",
+      "count": 17
     },
     {
       "sourceId": "rsc-tzgg",
@@ -95,7 +95,7 @@
     {
       "sourceId": "jwc-important",
       "sourceName": "教务处·重要公告",
-      "count": 13
+      "count": 14
     },
     {
       "sourceId": "jwc-tztg",
@@ -115,6 +115,106 @@
   ],
   "items": [
     {
+      "id": "c42bdd6d228370af",
+      "sourceId": "jwb-tzgg",
+      "sourceName": "教务部·通知公告",
+      "school": "bnu",
+      "title": "【学位授予】 关于2027年3月批次研究生学位申请、审核时间安排的通知",
+      "url": "https://jwb.bnu.edu.cn/xwxk/xwsy/tzggxwsy/36d098bbcc934eb8834312b7dd16bf21.htm",
+      "date": "2026-11-18",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-18T11:33:51.062Z"
+    },
+    {
+      "id": "06fb63376d58aa60",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "bjfu",
+      "title": "关于《机电一体化系统设计》课程期末考试的通知",
+      "url": "https://jwc.bjfu.edu.cn/ksxx/283d633c5796490bad9d07f843b284cd.html",
+      "date": "2026-11-18",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-18T11:33:42.910Z"
+    },
+    {
+      "id": "d188b08329267f7e",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "bjfu",
+      "title": "关于《人工智能基础》课程期末考试的通知",
+      "url": "https://jwc.bjfu.edu.cn/ksxx/87705a6405424e969e94dfcac7f293f3.html",
+      "date": "2026-11-18",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-18T11:33:42.910Z"
+    },
+    {
+      "id": "43f16ca7013b634a",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "bjfu",
+      "title": "关于《电力系统继电保护》课程期末考试的通知",
+      "url": "https://jwc.bjfu.edu.cn/ksxx/c7409402e27b4ca7a1f3b5068d6b7d47.html",
+      "date": "2026-11-18",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-18T11:33:42.910Z"
+    },
+    {
+      "id": "738cfbb4bcb5f9ff",
+      "sourceId": "jwc-important",
+      "sourceName": "教务处·重要公告",
+      "school": "uestc",
+      "title": "关于2027届本科预毕业生图像采集工作的通知",
+      "url": "https://www.jwc.uestc.edu.cn/info/1125/24515.htm",
+      "date": "2026-11-18",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-18T11:33:30.592Z"
+    },
+    {
+      "id": "1ef00d8f1a73cf42",
+      "sourceId": "news-notice",
+      "sourceName": "新闻网·公告",
+      "school": "uestc",
+      "title": "成电讲坛 | AI语境下的道德判断(Moral Judgment in the Context of AI)",
+      "url": "https://news.uestc.edu.cn/info/1016/45547.htm",
+      "date": "2026-11-18",
+      "tag": "文化",
+      "category": null,
+      "alsoIn": [
+        "新闻网·学术"
+      ],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-18T11:33:30.592Z"
+    },
+    {
+      "id": "bd0967cc8613fb16",
+      "sourceId": "math-xsgz",
+      "sourceName": "数学科学学院·学生工作",
+      "school": "uestc",
+      "title": "本科2027届优秀毕业生拟推荐人选名单公示",
+      "url": "https://www.math.uestc.edu.cn/info/1044/10400.htm",
+      "date": "2026-11-18",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-18T05:54:30.811Z"
+    },
+    {
       "id": "ac5039e96b6f876f",
       "sourceId": "aao-tzgg",
       "sourceName": "教务处·通知公告",
@@ -127,6 +227,20 @@
       "alsoIn": [],
       "tier": "urgent",
       "firstSeenAt": "2026-11-18T03:08:55.280Z"
+    },
+    {
+      "id": "e08bbd5b6f8a11f1",
+      "sourceId": "news",
+      "sourceName": "新闻网·综合",
+      "school": "zzu",
+      "title": "郑州大学主办“政治哲学学科建设与当代发展”学术研讨会暨“《政治哲学评论》集刊创刊”会议",
+      "url": "http://www.zzu.edu.cn/info/1217/89429.htm",
+      "date": "2026-11-17",
+      "tag": null,
+      "category": "综合",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-18T11:35:31.684Z"
     },
     {
       "id": "489ecfbc64662734",
@@ -171,6 +285,20 @@
       "alsoIn": [],
       "tier": "urgent",
       "firstSeenAt": "2026-11-17T03:59:06.467Z"
+    },
+    {
+      "id": "f6a14f4a71b773b1",
+      "sourceId": "news",
+      "sourceName": "新闻网·综合",
+      "school": "zzu",
+      "title": "郑州大学主办第六届全国医学“双一流”建设论坛",
+      "url": "http://www.zzu.edu.cn/info/1217/89427.htm",
+      "date": "2026-11-16",
+      "tag": null,
+      "category": "综合",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-18T11:35:31.684Z"
     },
     {
       "id": "2375c6615a8a1ae9",

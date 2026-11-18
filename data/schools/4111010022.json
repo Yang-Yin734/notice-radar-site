@@ -3,13 +3,13 @@
  "name": "北京林业大学",
  "province": "北京市",
  "city": "",
- "generatedAt": "2026-11-18T03:09:48.013Z",
- "total": 21,
+ "generatedAt": "2026-11-18T11:35:32.125Z",
+ "total": 24,
  "bySource": [
   {
    "sourceId": "jwc-tzgg",
    "sourceName": "教务处·通知公告",
-   "count": 21
+   "count": 24
   }
  ],
  "units": [
@@ -19,12 +19,57 @@
    "sources": [
     "教务处·通知公告"
    ],
-   "count": 21
+   "count": 24
   }
  ],
  "sourceCatalog": [],
  "sourceChecks": {},
  "items": [
+  {
+   "id": "06fb63376d58aa60",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "bjfu",
+   "title": "关于《机电一体化系统设计》课程期末考试的通知",
+   "url": "https://jwc.bjfu.edu.cn/ksxx/283d633c5796490bad9d07f843b284cd.html",
+   "date": "2026-11-18",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-18T11:33:42.910Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "d188b08329267f7e",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "bjfu",
+   "title": "关于《人工智能基础》课程期末考试的通知",
+   "url": "https://jwc.bjfu.edu.cn/ksxx/87705a6405424e969e94dfcac7f293f3.html",
+   "date": "2026-11-18",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-18T11:33:42.910Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "43f16ca7013b634a",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "bjfu",
+   "title": "关于《电力系统继电保护》课程期末考试的通知",
+   "url": "https://jwc.bjfu.edu.cn/ksxx/c7409402e27b4ca7a1f3b5068d6b7d47.html",
+   "date": "2026-11-18",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-18T11:33:42.910Z",
+   "unit": "教务处"
+  },
   {
    "id": "489ecfbc64662734",
    "sourceId": "jwc-tzgg",

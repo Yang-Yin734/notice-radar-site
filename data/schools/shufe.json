@@ -3,7 +3,7 @@
  "name": "上海财经大学",
  "province": "上海市",
  "city": "",
- "generatedAt": "2026-11-18T03:09:48.013Z",
+ "generatedAt": "2026-11-18T11:35:32.125Z",
  "total": 4,
  "bySource": [
   {
@@ -33,7 +33,7 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务处·通知公告",
-   "checkedAt": "2026-11-18T03:09:12.900Z",
+   "checkedAt": "2026-11-18T11:34:55.331Z",
    "lastSuccessAt": "2026-11-17T21:38:47.566Z",
    "outcome": "network",
    "status": null,
