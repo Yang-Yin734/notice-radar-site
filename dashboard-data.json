@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-17T21:39:22.359Z",
-  "total": 693,
+  "generatedAt": "2026-11-18T03:09:48.013Z",
+  "total": 694,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
@@ -33,6 +33,11 @@
       "count": 25
     },
     {
+      "sourceId": "aao-tzgg",
+      "sourceName": "教务处·通知公告",
+      "count": 24
+    },
+    {
       "sourceId": "gs-gg",
       "sourceName": "研究生院·公告",
       "count": 24
@@ -41,11 +46,6 @@
       "sourceId": "jwc-student",
       "sourceName": "教务处·学生事务公告",
       "count": 24
-    },
-    {
-      "sourceId": "aao-tzgg",
-      "sourceName": "教务处·通知公告",
-      "count": 23
     },
     {
       "sourceId": "ugs-tzgg",
@@ -114,6 +114,20 @@
     }
   ],
   "items": [
+    {
+      "id": "ac5039e96b6f876f",
+      "sourceId": "aao-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "njau",
+      "title": "关于2026-2027学年第一学期大学生安全教育课程考试的通知",
+      "url": "https://aao.njau.edu.cn/info/1101/7040.htm",
+      "date": "2026-11-18",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-18T03:08:55.280Z"
+    },
     {
       "id": "489ecfbc64662734",
       "sourceId": "jwc-tzgg",
