@@ -3,7 +3,7 @@
  "name": "江南大学",
  "province": "江苏省",
  "city": "无锡市",
- "generatedAt": "2026-11-19T09:18:37.934Z",
+ "generatedAt": "2026-11-19T18:25:29.772Z",
  "total": 9,
  "bySource": [
   {
@@ -33,7 +33,7 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务处·通知公告",
-   "checkedAt": "2026-11-19T09:17:32.170Z",
+   "checkedAt": "2026-11-19T18:24:37.276Z",
    "lastSuccessAt": "2026-11-17T21:38:15.747Z",
    "outcome": "network",
    "status": null,

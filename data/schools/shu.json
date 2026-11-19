@@ -3,7 +3,7 @@
  "name": "上海大学",
  "province": "上海市",
  "city": "",
- "generatedAt": "2026-11-19T09:18:37.934Z",
+ "generatedAt": "2026-11-19T18:25:29.772Z",
  "total": 6,
  "bySource": [
   {
@@ -33,7 +33,7 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务·通知公告",
-   "checkedAt": "2026-11-19T09:17:58.525Z",
+   "checkedAt": "2026-11-19T18:24:59.494Z",
    "lastSuccessAt": "2026-11-17T21:38:44.775Z",
    "outcome": "network",
    "status": null,
