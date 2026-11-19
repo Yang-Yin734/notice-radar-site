@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-18T19:36:59.952Z",
-  "total": 703,
+  "generatedAt": "2026-11-19T01:30:09.057Z",
+  "total": 705,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
       "sourceName": "教务处·通知公告",
-      "count": 289
+      "count": 290
     },
     {
       "sourceId": "jwb-tzgg",
@@ -38,6 +38,11 @@
       "count": 24
     },
     {
+      "sourceId": "ugs-tzgg",
+      "sourceName": "本科生院·通知公告",
+      "count": 24
+    },
+    {
       "sourceId": "gs-gg",
       "sourceName": "研究生院·公告",
       "count": 24
@@ -46,11 +51,6 @@
       "sourceId": "jwc-student",
       "sourceName": "教务处·学生事务公告",
       "count": 24
-    },
-    {
-      "sourceId": "ugs-tzgg",
-      "sourceName": "本科生院·通知公告",
-      "count": 23
     },
     {
       "sourceId": "jwc-jxtz",
@@ -114,6 +114,20 @@
     }
   ],
   "items": [
+    {
+      "id": "83fc32ce27108145",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "nankai",
+      "title": "南开大学 2027 届本科毕业生图像采集补采通知",
+      "url": "https://jwc.nankai.edu.cn/2026/1118/c35436a607039/page.htm",
+      "date": "2026-11-18",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-19T01:29:02.563Z"
+    },
     {
       "id": "c42bdd6d228370af",
       "sourceId": "jwb-tzgg",
@@ -227,6 +241,20 @@
       "alsoIn": [],
       "tier": "urgent",
       "firstSeenAt": "2026-11-18T03:08:55.280Z"
+    },
+    {
+      "id": "1113a940dff6ca85",
+      "sourceId": "ugs-tzgg",
+      "sourceName": "本科生院·通知公告",
+      "school": "hust",
+      "title": "华中科技大学本科生自然科学创新基金资助项目评选结果的公示",
+      "url": "https://ugs.hust.edu.cn/info/1142/7711.htm",
+      "date": "2026-11-17",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-19T01:28:46.723Z"
     },
     {
       "id": "e08bbd5b6f8a11f1",

@@ -3,13 +3,13 @@
  "name": "南开大学",
  "province": "天津市",
  "city": "",
- "generatedAt": "2026-11-18T19:36:59.952Z",
- "total": 12,
+ "generatedAt": "2026-11-19T01:30:09.057Z",
+ "total": 13,
  "bySource": [
   {
    "sourceId": "jwc-tzgg",
    "sourceName": "教务处·通知公告",
-   "count": 12
+   "count": 13
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务处·通知公告"
    ],
-   "count": 12
+   "count": 13
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,29 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务处·通知公告",
-   "checkedAt": "2026-11-18T19:35:55.130Z",
-   "lastSuccessAt": "2026-11-17T21:38:21.960Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-19T01:29:02.557Z",
+   "lastSuccessAt": "2026-11-19T01:29:02.557Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 10
   }
  },
  "items": [
+  {
+   "id": "83fc32ce27108145",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "nankai",
+   "title": "南开大学 2027 届本科毕业生图像采集补采通知",
+   "url": "https://jwc.nankai.edu.cn/2026/1118/c35436a607039/page.htm",
+   "date": "2026-11-18",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-19T01:29:02.563Z",
+   "unit": "教务处"
+  },
   {
    "id": "353167b35af7fc20",
    "sourceId": "jwc-tzgg",
