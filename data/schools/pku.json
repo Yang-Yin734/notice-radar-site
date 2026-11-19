@@ -3,13 +3,13 @@
  "name": "北京大学",
  "province": "北京市",
  "city": "",
- "generatedAt": "2026-11-19T01:30:09.057Z",
- "total": 8,
+ "generatedAt": "2026-11-19T09:18:37.934Z",
+ "total": 9,
  "bySource": [
   {
    "sourceId": "jwc-tzgg",
    "sourceName": "教务·通知公告",
-   "count": 8
+   "count": 9
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务·通知公告"
    ],
-   "count": 8
+   "count": 9
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,30 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务·通知公告",
-   "checkedAt": "2026-11-19T01:29:19.487Z",
-   "lastSuccessAt": "2026-11-18T11:34:49.507Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-19T09:17:53.958Z",
+   "lastSuccessAt": "2026-11-19T09:17:53.958Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 15
   }
  },
  "items": [
+  {
+   "id": "80aa2177facaa8a1",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "pku",
+   "title": "哈尔滨工业大学2026年国际联合寒期学校报名通知",
+   "url": "https://dean.pku.edu.cn/web/notice_details.php?id=774",
+   "date": "2026-11-19",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "deadline": "2026-11-25",
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-19T09:17:53.962Z",
+   "unit": "教务"
+  },
   {
    "id": "dfc5bc34e3d50470",
    "sourceId": "jwc-tzgg",

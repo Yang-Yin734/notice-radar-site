@@ -3,13 +3,13 @@
  "name": "中央财经大学",
  "province": "北京市",
  "city": "",
- "generatedAt": "2026-11-19T01:30:09.057Z",
- "total": 6,
+ "generatedAt": "2026-11-19T09:18:37.934Z",
+ "total": 7,
  "bySource": [
   {
    "sourceId": "jwc-tzgg",
    "sourceName": "教务处·通知公告",
-   "count": 6
+   "count": 7
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务处·通知公告"
    ],
-   "count": 6
+   "count": 7
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,29 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务处·通知公告",
-   "checkedAt": "2026-11-19T01:28:28.562Z",
-   "lastSuccessAt": "2026-11-19T01:28:28.562Z",
+   "checkedAt": "2026-11-19T09:17:14.611Z",
+   "lastSuccessAt": "2026-11-19T09:17:14.611Z",
    "outcome": "ok",
    "status": 200,
    "items": 15
   }
  },
  "items": [
+  {
+   "id": "044ca84c5af55ff8",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "cufe",
+   "title": "关于2026年下半年全国大学外语四、六级口语考试及笔试期间部分楼宇实行封闭管理的通告",
+   "url": "https://jwc.cufe.edu.cn/info/1101/8367.htm",
+   "date": "2026-11-19",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-19T09:17:14.616Z",
+   "unit": "教务处"
+  },
   {
    "id": "0730923dfd847429",
    "sourceId": "jwc-tzgg",

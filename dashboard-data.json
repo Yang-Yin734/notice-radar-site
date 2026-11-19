@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-19T01:30:09.057Z",
-  "total": 705,
+  "generatedAt": "2026-11-19T09:18:37.934Z",
+  "total": 709,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
-      "sourceName": "教务处·通知公告",
-      "count": 290
+      "sourceName": "教务·通知公告",
+      "count": 292
     },
     {
       "sourceId": "jwb-tzgg",
@@ -55,7 +55,7 @@
     {
       "sourceId": "jwc-jxtz",
       "sourceName": "教务处·教学通知",
-      "count": 20
+      "count": 21
     },
     {
       "sourceId": "notice-list",
@@ -100,7 +100,7 @@
     {
       "sourceId": "jwc-tztg",
       "sourceName": "教务处·通知通告",
-      "count": 10
+      "count": 11
     },
     {
       "sourceId": "news-academic",
@@ -114,6 +114,50 @@
     }
   ],
   "items": [
+    {
+      "id": "b47eef065de10dd9",
+      "sourceId": "jwc-jxtz",
+      "sourceName": "教务处·教学通知",
+      "school": "xjtu",
+      "title": "[校际交流]关于2026年C9哈尔滨工业大学国际寒期学校报名的通知",
+      "url": "https://jwc.xjtu.edu.cn/info/1097/10662.htm",
+      "date": "2026-11-19",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "deadline": "2026-11-23",
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-19T09:18:22.954Z"
+    },
+    {
+      "id": "80aa2177facaa8a1",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "pku",
+      "title": "哈尔滨工业大学2026年国际联合寒期学校报名通知",
+      "url": "https://dean.pku.edu.cn/web/notice_details.php?id=774",
+      "date": "2026-11-19",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "deadline": "2026-11-25",
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-19T09:17:53.962Z"
+    },
+    {
+      "id": "044ca84c5af55ff8",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "cufe",
+      "title": "关于2026年下半年全国大学外语四、六级口语考试及笔试期间部分楼宇实行封闭管理的通告",
+      "url": "https://jwc.cufe.edu.cn/info/1101/8367.htm",
+      "date": "2026-11-19",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-19T09:17:14.616Z"
+    },
     {
       "id": "83fc32ce27108145",
       "sourceId": "jwc-tzgg",
@@ -2568,6 +2612,20 @@
       "category": "研究生",
       "alsoIn": [],
       "firstSeenAt": "2026-10-27T02:30:31.822Z"
+    },
+    {
+      "id": "0b8dd296f9ae1b5e",
+      "sourceId": "jwc-tztg",
+      "sourceName": "教务处·通知通告",
+      "school": "ustb",
+      "title": "教通知【2026】165号-关于开展2027届本科、第二学士学位毕业生电子图像采集工作通知",
+      "url": "https://jwc.ustb.edu.cn/tztg/60518cfb505b432f94c7fe739f1d74bf.htm",
+      "date": "2026-10-26",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-19T09:18:16.830Z"
     },
     {
       "id": "28ce0fd4aeba0241",
