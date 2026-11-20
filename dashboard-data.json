@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-20T16:28:33.212Z",
-  "total": 724,
+  "generatedAt": "2026-11-20T22:47:12.517Z",
+  "total": 726,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
-      "sourceName": "教务·通知公告",
-      "count": 294
+      "sourceName": "教务处·通知公告",
+      "count": 296
     },
     {
       "sourceId": "jwb-tzgg",
@@ -119,6 +119,20 @@
     }
   ],
   "items": [
+    {
+      "id": "2ed1bff8e74ce0ae",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "nankai",
+      "title": "关于2025年本科教育教学改革项目结题验收与评优结果的公示",
+      "url": "https://jwc.nankai.edu.cn/2026/1120/c35436a607131/page.htm",
+      "date": "2026-11-20",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-20T22:46:19.309Z"
+    },
     {
       "id": "2969f4f0010149c8",
       "sourceId": "jwc-jxtz",
@@ -248,6 +262,20 @@
       "alsoIn": [],
       "tier": "urgent",
       "firstSeenAt": "2026-11-20T07:49:48.804Z"
+    },
+    {
+      "id": "15b53c5ca74d35dd",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "neau",
+      "title": "关于推荐申报2026年全国高等农林院校课程思政联盟优秀教学案例和教学改革研究项目的公示",
+      "url": "https://jwc.neau.edu.cn/info/1003/7407.htm",
+      "date": "2026-11-19",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-20T22:46:22.978Z"
     },
     {
       "id": "b47eef065de10dd9",

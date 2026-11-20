@@ -3,13 +3,13 @@
  "name": "南开大学",
  "province": "天津市",
  "city": "",
- "generatedAt": "2026-11-20T16:28:33.212Z",
- "total": 13,
+ "generatedAt": "2026-11-20T22:47:12.517Z",
+ "total": 14,
  "bySource": [
   {
    "sourceId": "jwc-tzgg",
    "sourceName": "教务处·通知公告",
-   "count": 13
+   "count": 14
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务处·通知公告"
    ],
-   "count": 13
+   "count": 14
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,29 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务处·通知公告",
-   "checkedAt": "2026-11-20T16:27:45.835Z",
-   "lastSuccessAt": "2026-11-19T01:29:02.557Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-20T22:46:19.305Z",
+   "lastSuccessAt": "2026-11-20T22:46:19.305Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 10
   }
  },
  "items": [
+  {
+   "id": "2ed1bff8e74ce0ae",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "nankai",
+   "title": "关于2025年本科教育教学改革项目结题验收与评优结果的公示",
+   "url": "https://jwc.nankai.edu.cn/2026/1120/c35436a607131/page.htm",
+   "date": "2026-11-20",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-20T22:46:19.309Z",
+   "unit": "教务处"
+  },
   {
    "id": "83fc32ce27108145",
    "sourceId": "jwc-tzgg",

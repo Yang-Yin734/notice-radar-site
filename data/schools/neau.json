@@ -3,13 +3,13 @@
  "name": "东北农业大学",
  "province": "黑龙江省",
  "city": "哈尔滨市",
- "generatedAt": "2026-11-20T16:28:33.212Z",
- "total": 9,
+ "generatedAt": "2026-11-20T22:47:12.517Z",
+ "total": 10,
  "bySource": [
   {
    "sourceId": "jwc-tzgg",
    "sourceName": "教务·通知公告",
-   "count": 9
+   "count": 10
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务·通知公告"
    ],
-   "count": 9
+   "count": 10
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,29 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务·通知公告",
-   "checkedAt": "2026-11-20T16:27:47.044Z",
-   "lastSuccessAt": "2026-11-16T21:14:56.571Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-20T22:46:22.975Z",
+   "lastSuccessAt": "2026-11-20T22:46:22.975Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 20
   }
  },
  "items": [
+  {
+   "id": "15b53c5ca74d35dd",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "neau",
+   "title": "关于推荐申报2026年全国高等农林院校课程思政联盟优秀教学案例和教学改革研究项目的公示",
+   "url": "https://jwc.neau.edu.cn/info/1003/7407.htm",
+   "date": "2026-11-19",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-20T22:46:22.978Z",
+   "unit": "教务"
+  },
   {
    "id": "7c2d1b32f10800a7",
    "sourceId": "jwc-tzgg",
