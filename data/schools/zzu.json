@@ -3,13 +3,18 @@
  "name": "郑州大学",
  "province": "河南省",
  "city": "郑州市",
- "generatedAt": "2026-11-20T07:51:49.726Z",
- "total": 136,
+ "generatedAt": "2026-11-20T14:46:40.333Z",
+ "total": 142,
  "bySource": [
   {
    "sourceId": "jwc-xwkd",
    "sourceName": "教务部·新闻快递",
    "count": 18
+  },
+  {
+   "sourceId": "sthj-notices",
+   "sourceName": "生态与环境学院·通知公告",
+   "count": 6
   },
   {
    "sourceId": "news",
@@ -71,6 +76,14 @@
     "人事部·通知公告"
    ],
    "count": 16
+  },
+  {
+   "id": "生态与环境学院",
+   "name": "生态与环境学院",
+   "sources": [
+    "生态与环境学院·通知公告"
+   ],
+   "count": 6
   }
  ],
  "sourceCatalog": [
@@ -79,6 +92,12 @@
    "name": "教务部·通知公告",
    "url": "https://www5.zzu.edu.cn/jwc/index/tzgg.htm",
    "unit": "教务部"
+  },
+  {
+   "id": "sthj-notices",
+   "name": "生态与环境学院·通知公告",
+   "url": "https://www7.zzu.edu.cn/sthj/tzgg.htm",
+   "unit": "生态与环境学院"
   },
   {
    "id": "jwc-xwkd",
@@ -114,23 +133,23 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务部·通知公告",
-   "checkedAt": "2026-11-20T07:51:49.435Z",
-   "lastSuccessAt": "2026-11-20T07:51:49.435Z",
+   "checkedAt": "2026-11-20T14:46:40.017Z",
+   "lastSuccessAt": "2026-11-20T14:46:40.017Z",
    "outcome": "ok",
    "status": 200,
    "items": 15
   },
   "jwc-xwkd": {
    "name": "教务部·新闻快递",
-   "checkedAt": "2026-11-20T07:51:49.435Z",
-   "lastSuccessAt": "2026-11-20T07:51:49.435Z",
+   "checkedAt": "2026-11-20T14:46:40.017Z",
+   "lastSuccessAt": "2026-11-20T14:46:40.017Z",
    "outcome": "ok",
    "status": 200,
    "items": 15
   },
   "gs-gg": {
    "name": "研究生院·公告",
-   "checkedAt": "2026-11-20T07:51:49.435Z",
+   "checkedAt": "2026-11-20T14:46:40.017Z",
    "lastSuccessAt": "2026-11-15T19:57:57.447Z",
    "outcome": "network",
    "status": null,
@@ -138,7 +157,7 @@
   },
   "gs-xw": {
    "name": "研究生院·新闻",
-   "checkedAt": "2026-11-20T07:51:49.435Z",
+   "checkedAt": "2026-11-20T14:46:40.017Z",
    "lastSuccessAt": "2026-11-15T19:57:57.447Z",
    "outcome": "network",
    "status": null,
@@ -146,19 +165,27 @@
   },
   "rsc-tzgg": {
    "name": "人事部·通知公告",
-   "checkedAt": "2026-11-20T07:51:49.435Z",
-   "lastSuccessAt": "2026-11-20T07:51:49.435Z",
+   "checkedAt": "2026-11-20T14:46:40.017Z",
+   "lastSuccessAt": "2026-11-20T14:46:40.017Z",
    "outcome": "ok",
    "status": 200,
    "items": 14
   },
   "news": {
    "name": "新闻网·综合",
-   "checkedAt": "2026-11-20T07:51:49.435Z",
-   "lastSuccessAt": "2026-11-19T09:18:37.596Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-20T14:46:40.017Z",
+   "lastSuccessAt": "2026-11-20T14:46:40.017Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 10
+  },
+  "sthj-notices": {
+   "name": "生态与环境学院·通知公告",
+   "checkedAt": "2026-11-20T14:46:40.017Z",
+   "lastSuccessAt": "2026-11-20T14:46:40.017Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 10
   }
  },
  "items": [
@@ -176,6 +203,21 @@
    "tier": "digest",
    "firstSeenAt": "2026-11-20T07:51:49.439Z",
    "unit": "教务部"
+  },
+  {
+   "id": "3ad2aeb89ce0dc04",
+   "sourceId": "sthj-notices",
+   "sourceName": "生态与环境学院·通知公告",
+   "school": "zzu",
+   "title": "“豫见生态论坛”学术讲座通知（九）",
+   "url": "https://www7.zzu.edu.cn/sthj/info/1052/2906.htm",
+   "date": "2026-11-18",
+   "tag": null,
+   "category": "综合",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-20T14:46:40.022Z",
+   "unit": "生态与环境学院"
   },
   {
    "id": "e08bbd5b6f8a11f1",
@@ -356,6 +398,21 @@
    "tier": "digest",
    "firstSeenAt": "2026-11-11T10:21:36.229Z",
    "unit": "新闻网"
+  },
+  {
+   "id": "673c4956df309d3f",
+   "sourceId": "sthj-notices",
+   "sourceName": "生态与环境学院·通知公告",
+   "school": "zzu",
+   "title": "关于举办国际学术大师进校园活动通知",
+   "url": "https://www7.zzu.edu.cn/sthj/info/1052/2899.htm",
+   "date": "2026-11-10",
+   "tag": null,
+   "category": "综合",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-20T14:46:40.022Z",
+   "unit": "生态与环境学院"
   },
   {
    "id": "0261b7a77b7ad612",
@@ -957,6 +1014,21 @@
    "unit": "新闻网"
   },
   {
+   "id": "d524e452a776a754",
+   "sourceId": "sthj-notices",
+   "sourceName": "生态与环境学院·通知公告",
+   "school": "zzu",
+   "title": "“豫见生态论坛”学术讲座通知（八）",
+   "url": "https://www7.zzu.edu.cn/sthj/info/1052/2882.htm",
+   "date": "2026-10-20",
+   "tag": null,
+   "category": "综合",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-20T14:46:40.022Z",
+   "unit": "生态与环境学院"
+  },
+  {
    "id": "b31ee76a4585a9b6",
    "sourceId": "rsc-tzgg",
    "sourceName": "人事部·通知公告",
@@ -1094,6 +1166,21 @@
    "alsoIn": [],
    "firstSeenAt": "2026-10-21T10:57:47.397Z",
    "unit": "研究生院"
+  },
+  {
+   "id": "2d88a10c6fd586d0",
+   "sourceId": "sthj-notices",
+   "sourceName": "生态与环境学院·通知公告",
+   "school": "zzu",
+   "title": "“豫见生态论坛”学术讲座通知（七）",
+   "url": "https://www7.zzu.edu.cn/sthj/info/1052/2872.htm",
+   "date": "2026-09-28",
+   "tag": null,
+   "category": "综合",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-20T14:46:40.022Z",
+   "unit": "生态与环境学院"
   },
   {
    "id": "d50c99620df78fd5",
@@ -1259,6 +1346,22 @@
    "unit": "教务部"
   },
   {
+   "id": "01b85bc90bc5c137",
+   "sourceId": "sthj-notices",
+   "sourceName": "生态与环境学院·通知公告",
+   "school": "zzu",
+   "title": "生态与环境学院推免生提交材料相关工作安排",
+   "url": "https://www7.zzu.edu.cn/sthj/info/1052/2855.htm",
+   "date": "2026-09-11",
+   "tag": null,
+   "category": "综合",
+   "alsoIn": [],
+   "deadline": "2026-09-20",
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-20T14:46:40.022Z",
+   "unit": "生态与环境学院"
+  },
+  {
    "id": "0e95e89e3f871cbd",
    "sourceId": "gs-gg",
    "sourceName": "研究生院·公告",
@@ -1328,6 +1431,21 @@
    "firstSeenAt": "2026-10-21T10:57:47.397Z",
    "deadline": "2026-10-15",
    "unit": "研究生院"
+  },
+  {
+   "id": "bfe3e21bf1ee954c",
+   "sourceId": "sthj-notices",
+   "sourceName": "生态与环境学院·通知公告",
+   "school": "zzu",
+   "title": "2026-2027学年第1学期接收普通本科生转专业学习考核录取方案",
+   "url": "https://www7.zzu.edu.cn/sthj/info/1052/2853.htm",
+   "date": "2026-09-04",
+   "tag": null,
+   "category": "综合",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-20T14:46:40.022Z",
+   "unit": "生态与环境学院"
   },
   {
    "id": "32c269a626654b1d",

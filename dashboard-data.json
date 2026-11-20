@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-20T07:51:49.726Z",
-  "total": 712,
+  "generatedAt": "2026-11-20T14:46:40.333Z",
+  "total": 724,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
-      "sourceName": "教务处·通知公告",
-      "count": 293
+      "sourceName": "教务·通知公告",
+      "count": 294
     },
     {
       "sourceId": "jwb-tzgg",
       "sourceName": "教务部·通知公告",
-      "count": 34
+      "count": 35
     },
     {
       "sourceId": "gs-xw",
@@ -20,16 +20,16 @@
     {
       "sourceId": "news-notice",
       "sourceName": "新闻网·公告",
-      "count": 27
-    },
-    {
-      "sourceId": "news",
-      "sourceName": "新闻网·综合",
-      "count": 27
+      "count": 29
     },
     {
       "sourceId": "jiaowu-tzgg",
       "sourceName": "教务部·通知公告",
+      "count": 28
+    },
+    {
+      "sourceId": "news",
+      "sourceName": "新闻网·综合",
       "count": 27
     },
     {
@@ -55,7 +55,7 @@
     {
       "sourceId": "jwc-jxtz",
       "sourceName": "教务处·教学通知",
-      "count": 21
+      "count": 22
     },
     {
       "sourceId": "jwc-xwkd",
@@ -108,12 +108,105 @@
       "count": 8
     },
     {
+      "sourceId": "sthj-notices",
+      "sourceName": "生态与环境学院·通知公告",
+      "count": 6
+    },
+    {
       "sourceId": "oaa-tzgg",
       "sourceName": "本科生院·通知公告",
       "count": 4
     }
   ],
   "items": [
+    {
+      "id": "2969f4f0010149c8",
+      "sourceId": "jwc-jxtz",
+      "sourceName": "教务处·教学通知",
+      "school": "xjtu",
+      "title": "[专业建设]关于推荐第二批陕西省普通本科高校产教融合专业群建设项目的公示",
+      "url": "https://jwc.xjtu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1102&wbnewsid=10672",
+      "date": "2026-11-20",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-20T14:46:25.714Z"
+    },
+    {
+      "id": "f5638c6cea35aa9e",
+      "sourceId": "jiaowu-tzgg",
+      "sourceName": "教务部·通知公告",
+      "school": "nwpu",
+      "title": "关于2026年西北工业大学英语辩论赛暨第29届“外研社国才杯”全国大学生英语辩论赛校园选拔赛获奖名单的公示",
+      "url": "https://jiaowu.nwpu.edu.cn/info/1164/30868.htm",
+      "date": "2026-11-20",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-20T14:45:56.472Z"
+    },
+    {
+      "id": "98362090a0d0befb",
+      "sourceId": "jwb-tzgg",
+      "sourceName": "教务部·通知公告",
+      "school": "bnu",
+      "title": "【国际交流】 2027年加拿大阿尔伯塔大学本科生实习合作奖学金遴选通知",
+      "url": "https://jwb.bnu.edu.cn/pygc/gjjl/gjgpxmxsl/f33438d8ea8441ecb4e81d820d14a219.htm",
+      "date": "2026-11-20",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-20T14:45:00.608Z"
+    },
+    {
+      "id": "b9f9d05fe863a297",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "4132010290",
+      "title": "关于组织2027届本科生高水平创新成果替代毕业设计（论文）校级答辩评审工作的通知",
+      "url": "https://jwb.cumt.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1105&wbnewsid=8612",
+      "date": "2026-11-20",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-20T14:44:49.823Z"
+    },
+    {
+      "id": "40798ac8b19a113d",
+      "sourceId": "news-notice",
+      "sourceName": "新闻网·公告",
+      "school": "uestc",
+      "title": "教学工作坊：教学能力提升系列讲座（一）",
+      "url": "https://news.uestc.edu.cn/info/1015/45669.htm",
+      "date": "2026-11-20",
+      "tag": "学术",
+      "category": null,
+      "alsoIn": [
+        "新闻网·学术"
+      ],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-20T14:44:37.105Z"
+    },
+    {
+      "id": "ff2e9b805671e518",
+      "sourceId": "news-notice",
+      "sourceName": "新闻网·公告",
+      "school": "uestc",
+      "title": "学者论坛：基于深度神经网络重参数化的地震走时和大地电磁成像",
+      "url": "https://news.uestc.edu.cn/info/1015/45677.htm",
+      "date": "2026-11-20",
+      "tag": "学术",
+      "category": null,
+      "alsoIn": [
+        "新闻网·学术"
+      ],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-20T14:44:37.105Z"
+    },
     {
       "id": "933d8a5521427129",
       "sourceId": "jwc-xwkd",
@@ -199,6 +292,20 @@
       "alsoIn": [],
       "tier": "urgent",
       "firstSeenAt": "2026-11-19T09:17:14.616Z"
+    },
+    {
+      "id": "3ad2aeb89ce0dc04",
+      "sourceId": "sthj-notices",
+      "sourceName": "生态与环境学院·通知公告",
+      "school": "zzu",
+      "title": "“豫见生态论坛”学术讲座通知（九）",
+      "url": "https://www7.zzu.edu.cn/sthj/info/1052/2906.htm",
+      "date": "2026-11-18",
+      "tag": null,
+      "category": "综合",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-20T14:46:40.022Z"
     },
     {
       "id": "83fc32ce27108145",
@@ -1084,6 +1191,20 @@
       "alsoIn": [],
       "tier": "urgent",
       "firstSeenAt": "2026-11-11T02:53:47.514Z"
+    },
+    {
+      "id": "673c4956df309d3f",
+      "sourceId": "sthj-notices",
+      "sourceName": "生态与环境学院·通知公告",
+      "school": "zzu",
+      "title": "关于举办国际学术大师进校园活动通知",
+      "url": "https://www7.zzu.edu.cn/sthj/info/1052/2899.htm",
+      "date": "2026-11-10",
+      "tag": null,
+      "category": "综合",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-20T14:46:40.022Z"
     },
     {
       "id": "05a7532e8c87ece2",
@@ -3351,6 +3472,20 @@
       "firstSeenAt": "2026-10-21T02:22:37.463Z"
     },
     {
+      "id": "d524e452a776a754",
+      "sourceId": "sthj-notices",
+      "sourceName": "生态与环境学院·通知公告",
+      "school": "zzu",
+      "title": "“豫见生态论坛”学术讲座通知（八）",
+      "url": "https://www7.zzu.edu.cn/sthj/info/1052/2882.htm",
+      "date": "2026-10-20",
+      "tag": null,
+      "category": "综合",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-20T14:46:40.022Z"
+    },
+    {
       "id": "a89e148438549f5e",
       "sourceId": "jwc-tzgg",
       "sourceName": "教务·通知公告",
@@ -4953,6 +5088,20 @@
       "firstSeenAt": "2026-10-03T16:50:34.573Z"
     },
     {
+      "id": "2d88a10c6fd586d0",
+      "sourceId": "sthj-notices",
+      "sourceName": "生态与环境学院·通知公告",
+      "school": "zzu",
+      "title": "“豫见生态论坛”学术讲座通知（七）",
+      "url": "https://www7.zzu.edu.cn/sthj/info/1052/2872.htm",
+      "date": "2026-09-28",
+      "tag": null,
+      "category": "综合",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-20T14:46:40.022Z"
+    },
+    {
       "id": "fd8432e22df1e8c0",
       "sourceId": "jwc-tzgg",
       "sourceName": "教务·通知公告",
@@ -6345,6 +6494,21 @@
       "firstSeenAt": "2026-10-04T06:59:32.824Z"
     },
     {
+      "id": "01b85bc90bc5c137",
+      "sourceId": "sthj-notices",
+      "sourceName": "生态与环境学院·通知公告",
+      "school": "zzu",
+      "title": "生态与环境学院推免生提交材料相关工作安排",
+      "url": "https://www7.zzu.edu.cn/sthj/info/1052/2855.htm",
+      "date": "2026-09-11",
+      "tag": null,
+      "category": "综合",
+      "alsoIn": [],
+      "deadline": "2026-09-20",
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-20T14:46:40.022Z"
+    },
+    {
       "id": "fc3f58ae11e09a55",
       "sourceId": "jwc-tzgg",
       "sourceName": "教务处·通知公告",
@@ -6832,6 +6996,20 @@
       "alsoIn": [],
       "tier": "digest",
       "firstSeenAt": "2026-11-08T14:28:59.344Z"
+    },
+    {
+      "id": "bfe3e21bf1ee954c",
+      "sourceId": "sthj-notices",
+      "sourceName": "生态与环境学院·通知公告",
+      "school": "zzu",
+      "title": "2026-2027学年第1学期接收普通本科生转专业学习考核录取方案",
+      "url": "https://www7.zzu.edu.cn/sthj/info/1052/2853.htm",
+      "date": "2026-09-04",
+      "tag": null,
+      "category": "综合",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-20T14:46:40.022Z"
     },
     {
       "id": "259833011da1eb58",

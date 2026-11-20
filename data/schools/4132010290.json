@@ -3,13 +3,13 @@
  "name": "中国矿业大学",
  "province": "江苏省",
  "city": "徐州市",
- "generatedAt": "2026-11-20T07:51:49.726Z",
- "total": 4,
+ "generatedAt": "2026-11-20T14:46:40.333Z",
+ "total": 5,
  "bySource": [
   {
    "sourceId": "jwc-tzgg",
    "sourceName": "教务·通知公告",
-   "count": 4
+   "count": 5
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务·通知公告"
    ],
-   "count": 4
+   "count": 5
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,29 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务·通知公告",
-   "checkedAt": "2026-11-20T07:49:45.552Z",
-   "lastSuccessAt": "2026-11-19T09:16:56.419Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-20T14:44:49.818Z",
+   "lastSuccessAt": "2026-11-20T14:44:49.818Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 16
   }
  },
  "items": [
+  {
+   "id": "b9f9d05fe863a297",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "4132010290",
+   "title": "关于组织2027届本科生高水平创新成果替代毕业设计（论文）校级答辩评审工作的通知",
+   "url": "https://jwb.cumt.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1105&wbnewsid=8612",
+   "date": "2026-11-20",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-20T14:44:49.823Z",
+   "unit": "教务"
+  },
   {
    "id": "e090c8b2032f70c1",
    "sourceId": "jwc-tzgg",
