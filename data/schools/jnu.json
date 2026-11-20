@@ -3,7 +3,7 @@
  "name": "暨南大学",
  "province": "广东省",
  "city": "广州市",
- "generatedAt": "2026-11-20T14:46:40.333Z",
+ "generatedAt": "2026-11-20T16:28:33.212Z",
  "total": 5,
  "bySource": [
   {
@@ -33,8 +33,8 @@
  "sourceChecks": {
   "notice-list": {
    "name": "官网·学校公告",
-   "checkedAt": "2026-11-20T14:45:37.659Z",
-   "lastSuccessAt": "2026-11-20T14:45:37.659Z",
+   "checkedAt": "2026-11-20T16:27:37.589Z",
+   "lastSuccessAt": "2026-11-20T16:27:37.589Z",
    "outcome": "ok",
    "status": 200,
    "items": 13
