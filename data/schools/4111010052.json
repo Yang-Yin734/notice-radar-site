@@ -3,7 +3,7 @@
  "name": "中央民族大学",
  "province": "北京市",
  "city": "",
- "generatedAt": "2026-11-19T18:25:29.772Z",
+ "generatedAt": "2026-11-20T00:48:58.338Z",
  "total": 10,
  "bySource": [
   {
@@ -33,8 +33,8 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务·通知公告",
-   "checkedAt": "2026-11-19T18:24:06.768Z",
-   "lastSuccessAt": "2026-11-19T18:24:06.768Z",
+   "checkedAt": "2026-11-20T00:47:23.075Z",
+   "lastSuccessAt": "2026-11-20T00:47:23.075Z",
    "outcome": "ok",
    "status": 200,
    "items": 15

@@ -3,7 +3,7 @@
  "name": "西安电子科技大学",
  "province": "陕西省",
  "city": "西安市",
- "generatedAt": "2026-11-19T18:25:29.772Z",
+ "generatedAt": "2026-11-20T00:48:58.338Z",
  "total": 12,
  "bySource": [
   {
@@ -33,7 +33,7 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务处·通知公告",
-   "checkedAt": "2026-11-19T18:25:15.797Z",
+   "checkedAt": "2026-11-20T00:48:45.851Z",
    "lastSuccessAt": "2026-11-19T09:18:20.826Z",
    "outcome": "network",
    "status": null,
