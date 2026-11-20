@@ -3,13 +3,13 @@
  "name": "南京农业大学",
  "province": "江苏省",
  "city": "南京市",
- "generatedAt": "2026-11-20T00:48:58.338Z",
- "total": 24,
+ "generatedAt": "2026-11-20T07:51:49.726Z",
+ "total": 25,
  "bySource": [
   {
    "sourceId": "aao-tzgg",
    "sourceName": "教务处·通知公告",
-   "count": 24
+   "count": 25
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务处·通知公告"
    ],
-   "count": 24
+   "count": 25
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,29 @@
  "sourceChecks": {
   "aao-tzgg": {
    "name": "教务处·通知公告",
-   "checkedAt": "2026-11-20T00:48:14.475Z",
-   "lastSuccessAt": "2026-11-19T09:17:42.543Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-20T07:50:53.164Z",
+   "lastSuccessAt": "2026-11-20T07:50:53.164Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 20
   }
  },
  "items": [
+  {
+   "id": "c6c87876b0dc1d9d",
+   "sourceId": "aao-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "njau",
+   "title": "关于金善宝生命学院推荐参加生命科学领域国家学院联盟生物医药冬令营（2027）人选的公示",
+   "url": "https://aao.njau.edu.cn/info/1101/7041.htm",
+   "date": "2026-11-20",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-20T07:50:53.168Z",
+   "unit": "教务处"
+  },
   {
    "id": "ac5039e96b6f876f",
    "sourceId": "aao-tzgg",

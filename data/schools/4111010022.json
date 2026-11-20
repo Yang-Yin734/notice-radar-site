@@ -3,13 +3,13 @@
  "name": "北京林业大学",
  "province": "北京市",
  "city": "",
- "generatedAt": "2026-11-20T00:48:58.338Z",
- "total": 24,
+ "generatedAt": "2026-11-20T07:51:49.726Z",
+ "total": 25,
  "bySource": [
   {
    "sourceId": "jwc-tzgg",
    "sourceName": "教务处·通知公告",
-   "count": 24
+   "count": 25
   }
  ],
  "units": [
@@ -19,12 +19,27 @@
    "sources": [
     "教务处·通知公告"
    ],
-   "count": 24
+   "count": 25
   }
  ],
  "sourceCatalog": [],
  "sourceChecks": {},
  "items": [
+  {
+   "id": "4978a9a0259b9fcd",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "bjfu",
+   "title": "关于全校公选《日本影视艺术欣赏》课程期末考试的通知",
+   "url": "https://jwc.bjfu.edu.cn/ksxx/cf5205f76c4540d987b0b08fe0f819c7.html",
+   "date": "2026-11-20",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-20T07:49:48.804Z",
+   "unit": "教务处"
+  },
   {
    "id": "06fb63376d58aa60",
    "sourceId": "jwc-tzgg",

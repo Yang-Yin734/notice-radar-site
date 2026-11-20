@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-20T00:48:58.338Z",
-  "total": 709,
+  "generatedAt": "2026-11-20T07:51:49.726Z",
+  "total": 712,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
-      "sourceName": "教务·通知公告",
-      "count": 292
+      "sourceName": "教务处·通知公告",
+      "count": 293
     },
     {
       "sourceId": "jwb-tzgg",
@@ -35,7 +35,7 @@
     {
       "sourceId": "aao-tzgg",
       "sourceName": "教务处·通知公告",
-      "count": 24
+      "count": 25
     },
     {
       "sourceId": "ugs-tzgg",
@@ -58,6 +58,11 @@
       "count": 21
     },
     {
+      "sourceId": "jwc-xwkd",
+      "sourceName": "教务部·新闻快递",
+      "count": 18
+    },
+    {
       "sourceId": "notice-list",
       "sourceName": "教务处·教务信息",
       "count": 18
@@ -70,11 +75,6 @@
     {
       "sourceId": "math-xsgz",
       "sourceName": "数学科学学院·学生工作",
-      "count": 17
-    },
-    {
-      "sourceId": "jwc-xwkd",
-      "sourceName": "教务部·新闻快递",
       "count": 17
     },
     {
@@ -114,6 +114,48 @@
     }
   ],
   "items": [
+    {
+      "id": "933d8a5521427129",
+      "sourceId": "jwc-xwkd",
+      "sourceName": "教务部·新闻快递",
+      "school": "zzu",
+      "title": "郑州大学举行2026年AI赋能教育教学研修班",
+      "url": "https://www5.zzu.edu.cn/jwc/info/1124/5465.htm",
+      "date": "2026-11-20",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-20T07:51:49.439Z"
+    },
+    {
+      "id": "c6c87876b0dc1d9d",
+      "sourceId": "aao-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "njau",
+      "title": "关于金善宝生命学院推荐参加生命科学领域国家学院联盟生物医药冬令营（2027）人选的公示",
+      "url": "https://aao.njau.edu.cn/info/1101/7041.htm",
+      "date": "2026-11-20",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-20T07:50:53.168Z"
+    },
+    {
+      "id": "4978a9a0259b9fcd",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "bjfu",
+      "title": "关于全校公选《日本影视艺术欣赏》课程期末考试的通知",
+      "url": "https://jwc.bjfu.edu.cn/ksxx/cf5205f76c4540d987b0b08fe0f819c7.html",
+      "date": "2026-11-20",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-20T07:49:48.804Z"
+    },
     {
       "id": "b47eef065de10dd9",
       "sourceId": "jwc-jxtz",
