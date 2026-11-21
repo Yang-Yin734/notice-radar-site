@@ -3,13 +3,13 @@
  "name": "云南大学",
  "province": "云南省",
  "city": "昆明市",
- "generatedAt": "2026-11-20T22:47:12.517Z",
- "total": 17,
+ "generatedAt": "2026-11-21T03:33:39.988Z",
+ "total": 18,
  "bySource": [
   {
    "sourceId": "jwc-tzgg",
    "sourceName": "教务·通知公告",
-   "count": 17
+   "count": 18
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务·通知公告"
    ],
-   "count": 17
+   "count": 18
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,29 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务·通知公告",
-   "checkedAt": "2026-11-20T22:47:04.285Z",
-   "lastSuccessAt": "2026-11-13T22:52:05.857Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-21T03:33:34.948Z",
+   "lastSuccessAt": "2026-11-21T03:33:34.948Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 33
   }
  },
  "items": [
+  {
+   "id": "d1f5195942729312",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "ynu",
+   "title": "关于开展2026年秋季学期卓越课程和优秀课程教学示范活动的通知",
+   "url": "https://jwc.ynu.edu.cn/info/1032/4429.htm",
+   "date": "2026-11-20",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-21T03:33:34.952Z",
+   "unit": "教务"
+  },
   {
    "id": "8db3c23af4742f6b",
    "sourceId": "jwc-tzgg",

@@ -3,13 +3,13 @@
  "name": "福州大学",
  "province": "福建省",
  "city": "福州市",
- "generatedAt": "2026-11-20T22:47:12.517Z",
- "total": 9,
+ "generatedAt": "2026-11-21T03:33:39.988Z",
+ "total": 10,
  "bySource": [
   {
    "sourceId": "jwc-tzgg",
    "sourceName": "教务·通知公告",
-   "count": 9
+   "count": 10
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务·通知公告"
    ],
-   "count": 9
+   "count": 10
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,29 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务·通知公告",
-   "checkedAt": "2026-11-20T22:45:53.280Z",
-   "lastSuccessAt": "2026-11-16T21:14:39.003Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-21T03:32:46.275Z",
+   "lastSuccessAt": "2026-11-21T03:32:46.275Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 8
   }
  },
  "items": [
+  {
+   "id": "60cfbfc139ad1851",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "fzu",
+   "title": "关于举办福州大学第90场“教学有道”研讨活动的通知",
+   "url": "https://jwch.fzu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1040&wbnewsid=14912",
+   "date": "2026-11-18",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-21T03:32:46.278Z",
+   "unit": "教务"
+  },
   {
    "id": "4dad7a7d7978ece3",
    "sourceId": "jwc-tzgg",

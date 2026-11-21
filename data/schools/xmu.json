@@ -3,13 +3,13 @@
  "name": "厦门大学",
  "province": "福建省",
  "city": "厦门市",
- "generatedAt": "2026-11-20T22:47:12.517Z",
- "total": 15,
+ "generatedAt": "2026-11-21T03:33:39.988Z",
+ "total": 17,
  "bySource": [
   {
    "sourceId": "jwc-tzgg",
    "sourceName": "教务处·通知公告",
-   "count": 15
+   "count": 17
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务处·通知公告"
    ],
-   "count": 15
+   "count": 17
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,44 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务处·通知公告",
-   "checkedAt": "2026-11-20T22:47:03.233Z",
-   "lastSuccessAt": "2026-11-13T02:38:04.071Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-21T03:33:33.090Z",
+   "lastSuccessAt": "2026-11-21T03:33:33.090Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 15
   }
  },
  "items": [
+  {
+   "id": "fb597c1f988e9e58",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "xmu",
+   "title": "关于征集2027年大学生创新训练计划教师科研课题项目的通知",
+   "url": "https://jwc.xmu.edu.cn/info/1951/70022.htm",
+   "date": "2026-11-16",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-21T03:33:33.093Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "c86bfc19895267b7",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "xmu",
+   "title": "关于组织参加2026年11月全国大学英语四、六级口语考试模拟测试的通知",
+   "url": "https://jwc.xmu.edu.cn/info/1911/70012.htm",
+   "date": "2026-11-16",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-21T03:33:33.093Z",
+   "unit": "教务处"
+  },
   {
    "id": "05a76f0a5628cbf1",
    "sourceId": "jwc-tzgg",
