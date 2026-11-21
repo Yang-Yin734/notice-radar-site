@@ -3,7 +3,7 @@
  "name": "中山大学",
  "province": "广东省",
  "city": "广州市",
- "generatedAt": "2026-11-21T18:17:02.476Z",
+ "generatedAt": "2026-11-21T23:29:17.416Z",
  "total": 3,
  "bySource": [
   {
@@ -33,11 +33,11 @@
  "sourceChecks": {
   "jwb-tzgg": {
    "name": "教务部·通知通告",
-   "checkedAt": "2026-11-21T18:16:43.448Z",
+   "checkedAt": "2026-11-21T23:28:50.068Z",
    "lastSuccessAt": "2026-11-21T18:16:43.448Z",
-   "outcome": "ok",
-   "status": 200,
-   "items": 20
+   "outcome": "network",
+   "status": null,
+   "items": 0
   }
  },
  "items": [
