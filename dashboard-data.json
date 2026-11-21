@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-21T03:33:39.988Z",
-  "total": 730,
+  "generatedAt": "2026-11-21T11:46:50.460Z",
+  "total": 733,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
@@ -60,6 +60,11 @@
     {
       "sourceId": "jwc-xwkd",
       "sourceName": "教务部·新闻快递",
+      "count": 20
+    },
+    {
+      "sourceId": "math-xsgz",
+      "sourceName": "数学科学学院·学生工作",
       "count": 18
     },
     {
@@ -71,11 +76,6 @@
       "sourceId": "math-jwgg",
       "sourceName": "数学科学学院·教务公告",
       "count": 18
-    },
-    {
-      "sourceId": "math-xsgz",
-      "sourceName": "数学科学学院·学生工作",
-      "count": 17
     },
     {
       "sourceId": "rsc-tzgg",
@@ -119,6 +119,34 @@
     }
   ],
   "items": [
+    {
+      "id": "0e3e6f0bf3c043e5",
+      "sourceId": "jwc-xwkd",
+      "sourceName": "教务部·新闻快递",
+      "school": "zzu",
+      "title": "郑州大学举办AI素养评价系统上线仪式暨教师AI素养专题培训会",
+      "url": "https://www5.zzu.edu.cn/jwc/info/1124/5466.htm",
+      "date": "2026-11-21",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-21T11:46:50.042Z"
+    },
+    {
+      "id": "d332d1b3273428ba",
+      "sourceId": "jwc-xwkd",
+      "sourceName": "教务部·新闻快递",
+      "school": "zzu",
+      "title": "郑州大学未来学习研究院揭牌成立",
+      "url": "https://www5.zzu.edu.cn/jwc/info/1124/5467.htm",
+      "date": "2026-11-21",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-21T11:46:50.042Z"
+    },
     {
       "id": "d1f5195942729312",
       "sourceId": "jwc-tzgg",
@@ -276,6 +304,20 @@
       "alsoIn": [],
       "tier": "urgent",
       "firstSeenAt": "2026-11-20T07:49:48.804Z"
+    },
+    {
+      "id": "a603c9c3e2640e33",
+      "sourceId": "math-xsgz",
+      "sourceName": "数学科学学院·学生工作",
+      "school": "uestc",
+      "title": "2026年研究生专项奖学金推荐名单公示",
+      "url": "https://www.math.uestc.edu.cn/info/1044/10402.htm",
+      "date": "2026-11-19",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-21T05:38:49.613Z"
     },
     {
       "id": "15b53c5ca74d35dd",

@@ -3,13 +3,13 @@
  "name": "郑州大学",
  "province": "河南省",
  "city": "郑州市",
- "generatedAt": "2026-11-21T03:33:39.988Z",
- "total": 142,
+ "generatedAt": "2026-11-21T11:46:50.460Z",
+ "total": 144,
  "bySource": [
   {
    "sourceId": "jwc-xwkd",
    "sourceName": "教务部·新闻快递",
-   "count": 18
+   "count": 20
   },
   {
    "sourceId": "sthj-notices",
@@ -59,7 +59,7 @@
     "教务部·新闻快递",
     "教务部·通知公告"
    ],
-   "count": 37
+   "count": 39
   },
   {
    "id": "新闻网",
@@ -133,62 +133,92 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务部·通知公告",
-   "checkedAt": "2026-11-21T03:33:39.772Z",
-   "lastSuccessAt": "2026-11-21T03:33:39.772Z",
+   "checkedAt": "2026-11-21T11:46:50.036Z",
+   "lastSuccessAt": "2026-11-21T11:46:50.036Z",
    "outcome": "ok",
    "status": 200,
    "items": 15
   },
   "jwc-xwkd": {
    "name": "教务部·新闻快递",
-   "checkedAt": "2026-11-21T03:33:39.772Z",
-   "lastSuccessAt": "2026-11-21T03:33:39.772Z",
+   "checkedAt": "2026-11-21T11:46:50.036Z",
+   "lastSuccessAt": "2026-11-21T11:46:50.036Z",
    "outcome": "ok",
    "status": 200,
    "items": 15
   },
   "gs-gg": {
    "name": "研究生院·公告",
-   "checkedAt": "2026-11-21T03:33:39.772Z",
+   "checkedAt": "2026-11-21T11:46:50.036Z",
    "lastSuccessAt": "2026-11-15T19:57:57.447Z",
-   "outcome": "empty",
-   "status": 200,
+   "outcome": "network",
+   "status": null,
    "items": 0
   },
   "gs-xw": {
    "name": "研究生院·新闻",
-   "checkedAt": "2026-11-21T03:33:39.772Z",
+   "checkedAt": "2026-11-21T11:46:50.036Z",
    "lastSuccessAt": "2026-11-15T19:57:57.447Z",
-   "outcome": "empty",
-   "status": 200,
+   "outcome": "network",
+   "status": null,
    "items": 0
   },
   "rsc-tzgg": {
    "name": "人事部·通知公告",
-   "checkedAt": "2026-11-21T03:33:39.772Z",
-   "lastSuccessAt": "2026-11-21T03:33:39.772Z",
+   "checkedAt": "2026-11-21T11:46:50.036Z",
+   "lastSuccessAt": "2026-11-21T11:46:50.036Z",
    "outcome": "ok",
    "status": 200,
    "items": 14
   },
   "news": {
    "name": "新闻网·综合",
-   "checkedAt": "2026-11-21T03:33:39.772Z",
+   "checkedAt": "2026-11-21T11:46:50.036Z",
    "lastSuccessAt": "2026-11-21T03:33:39.772Z",
-   "outcome": "ok",
-   "status": 200,
-   "items": 10
+   "outcome": "network",
+   "status": null,
+   "items": 0
   },
   "sthj-notices": {
    "name": "生态与环境学院·通知公告",
-   "checkedAt": "2026-11-21T03:33:39.772Z",
-   "lastSuccessAt": "2026-11-21T03:33:39.772Z",
+   "checkedAt": "2026-11-21T11:46:50.036Z",
+   "lastSuccessAt": "2026-11-21T11:46:50.036Z",
    "outcome": "ok",
    "status": 200,
    "items": 10
   }
  },
  "items": [
+  {
+   "id": "0e3e6f0bf3c043e5",
+   "sourceId": "jwc-xwkd",
+   "sourceName": "教务部·新闻快递",
+   "school": "zzu",
+   "title": "郑州大学举办AI素养评价系统上线仪式暨教师AI素养专题培训会",
+   "url": "https://www5.zzu.edu.cn/jwc/info/1124/5466.htm",
+   "date": "2026-11-21",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-21T11:46:50.042Z",
+   "unit": "教务部"
+  },
+  {
+   "id": "d332d1b3273428ba",
+   "sourceId": "jwc-xwkd",
+   "sourceName": "教务部·新闻快递",
+   "school": "zzu",
+   "title": "郑州大学未来学习研究院揭牌成立",
+   "url": "https://www5.zzu.edu.cn/jwc/info/1124/5467.htm",
+   "date": "2026-11-21",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-21T11:46:50.042Z",
+   "unit": "教务部"
+  },
   {
    "id": "933d8a5521427129",
    "sourceId": "jwc-xwkd",

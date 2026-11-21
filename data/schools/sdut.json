@@ -3,7 +3,7 @@
  "name": "山东理工大学",
  "province": "山东省",
  "city": "淄博市",
- "generatedAt": "2026-11-21T03:33:39.988Z",
+ "generatedAt": "2026-11-21T11:46:50.460Z",
  "total": 5,
  "bySource": [
   {
@@ -33,11 +33,11 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务·通知公告",
-   "checkedAt": "2026-11-21T03:33:11.739Z",
+   "checkedAt": "2026-11-21T11:46:16.330Z",
    "lastSuccessAt": "2026-11-21T03:33:11.739Z",
-   "outcome": "ok",
-   "status": 200,
-   "items": 10
+   "outcome": "network",
+   "status": null,
+   "items": 0
   }
  },
  "items": [
