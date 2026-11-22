@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-21T23:29:17.416Z",
-  "total": 733,
+  "generatedAt": "2026-11-22T03:24:36.165Z",
+  "total": 734,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
@@ -78,6 +78,11 @@
       "count": 18
     },
     {
+      "sourceId": "jw-ggtz",
+      "sourceName": "本科生院·公告通知",
+      "count": 16
+    },
+    {
       "sourceId": "rsc-tzgg",
       "sourceName": "人事部·通知公告",
       "count": 16
@@ -85,11 +90,6 @@
     {
       "sourceId": "bksy-tzgg",
       "sourceName": "本科生院·通知公告",
-      "count": 15
-    },
-    {
-      "sourceId": "jw-ggtz",
-      "sourceName": "本科生院·公告通知",
       "count": 15
     },
     {
@@ -119,6 +119,20 @@
     }
   ],
   "items": [
+    {
+      "id": "ad0757e16908ea21",
+      "sourceId": "jw-ggtz",
+      "sourceName": "本科生院·公告通知",
+      "school": "nju",
+      "title": "关于教育部高等教育司第二批高等教育领域学科大模型拟推荐名单的公示",
+      "url": "https://jw.nju.edu.cn/f6/05/c26263a849413/page.htm",
+      "date": "2026-11-22",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-22T03:23:42.457Z"
+    },
     {
       "id": "0e3e6f0bf3c043e5",
       "sourceId": "jwc-xwkd",
