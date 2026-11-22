@@ -3,7 +3,7 @@
  "name": "北京航空航天大学",
  "province": "北京市",
  "city": "",
- "generatedAt": "2026-11-22T18:43:52.574Z",
+ "generatedAt": "2026-11-22T23:56:45.068Z",
  "total": 10,
  "bySource": [
   {
@@ -33,7 +33,7 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务处·通知公告",
-   "checkedAt": "2026-11-22T18:42:12.628Z",
+   "checkedAt": "2026-11-22T23:55:03.183Z",
    "lastSuccessAt": "2026-11-22T11:47:54.828Z",
    "outcome": "network",
    "status": null,
