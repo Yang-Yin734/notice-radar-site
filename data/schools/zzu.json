@@ -3,13 +3,18 @@
  "name": "郑州大学",
  "province": "河南省",
  "city": "郑州市",
- "generatedAt": "2026-11-23T05:47:34.384Z",
- "total": 145,
+ "generatedAt": "2026-11-23T16:34:41.665Z",
+ "total": 146,
  "bySource": [
   {
    "sourceId": "jwc-xwkd",
    "sourceName": "教务部·新闻快递",
    "count": 21
+  },
+  {
+   "sourceId": "rsc-tzgg",
+   "sourceName": "人事部·通知公告",
+   "count": 17
   },
   {
    "sourceId": "sthj-notices",
@@ -25,11 +30,6 @@
    "sourceId": "jwc-tzgg",
    "sourceName": "教务部·通知公告",
    "count": 19
-  },
-  {
-   "sourceId": "rsc-tzgg",
-   "sourceName": "人事部·通知公告",
-   "count": 16
   },
   {
    "sourceId": "gs-xw",
@@ -75,7 +75,7 @@
    "sources": [
     "人事部·通知公告"
    ],
-   "count": 16
+   "count": 17
   },
   {
    "id": "生态与环境学院",
@@ -133,23 +133,23 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务部·通知公告",
-   "checkedAt": "2026-11-23T05:47:33.948Z",
-   "lastSuccessAt": "2026-11-23T05:47:33.948Z",
+   "checkedAt": "2026-11-23T16:34:41.293Z",
+   "lastSuccessAt": "2026-11-23T16:34:41.293Z",
    "outcome": "ok",
    "status": 200,
    "items": 15
   },
   "jwc-xwkd": {
    "name": "教务部·新闻快递",
-   "checkedAt": "2026-11-23T05:47:33.948Z",
-   "lastSuccessAt": "2026-11-23T05:47:33.948Z",
+   "checkedAt": "2026-11-23T16:34:41.293Z",
+   "lastSuccessAt": "2026-11-23T16:34:41.293Z",
    "outcome": "ok",
    "status": 200,
    "items": 15
   },
   "gs-gg": {
    "name": "研究生院·公告",
-   "checkedAt": "2026-11-23T05:47:33.948Z",
+   "checkedAt": "2026-11-23T16:34:41.293Z",
    "lastSuccessAt": "2026-11-15T19:57:57.447Z",
    "outcome": "empty",
    "status": 200,
@@ -157,32 +157,32 @@
   },
   "gs-xw": {
    "name": "研究生院·新闻",
-   "checkedAt": "2026-11-23T05:47:33.948Z",
+   "checkedAt": "2026-11-23T16:34:41.293Z",
    "lastSuccessAt": "2026-11-15T19:57:57.447Z",
-   "outcome": "empty",
-   "status": 200,
+   "outcome": "network",
+   "status": null,
    "items": 0
   },
   "rsc-tzgg": {
    "name": "人事部·通知公告",
-   "checkedAt": "2026-11-23T05:47:33.948Z",
-   "lastSuccessAt": "2026-11-23T05:47:33.948Z",
+   "checkedAt": "2026-11-23T16:34:41.293Z",
+   "lastSuccessAt": "2026-11-23T16:34:41.293Z",
    "outcome": "ok",
    "status": 200,
    "items": 14
   },
   "news": {
    "name": "新闻网·综合",
-   "checkedAt": "2026-11-23T05:47:33.948Z",
+   "checkedAt": "2026-11-23T16:34:41.293Z",
    "lastSuccessAt": "2026-11-23T05:47:33.948Z",
-   "outcome": "ok",
-   "status": 200,
-   "items": 10
+   "outcome": "network",
+   "status": null,
+   "items": 0
   },
   "sthj-notices": {
    "name": "生态与环境学院·通知公告",
-   "checkedAt": "2026-11-23T05:47:33.948Z",
-   "lastSuccessAt": "2026-11-23T05:47:33.948Z",
+   "checkedAt": "2026-11-23T16:34:41.293Z",
+   "lastSuccessAt": "2026-11-23T16:34:41.293Z",
    "outcome": "ok",
    "status": 200,
    "items": 10
@@ -248,6 +248,21 @@
    "tier": "digest",
    "firstSeenAt": "2026-11-20T07:51:49.439Z",
    "unit": "教务部"
+  },
+  {
+   "id": "1ed6dbbe65dd1b09",
+   "sourceId": "rsc-tzgg",
+   "sourceName": "人事部·通知公告",
+   "school": "zzu",
+   "title": "关于2026年省级和校级青年骨干教师培养计划申报工作的通知",
+   "url": "https://www.zzu.edu.cn/tzcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1481&wbnewsid=89449",
+   "date": "2026-11-19",
+   "tag": null,
+   "category": "人事",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-23T16:34:41.298Z",
+   "unit": "人事部"
   },
   {
    "id": "3ad2aeb89ce0dc04",

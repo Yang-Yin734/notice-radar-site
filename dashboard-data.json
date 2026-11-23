@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-23T05:47:34.384Z",
-  "total": 739,
+  "generatedAt": "2026-11-23T16:34:41.665Z",
+  "total": 740,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
@@ -78,13 +78,13 @@
       "count": 18
     },
     {
-      "sourceId": "jw-ggtz",
-      "sourceName": "本科生院·公告通知",
-      "count": 16
-    },
-    {
       "sourceId": "rsc-tzgg",
       "sourceName": "人事部·通知公告",
+      "count": 17
+    },
+    {
+      "sourceId": "jw-ggtz",
+      "sourceName": "本科生院·公告通知",
       "count": 16
     },
     {
@@ -374,6 +374,20 @@
       "alsoIn": [],
       "tier": "urgent",
       "firstSeenAt": "2026-11-20T07:49:48.804Z"
+    },
+    {
+      "id": "1ed6dbbe65dd1b09",
+      "sourceId": "rsc-tzgg",
+      "sourceName": "人事部·通知公告",
+      "school": "zzu",
+      "title": "关于2026年省级和校级青年骨干教师培养计划申报工作的通知",
+      "url": "https://www.zzu.edu.cn/tzcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1481&wbnewsid=89449",
+      "date": "2026-11-19",
+      "tag": null,
+      "category": "人事",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-23T16:34:41.298Z"
     },
     {
       "id": "a603c9c3e2640e33",
