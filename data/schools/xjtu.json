@@ -3,13 +3,13 @@
  "name": "西安交通大学",
  "province": "陕西省",
  "city": "西安市",
- "generatedAt": "2026-11-22T23:56:45.068Z",
- "total": 19,
+ "generatedAt": "2026-11-23T05:47:34.384Z",
+ "total": 20,
  "bySource": [
   {
    "sourceId": "jwc-jxtz",
    "sourceName": "教务处·教学通知",
-   "count": 19
+   "count": 20
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务处·教学通知"
    ],
-   "count": 19
+   "count": 20
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,29 @@
  "sourceChecks": {
   "jwc-jxtz": {
    "name": "教务处·教学通知",
-   "checkedAt": "2026-11-22T23:56:34.061Z",
-   "lastSuccessAt": "2026-11-22T23:56:34.061Z",
+   "checkedAt": "2026-11-23T05:47:18.454Z",
+   "lastSuccessAt": "2026-11-23T05:47:18.454Z",
    "outcome": "ok",
    "status": 200,
    "items": 9
   }
  },
  "items": [
+  {
+   "id": "0ed07675bf62b417",
+   "sourceId": "jwc-jxtz",
+   "sourceName": "教务处·教学通知",
+   "school": "xjtu",
+   "title": "[校际交流]关于2026年C9哈尔滨工业大学国际寒期学校报名的通知（第二轮）",
+   "url": "https://jwc.xjtu.edu.cn/info/1097/10674.htm",
+   "date": "2026-11-23",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-23T05:47:18.458Z",
+   "unit": "教务处"
+  },
   {
    "id": "2969f4f0010149c8",
    "sourceId": "jwc-jxtz",

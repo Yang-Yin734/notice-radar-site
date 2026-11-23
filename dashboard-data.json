@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-22T23:56:45.068Z",
-  "total": 734,
+  "generatedAt": "2026-11-23T05:47:34.384Z",
+  "total": 739,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
-      "sourceName": "教务·通知公告",
-      "count": 300
+      "sourceName": "教务处·通知公告",
+      "count": 302
     },
     {
       "sourceId": "jwb-tzgg",
@@ -55,12 +55,12 @@
     {
       "sourceId": "jwc-jxtz",
       "sourceName": "教务处·教学通知",
-      "count": 22
+      "count": 23
     },
     {
       "sourceId": "jwc-xwkd",
       "sourceName": "教务部·新闻快递",
-      "count": 20
+      "count": 21
     },
     {
       "sourceId": "math-xsgz",
@@ -100,7 +100,7 @@
     {
       "sourceId": "jwc-tztg",
       "sourceName": "教务处·通知通告",
-      "count": 11
+      "count": 12
     },
     {
       "sourceId": "news-academic",
@@ -119,6 +119,62 @@
     }
   ],
   "items": [
+    {
+      "id": "f6a9cfa4fa7a7e9d",
+      "sourceId": "jwc-xwkd",
+      "sourceName": "教务部·新闻快递",
+      "school": "zzu",
+      "title": "郑州大学“校长面对面——AI赋能成长成才”主题沙龙举行",
+      "url": "https://www5.zzu.edu.cn/jwc/info/1124/5468.htm",
+      "date": "2026-11-23",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-23T05:47:33.953Z"
+    },
+    {
+      "id": "0ed07675bf62b417",
+      "sourceId": "jwc-jxtz",
+      "sourceName": "教务处·教学通知",
+      "school": "xjtu",
+      "title": "[校际交流]关于2026年C9哈尔滨工业大学国际寒期学校报名的通知（第二轮）",
+      "url": "https://jwc.xjtu.edu.cn/info/1097/10674.htm",
+      "date": "2026-11-23",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-23T05:47:18.458Z"
+    },
+    {
+      "id": "f41705ef28f35047",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "nankai",
+      "title": "关于开展2021届、2026届本科毕业生培养质量评价的通知",
+      "url": "https://jwc.nankai.edu.cn/2026/1123/c35436a607293/page.htm",
+      "date": "2026-11-23",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-23T05:46:26.058Z"
+    },
+    {
+      "id": "7173699e9d43aaca",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "bjfu",
+      "title": "关于全校公选《西班牙语入门》课程期末考试的通知",
+      "url": "https://jwc.bjfu.edu.cn/ksxx/2c70ae9b229f438ebc1d0eadb681b5d4.html",
+      "date": "2026-11-23",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-23T05:45:31.834Z"
+    },
     {
       "id": "ad0757e16908ea21",
       "sourceId": "jw-ggtz",
@@ -1990,6 +2046,21 @@
       "alsoIn": [],
       "tier": "urgent",
       "firstSeenAt": "2026-11-04T11:06:32.299Z"
+    },
+    {
+      "id": "04d72ca5a9736247",
+      "sourceId": "jwc-tztg",
+      "sourceName": "教务处·通知通告",
+      "school": "ustb",
+      "title": "教通知【2026】168号-关于开展双学士学位复合型人才培养项目及联合学士学位项目申报工作的通知",
+      "url": "https://jwc.ustb.edu.cn/tztg/0fd5ec7ca2d544e18b67203656c0b16a.htm",
+      "date": "2026-11-03",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "deadline": "2026-12-07",
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-23T05:47:12.743Z"
     },
     {
       "id": "c3cbc35aa2c927c3",

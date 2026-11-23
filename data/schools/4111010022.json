@@ -3,13 +3,13 @@
  "name": "北京林业大学",
  "province": "北京市",
  "city": "",
- "generatedAt": "2026-11-22T23:56:45.068Z",
- "total": 25,
+ "generatedAt": "2026-11-23T05:47:34.384Z",
+ "total": 26,
  "bySource": [
   {
    "sourceId": "jwc-tzgg",
    "sourceName": "教务处·通知公告",
-   "count": 25
+   "count": 26
   }
  ],
  "units": [
@@ -19,12 +19,27 @@
    "sources": [
     "教务处·通知公告"
    ],
-   "count": 25
+   "count": 26
   }
  ],
  "sourceCatalog": [],
  "sourceChecks": {},
  "items": [
+  {
+   "id": "7173699e9d43aaca",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "bjfu",
+   "title": "关于全校公选《西班牙语入门》课程期末考试的通知",
+   "url": "https://jwc.bjfu.edu.cn/ksxx/2c70ae9b229f438ebc1d0eadb681b5d4.html",
+   "date": "2026-11-23",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-23T05:45:31.834Z",
+   "unit": "教务处"
+  },
   {
    "id": "4978a9a0259b9fcd",
    "sourceId": "jwc-tzgg",

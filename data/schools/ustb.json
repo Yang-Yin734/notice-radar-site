@@ -3,13 +3,13 @@
  "name": "北京科技大学",
  "province": "北京市",
  "city": "",
- "generatedAt": "2026-11-22T23:56:45.068Z",
- "total": 11,
+ "generatedAt": "2026-11-23T05:47:34.384Z",
+ "total": 12,
  "bySource": [
   {
    "sourceId": "jwc-tztg",
    "sourceName": "教务处·通知通告",
-   "count": 11
+   "count": 12
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务处·通知通告"
    ],
-   "count": 11
+   "count": 12
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,30 @@
  "sourceChecks": {
   "jwc-tztg": {
    "name": "教务处·通知通告",
-   "checkedAt": "2026-11-22T23:56:28.894Z",
-   "lastSuccessAt": "2026-11-22T11:49:04.778Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-23T05:47:12.739Z",
+   "lastSuccessAt": "2026-11-23T05:47:12.739Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 20
   }
  },
  "items": [
+  {
+   "id": "04d72ca5a9736247",
+   "sourceId": "jwc-tztg",
+   "sourceName": "教务处·通知通告",
+   "school": "ustb",
+   "title": "教通知【2026】168号-关于开展双学士学位复合型人才培养项目及联合学士学位项目申报工作的通知",
+   "url": "https://jwc.ustb.edu.cn/tztg/0fd5ec7ca2d544e18b67203656c0b16a.htm",
+   "date": "2026-11-03",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "deadline": "2026-12-07",
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-23T05:47:12.743Z",
+   "unit": "教务处"
+  },
   {
    "id": "0b8dd296f9ae1b5e",
    "sourceId": "jwc-tztg",
