@@ -3,7 +3,7 @@
  "name": "中南大学",
  "province": "湖南省",
  "city": "长沙市",
- "generatedAt": "2026-11-23T16:34:41.665Z",
+ "generatedAt": "2026-11-24T03:05:05.693Z",
  "total": 1,
  "bySource": [
   {
@@ -33,7 +33,7 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务·通知公告",
-   "checkedAt": "2026-11-23T16:33:01.063Z",
+   "checkedAt": "2026-11-24T03:03:20.985Z",
    "lastSuccessAt": "2026-11-22T11:47:56.576Z",
    "outcome": "network",
    "status": null,

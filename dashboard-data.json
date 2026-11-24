@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-23T16:34:41.665Z",
-  "total": 740,
+  "generatedAt": "2026-11-24T03:05:05.693Z",
+  "total": 741,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
@@ -38,6 +38,11 @@
       "count": 25
     },
     {
+      "sourceId": "jwc-jxtz",
+      "sourceName": "教务处·教学通知",
+      "count": 24
+    },
+    {
       "sourceId": "ugs-tzgg",
       "sourceName": "本科生院·通知公告",
       "count": 24
@@ -51,11 +56,6 @@
       "sourceId": "jwc-student",
       "sourceName": "教务处·学生事务公告",
       "count": 24
-    },
-    {
-      "sourceId": "jwc-jxtz",
-      "sourceName": "教务处·教学通知",
-      "count": 23
     },
     {
       "sourceId": "jwc-xwkd",
@@ -119,6 +119,21 @@
     }
   ],
   "items": [
+    {
+      "id": "0639a24124e2c667",
+      "sourceId": "jwc-jxtz",
+      "sourceName": "教务处·教学通知",
+      "school": "xjtu",
+      "title": "[考试安排]2026年12月全国大学英语四、六级预测考试报名通知",
+      "url": "https://jwc.xjtu.edu.cn/info/1171/10676.htm",
+      "date": "2026-11-24",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "deadline": "2026-11-27",
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-24T03:04:41.671Z"
+    },
     {
       "id": "f6a9cfa4fa7a7e9d",
       "sourceId": "jwc-xwkd",
