@@ -3,7 +3,7 @@
  "name": "云南大学",
  "province": "云南省",
  "city": "昆明市",
- "generatedAt": "2026-11-24T03:05:05.693Z",
+ "generatedAt": "2026-11-24T13:36:48.213Z",
  "total": 18,
  "bySource": [
   {
@@ -33,7 +33,7 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务·通知公告",
-   "checkedAt": "2026-11-24T03:04:46.667Z",
+   "checkedAt": "2026-11-24T13:36:29.635Z",
    "lastSuccessAt": "2026-11-21T18:16:57.240Z",
    "outcome": "network",
    "status": null,

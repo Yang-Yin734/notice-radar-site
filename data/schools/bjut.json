@@ -3,7 +3,7 @@
  "name": "北京工业大学",
  "province": "北京市",
  "city": "",
- "generatedAt": "2026-11-24T03:05:05.693Z",
+ "generatedAt": "2026-11-24T13:36:48.213Z",
  "total": 3,
  "bySource": [
   {
@@ -33,8 +33,8 @@
  "sourceChecks": {
   "jwc-jxtz": {
    "name": "教务处·教学通知",
-   "checkedAt": "2026-11-24T03:03:13.448Z",
-   "lastSuccessAt": "2026-11-24T03:03:13.448Z",
+   "checkedAt": "2026-11-24T13:34:50.015Z",
+   "lastSuccessAt": "2026-11-24T13:34:50.015Z",
    "outcome": "ok",
    "status": 200,
    "items": 7

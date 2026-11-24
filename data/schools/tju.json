@@ -3,7 +3,7 @@
  "name": "天津大学",
  "province": "天津市",
  "city": "",
- "generatedAt": "2026-11-24T03:05:05.693Z",
+ "generatedAt": "2026-11-24T13:36:48.213Z",
  "total": 4,
  "bySource": [
   {
@@ -33,7 +33,7 @@
  "sourceChecks": {
   "oaa-tzgg": {
    "name": "本科生院·通知公告",
-   "checkedAt": "2026-11-24T03:04:28.011Z",
+   "checkedAt": "2026-11-24T13:36:08.722Z",
    "lastSuccessAt": "2026-11-23T05:47:03.413Z",
    "outcome": "network",
    "status": null,
