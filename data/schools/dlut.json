@@ -3,7 +3,7 @@
  "name": "大连理工大学",
  "province": "辽宁省",
  "city": "大连市",
- "generatedAt": "2026-11-24T13:36:48.213Z",
+ "generatedAt": "2026-11-24T23:18:38.348Z",
  "total": 4,
  "bySource": [
   {
@@ -33,7 +33,7 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务·通知公告",
-   "checkedAt": "2026-11-24T13:35:06.401Z",
+   "checkedAt": "2026-11-24T23:17:00.438Z",
    "lastSuccessAt": "2026-11-23T05:45:46.691Z",
    "outcome": "network",
    "status": null,

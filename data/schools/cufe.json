@@ -3,7 +3,7 @@
  "name": "中央财经大学",
  "province": "北京市",
  "city": "",
- "generatedAt": "2026-11-24T13:36:48.213Z",
+ "generatedAt": "2026-11-24T23:18:38.348Z",
  "total": 7,
  "bySource": [
   {
@@ -33,7 +33,7 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务处·通知公告",
-   "checkedAt": "2026-11-24T13:35:04.496Z",
+   "checkedAt": "2026-11-24T23:16:58.616Z",
    "lastSuccessAt": "2026-11-24T03:03:25.428Z",
    "outcome": "network",
    "status": null,

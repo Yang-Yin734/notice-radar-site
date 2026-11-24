@@ -3,13 +3,13 @@
  "name": "南京农业大学",
  "province": "江苏省",
  "city": "南京市",
- "generatedAt": "2026-11-24T13:36:48.213Z",
- "total": 25,
+ "generatedAt": "2026-11-24T23:18:38.348Z",
+ "total": 26,
  "bySource": [
   {
    "sourceId": "aao-tzgg",
    "sourceName": "教务处·通知公告",
-   "count": 25
+   "count": 26
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务处·通知公告"
    ],
-   "count": 25
+   "count": 26
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,29 @@
  "sourceChecks": {
   "aao-tzgg": {
    "name": "教务处·通知公告",
-   "checkedAt": "2026-11-24T13:35:43.297Z",
-   "lastSuccessAt": "2026-11-24T03:04:00.486Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-24T23:17:47.377Z",
+   "lastSuccessAt": "2026-11-24T23:17:47.377Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 20
   }
  },
  "items": [
+  {
+   "id": "8bec6e271eb483ce",
+   "sourceId": "aao-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "njau",
+   "title": "关于上报2026年12月全国大学英语四、六级考试监考人员的通知",
+   "url": "https://aao.njau.edu.cn/info/1143/7043.htm",
+   "date": "2026-11-24",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-24T23:17:47.382Z",
+   "unit": "教务处"
+  },
   {
    "id": "c6c87876b0dc1d9d",
    "sourceId": "aao-tzgg",
