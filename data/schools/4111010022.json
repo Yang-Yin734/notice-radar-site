@@ -3,13 +3,13 @@
  "name": "北京林业大学",
  "province": "北京市",
  "city": "",
- "generatedAt": "2026-11-24T23:18:38.348Z",
- "total": 26,
+ "generatedAt": "2026-11-25T05:31:29.960Z",
+ "total": 30,
  "bySource": [
   {
    "sourceId": "jwc-tzgg",
    "sourceName": "教务处·通知公告",
-   "count": 26
+   "count": 30
   }
  ],
  "units": [
@@ -19,12 +19,72 @@
    "sources": [
     "教务处·通知公告"
    ],
-   "count": 26
+   "count": 30
   }
  ],
  "sourceCatalog": [],
  "sourceChecks": {},
  "items": [
+  {
+   "id": "85c5c3501a8ad945",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "bjfu",
+   "title": "2026-2027学年第1学期《学术英语听力》（公选课）考试安排",
+   "url": "https://jwc.bjfu.edu.cn/ksxx/0fc9a119b891439dbd45ff61404f9622.html",
+   "date": "2026-11-25",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-25T05:29:03.666Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "8a07b20b02bf91d7",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "bjfu",
+   "title": "关于全校公选《法语入门》课程期末考试的通知",
+   "url": "https://jwc.bjfu.edu.cn/ksxx/a8bf1a1fa693425393ce1cf5d68dd25e.html",
+   "date": "2026-11-25",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-25T05:29:03.666Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "06755ae5ebf09be6",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "bjfu",
+   "title": "关于《工程图学A》课程期末考试的通知",
+   "url": "https://jwc.bjfu.edu.cn/ksxx/3138b5cf99374d009716abd9879fbd19.html",
+   "date": "2026-11-24",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-25T05:29:03.666Z",
+   "unit": "教务处"
+  },
+  {
+   "id": "dc87a504f1807a2e",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "bjfu",
+   "title": "关于《工程制图基础》课程期末考试的通知",
+   "url": "https://jwc.bjfu.edu.cn/ksxx/732bc7adb3304c07b7374c0b46fba401.html",
+   "date": "2026-11-24",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-25T05:29:03.666Z",
+   "unit": "教务处"
+  },
   {
    "id": "7173699e9d43aaca",
    "sourceId": "jwc-tzgg",

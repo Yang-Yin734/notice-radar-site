@@ -3,7 +3,7 @@
  "name": "黑龙江大学",
  "province": "黑龙江省",
  "city": "哈尔滨市",
- "generatedAt": "2026-11-24T23:18:38.348Z",
+ "generatedAt": "2026-11-25T05:31:29.960Z",
  "total": 14,
  "bySource": [
   {
@@ -33,7 +33,7 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务·通知公告",
-   "checkedAt": "2026-11-24T23:17:19.137Z",
+   "checkedAt": "2026-11-25T05:29:38.240Z",
    "lastSuccessAt": "2026-11-23T05:46:07.080Z",
    "outcome": "network",
    "status": null,

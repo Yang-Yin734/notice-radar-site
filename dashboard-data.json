@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-24T23:18:38.348Z",
-  "total": 742,
+  "generatedAt": "2026-11-25T05:31:29.960Z",
+  "total": 749,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
       "sourceName": "教务处·通知公告",
-      "count": 302
+      "count": 308
     },
     {
       "sourceId": "jwb-tzgg",
@@ -23,14 +23,14 @@
       "count": 29
     },
     {
-      "sourceId": "jiaowu-tzgg",
-      "sourceName": "教务部·通知公告",
+      "sourceId": "news",
+      "sourceName": "新闻网·综合",
       "count": 28
     },
     {
-      "sourceId": "news",
-      "sourceName": "新闻网·综合",
-      "count": 27
+      "sourceId": "jiaowu-tzgg",
+      "sourceName": "教务部·通知公告",
+      "count": 28
     },
     {
       "sourceId": "aao-tzgg",
@@ -119,6 +119,104 @@
     }
   ],
   "items": [
+    {
+      "id": "85c5c3501a8ad945",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "bjfu",
+      "title": "2026-2027学年第1学期《学术英语听力》（公选课）考试安排",
+      "url": "https://jwc.bjfu.edu.cn/ksxx/0fc9a119b891439dbd45ff61404f9622.html",
+      "date": "2026-11-25",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-25T05:29:03.666Z"
+    },
+    {
+      "id": "8a07b20b02bf91d7",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "bjfu",
+      "title": "关于全校公选《法语入门》课程期末考试的通知",
+      "url": "https://jwc.bjfu.edu.cn/ksxx/a8bf1a1fa693425393ce1cf5d68dd25e.html",
+      "date": "2026-11-25",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-25T05:29:03.666Z"
+    },
+    {
+      "id": "768c4fb00d909279",
+      "sourceId": "news",
+      "sourceName": "新闻网·综合",
+      "school": "zzu",
+      "title": "郑州大学承办中国工业与应用数学学会河南基地2026年学术年会",
+      "url": "http://www.zzu.edu.cn/info/1217/89478.htm",
+      "date": "2026-11-24",
+      "tag": null,
+      "category": "综合",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-25T05:31:29.601Z"
+    },
+    {
+      "id": "fde5fd6a7b830bba",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "hnu",
+      "title": "关于2027届本科毕业生电子注册图像采集工作的通知",
+      "url": "https://jwc.hnu.edu.cn/info/1022/14864.htm",
+      "date": "2026-11-24",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-25T05:29:40.174Z"
+    },
+    {
+      "id": "96aef558c416d729",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "buaa",
+      "title": "2022级北京航空航天大学优秀本科生毕业设计（论文）评选结果公布",
+      "url": "https://jiaowu.buaa.edu.cn/info/1016/9258.htm",
+      "date": "2026-11-24",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-25T05:29:14.174Z"
+    },
+    {
+      "id": "06755ae5ebf09be6",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "bjfu",
+      "title": "关于《工程图学A》课程期末考试的通知",
+      "url": "https://jwc.bjfu.edu.cn/ksxx/3138b5cf99374d009716abd9879fbd19.html",
+      "date": "2026-11-24",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-25T05:29:03.666Z"
+    },
+    {
+      "id": "dc87a504f1807a2e",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "bjfu",
+      "title": "关于《工程制图基础》课程期末考试的通知",
+      "url": "https://jwc.bjfu.edu.cn/ksxx/732bc7adb3304c07b7374c0b46fba401.html",
+      "date": "2026-11-24",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-25T05:29:03.666Z"
+    },
     {
       "id": "8bec6e271eb483ce",
       "sourceId": "aao-tzgg",

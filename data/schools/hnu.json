@@ -3,13 +3,13 @@
  "name": "湖南大学",
  "province": "湖南省",
  "city": "长沙市",
- "generatedAt": "2026-11-24T23:18:38.348Z",
- "total": 13,
+ "generatedAt": "2026-11-25T05:31:29.960Z",
+ "total": 14,
  "bySource": [
   {
    "sourceId": "jwc-tzgg",
    "sourceName": "教务处·通知公告",
-   "count": 13
+   "count": 14
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务处·通知公告"
    ],
-   "count": 13
+   "count": 14
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,29 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务处·通知公告",
-   "checkedAt": "2026-11-24T23:17:26.114Z",
-   "lastSuccessAt": "2026-11-23T05:46:08.855Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-25T05:29:40.169Z",
+   "lastSuccessAt": "2026-11-25T05:29:40.169Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 15
   }
  },
  "items": [
+  {
+   "id": "fde5fd6a7b830bba",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "hnu",
+   "title": "关于2027届本科毕业生电子注册图像采集工作的通知",
+   "url": "https://jwc.hnu.edu.cn/info/1022/14864.htm",
+   "date": "2026-11-24",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-25T05:29:40.174Z",
+   "unit": "教务处"
+  },
   {
    "id": "bf8f037de2bc462e",
    "sourceId": "jwc-tzgg",
