@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-25T05:31:29.960Z",
-  "total": 749,
+  "generatedAt": "2026-11-25T16:00:56.755Z",
+  "total": 751,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
@@ -40,7 +40,7 @@
     {
       "sourceId": "jwc-jxtz",
       "sourceName": "教务处·教学通知",
-      "count": 24
+      "count": 25
     },
     {
       "sourceId": "ugs-tzgg",
@@ -65,7 +65,7 @@
     {
       "sourceId": "math-xsgz",
       "sourceName": "数学科学学院·学生工作",
-      "count": 18
+      "count": 19
     },
     {
       "sourceId": "notice-list",
@@ -119,6 +119,34 @@
     }
   ],
   "items": [
+    {
+      "id": "1370ac8951d44cb0",
+      "sourceId": "jwc-jxtz",
+      "sourceName": "教务处·教学通知",
+      "school": "xjtu",
+      "title": "[综合通知]关于西安交通大学2026年本科教学秘书素质能力大赛审评结果的公示",
+      "url": "https://jwc.xjtu.edu.cn/info/1092/10682.htm",
+      "date": "2026-11-25",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-25T16:00:44.529Z"
+    },
+    {
+      "id": "d8c34470bb95d584",
+      "sourceId": "math-xsgz",
+      "sourceName": "数学科学学院·学生工作",
+      "school": "uestc",
+      "title": "2025-2026学年第二学期优秀研究生助教推荐名单公示",
+      "url": "https://www.math.uestc.edu.cn/info/1044/10406.htm",
+      "date": "2026-11-25",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-25T06:59:38.752Z"
+    },
     {
       "id": "85c5c3501a8ad945",
       "sourceId": "jwc-tzgg",
