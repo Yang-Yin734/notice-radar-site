@@ -3,13 +3,13 @@
  "name": "辽宁工程技术大学",
  "province": "辽宁省",
  "city": "阜新市",
- "generatedAt": "2026-11-26T08:09:06.934Z",
- "total": 4,
+ "generatedAt": "2026-11-26T18:25:27.254Z",
+ "total": 5,
  "bySource": [
   {
    "sourceId": "jwc-tzgg",
    "sourceName": "教务·通知公告",
-   "count": 4
+   "count": 5
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务·通知公告"
    ],
-   "count": 4
+   "count": 5
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,29 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务·通知公告",
-   "checkedAt": "2026-11-26T08:08:02.205Z",
-   "lastSuccessAt": "2026-11-26T00:06:17.151Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-26T18:24:34.356Z",
+   "lastSuccessAt": "2026-11-26T18:24:34.356Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 10
   }
  },
  "items": [
+  {
+   "id": "315ebe2da57ace0f",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "lntu",
+   "title": "学生考试违规通告",
+   "url": "https://jwzx.lntu.edu.cn/info/1103/6818.htm",
+   "date": "2026-11-26",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-26T18:24:34.363Z",
+   "unit": "教务"
+  },
   {
    "id": "213f21a3890f8c16",
    "sourceId": "jwc-tzgg",

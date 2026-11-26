@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-26T08:09:06.934Z",
-  "total": 751,
+  "generatedAt": "2026-11-26T18:25:27.254Z",
+  "total": 752,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
-      "sourceName": "教务处·通知公告",
-      "count": 308
+      "sourceName": "教务·通知公告",
+      "count": 309
     },
     {
       "sourceId": "jwb-tzgg",
@@ -119,6 +119,20 @@
     }
   ],
   "items": [
+    {
+      "id": "315ebe2da57ace0f",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "lntu",
+      "title": "学生考试违规通告",
+      "url": "https://jwzx.lntu.edu.cn/info/1103/6818.htm",
+      "date": "2026-11-26",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-26T18:24:34.363Z"
+    },
     {
       "id": "1370ac8951d44cb0",
       "sourceId": "jwc-jxtz",

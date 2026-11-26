@@ -3,7 +3,7 @@
  "name": "北京大学",
  "province": "北京市",
  "city": "",
- "generatedAt": "2026-11-26T08:09:06.934Z",
+ "generatedAt": "2026-11-26T18:25:27.254Z",
  "total": 9,
  "bySource": [
   {
@@ -33,7 +33,7 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务·通知公告",
-   "checkedAt": "2026-11-26T08:08:19.216Z",
+   "checkedAt": "2026-11-26T18:24:48.788Z",
    "lastSuccessAt": "2026-11-25T16:00:14.802Z",
    "outcome": "network",
    "status": null,
