@@ -3,7 +3,7 @@
  "name": "南京农业大学",
  "province": "江苏省",
  "city": "南京市",
- "generatedAt": "2026-11-25T16:00:56.755Z",
+ "generatedAt": "2026-11-26T00:07:03.555Z",
  "total": 26,
  "bySource": [
   {
@@ -33,11 +33,11 @@
  "sourceChecks": {
   "aao-tzgg": {
    "name": "教务处·通知公告",
-   "checkedAt": "2026-11-25T16:00:01.508Z",
-   "lastSuccessAt": "2026-11-25T05:30:01.928Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-26T00:06:22.837Z",
+   "lastSuccessAt": "2026-11-26T00:06:22.837Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 20
   }
  },
  "items": [
