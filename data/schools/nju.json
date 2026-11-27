@@ -3,13 +3,13 @@
  "name": "南京大学",
  "province": "江苏省",
  "city": "南京市",
- "generatedAt": "2026-11-27T01:53:41.617Z",
- "total": 16,
+ "generatedAt": "2026-11-27T10:32:47.592Z",
+ "total": 17,
  "bySource": [
   {
    "sourceId": "jw-ggtz",
    "sourceName": "本科生院·公告通知",
-   "count": 16
+   "count": 17
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "本科生院·公告通知"
    ],
-   "count": 16
+   "count": 17
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,29 @@
  "sourceChecks": {
   "jw-ggtz": {
    "name": "本科生院·公告通知",
-   "checkedAt": "2026-11-27T01:52:50.009Z",
-   "lastSuccessAt": "2026-11-27T01:52:50.009Z",
+   "checkedAt": "2026-11-27T10:32:05.171Z",
+   "lastSuccessAt": "2026-11-27T10:32:05.171Z",
    "outcome": "ok",
    "status": 200,
    "items": 14
   }
  },
  "items": [
+  {
+   "id": "c9f671c5a4c75464",
+   "sourceId": "jw-ggtz",
+   "sourceName": "本科生院·公告通知",
+   "school": "nju",
+   "title": "2026年度南京大学本科生基础学科专项奖学金公示名单",
+   "url": "https://jw.nju.edu.cn/f8/b0/c26263a850096/page.htm",
+   "date": "2026-11-27",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-27T10:32:05.188Z",
+   "unit": "本科生院"
+  },
   {
    "id": "ad0757e16908ea21",
    "sourceId": "jw-ggtz",

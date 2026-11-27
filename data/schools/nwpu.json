@@ -3,13 +3,13 @@
  "name": "西北工业大学",
  "province": "陕西省",
  "city": "西安市",
- "generatedAt": "2026-11-27T01:53:41.617Z",
- "total": 28,
+ "generatedAt": "2026-11-27T10:32:47.592Z",
+ "total": 29,
  "bySource": [
   {
    "sourceId": "jiaowu-tzgg",
    "sourceName": "教务部·通知公告",
-   "count": 28
+   "count": 29
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务部·通知公告"
    ],
-   "count": 28
+   "count": 29
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,29 @@
  "sourceChecks": {
   "jiaowu-tzgg": {
    "name": "教务部·通知公告",
-   "checkedAt": "2026-11-27T01:52:55.934Z",
-   "lastSuccessAt": "2026-11-27T01:52:55.934Z",
+   "checkedAt": "2026-11-27T10:32:13.670Z",
+   "lastSuccessAt": "2026-11-27T10:32:13.670Z",
    "outcome": "ok",
    "status": 200,
    "items": 15
   }
  },
  "items": [
+  {
+   "id": "44f2d73ceb84c42c",
+   "sourceId": "jiaowu-tzgg",
+   "sourceName": "教务部·通知公告",
+   "school": "nwpu",
+   "title": "关于西北工业大学第十三届力学竞赛暨2027年第十六届全国周培源大学生力学竞赛选拔赛获奖名单的公示",
+   "url": "https://jiaowu.nwpu.edu.cn/info/1164/30918.htm",
+   "date": "2026-11-27",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-27T10:32:13.677Z",
+   "unit": "教务部"
+  },
   {
    "id": "f5638c6cea35aa9e",
    "sourceId": "jiaowu-tzgg",

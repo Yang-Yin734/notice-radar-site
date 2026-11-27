@@ -3,18 +3,18 @@
  "name": "郑州大学",
  "province": "河南省",
  "city": "郑州市",
- "generatedAt": "2026-11-27T01:53:41.617Z",
- "total": 149,
+ "generatedAt": "2026-11-27T10:32:47.592Z",
+ "total": 150,
  "bySource": [
+  {
+   "sourceId": "news",
+   "sourceName": "新闻网·综合",
+   "count": 29
+  },
   {
    "sourceId": "gs-gg",
    "sourceName": "研究生院·公告",
    "count": 26
-  },
-  {
-   "sourceId": "news",
-   "sourceName": "新闻网·综合",
-   "count": 28
   },
   {
    "sourceId": "jwc-xwkd",
@@ -67,7 +67,7 @@
    "sources": [
     "新闻网·综合"
    ],
-   "count": 28
+   "count": 29
   },
   {
    "id": "人事部",
@@ -133,62 +133,77 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务部·通知公告",
-   "checkedAt": "2026-11-27T01:53:41.206Z",
-   "lastSuccessAt": "2026-11-27T01:53:41.206Z",
+   "checkedAt": "2026-11-27T10:32:47.116Z",
+   "lastSuccessAt": "2026-11-27T10:32:47.116Z",
    "outcome": "ok",
    "status": 200,
    "items": 15
   },
   "jwc-xwkd": {
    "name": "教务部·新闻快递",
-   "checkedAt": "2026-11-27T01:53:41.206Z",
-   "lastSuccessAt": "2026-11-27T01:53:41.206Z",
+   "checkedAt": "2026-11-27T10:32:47.116Z",
+   "lastSuccessAt": "2026-11-27T10:32:47.116Z",
    "outcome": "ok",
    "status": 200,
    "items": 15
   },
   "gs-gg": {
    "name": "研究生院·公告",
-   "checkedAt": "2026-11-27T01:53:41.206Z",
-   "lastSuccessAt": "2026-11-27T01:53:41.206Z",
+   "checkedAt": "2026-11-27T10:32:47.116Z",
+   "lastSuccessAt": "2026-11-27T10:32:47.116Z",
    "outcome": "ok",
    "status": 200,
    "items": 28
   },
   "gs-xw": {
    "name": "研究生院·新闻",
-   "checkedAt": "2026-11-27T01:53:41.206Z",
-   "lastSuccessAt": "2026-11-27T01:53:41.206Z",
+   "checkedAt": "2026-11-27T10:32:47.116Z",
+   "lastSuccessAt": "2026-11-27T10:32:47.116Z",
    "outcome": "ok",
    "status": 200,
    "items": 28
   },
   "rsc-tzgg": {
    "name": "人事部·通知公告",
-   "checkedAt": "2026-11-27T01:53:41.206Z",
-   "lastSuccessAt": "2026-11-27T01:53:41.206Z",
+   "checkedAt": "2026-11-27T10:32:47.116Z",
+   "lastSuccessAt": "2026-11-27T10:32:47.116Z",
    "outcome": "ok",
    "status": 200,
    "items": 14
   },
   "news": {
    "name": "新闻网·综合",
-   "checkedAt": "2026-11-27T01:53:41.206Z",
-   "lastSuccessAt": "2026-11-27T01:53:41.206Z",
+   "checkedAt": "2026-11-27T10:32:47.116Z",
+   "lastSuccessAt": "2026-11-27T10:32:47.116Z",
    "outcome": "ok",
    "status": 200,
    "items": 10
   },
   "sthj-notices": {
    "name": "生态与环境学院·通知公告",
-   "checkedAt": "2026-11-27T01:53:41.206Z",
-   "lastSuccessAt": "2026-11-27T01:53:41.206Z",
+   "checkedAt": "2026-11-27T10:32:47.116Z",
+   "lastSuccessAt": "2026-11-27T10:32:47.116Z",
    "outcome": "ok",
    "status": 200,
    "items": 10
   }
  },
  "items": [
+  {
+   "id": "e25f049b92284728",
+   "sourceId": "news",
+   "sourceName": "新闻网·综合",
+   "school": "zzu",
+   "title": "郑州大学承办中国环境诱变剂学会第二十一次学术大会",
+   "url": "http://www.zzu.edu.cn/info/1217/89492.htm",
+   "date": "2026-11-26",
+   "tag": null,
+   "category": "综合",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-27T10:32:47.122Z",
+   "unit": "新闻网"
+  },
   {
    "id": "efbc3e3cf74b6b1a",
    "sourceId": "gs-gg",

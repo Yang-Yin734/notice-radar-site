@@ -3,9 +3,14 @@
  "name": "电子科技大学",
  "province": "四川省",
  "city": "成都市",
- "generatedAt": "2026-11-27T01:53:41.617Z",
- "total": 112,
+ "generatedAt": "2026-11-27T10:32:47.592Z",
+ "total": 113,
  "bySource": [
+  {
+   "sourceId": "jwc-important",
+   "sourceName": "教务处·重要公告",
+   "count": 15
+  },
   {
    "sourceId": "math-xsgz",
    "sourceName": "数学科学学院·学生工作",
@@ -15,11 +20,6 @@
    "sourceId": "news-notice",
    "sourceName": "新闻网·公告",
    "count": 29
-  },
-  {
-   "sourceId": "jwc-important",
-   "sourceName": "教务处·重要公告",
-   "count": 14
   },
   {
    "sourceId": "news-academic",
@@ -45,7 +45,7 @@
     "教务处·重要公告",
     "教务处·学生事务公告"
    ],
-   "count": 38
+   "count": 39
   },
   {
    "id": "数学科学学院",
@@ -131,62 +131,77 @@
  "sourceChecks": {
   "jwc-important": {
    "name": "教务处·重要公告",
-   "checkedAt": "2026-11-27T01:51:46.596Z",
-   "lastSuccessAt": "2026-11-27T01:51:46.596Z",
+   "checkedAt": "2026-11-27T10:30:45.048Z",
+   "lastSuccessAt": "2026-11-27T10:30:45.048Z",
    "outcome": "ok",
    "status": 200,
    "items": 15
   },
   "jwc-student": {
    "name": "教务处·学生事务公告",
-   "checkedAt": "2026-11-27T01:51:46.596Z",
-   "lastSuccessAt": "2026-11-27T01:51:46.596Z",
+   "checkedAt": "2026-11-27T10:30:53.428Z",
+   "lastSuccessAt": "2026-11-27T10:30:53.428Z",
    "outcome": "ok",
    "status": 200,
    "items": 15
   },
   "news-notice": {
    "name": "新闻网·公告",
-   "checkedAt": "2026-11-27T01:51:46.596Z",
-   "lastSuccessAt": "2026-11-27T01:51:46.596Z",
+   "checkedAt": "2026-11-27T10:30:45.048Z",
+   "lastSuccessAt": "2026-11-27T10:30:45.048Z",
    "outcome": "ok",
    "status": 200,
    "items": 4
   },
   "news-academic": {
    "name": "新闻网·学术",
-   "checkedAt": "2026-11-27T01:51:46.596Z",
-   "lastSuccessAt": "2026-11-27T01:51:46.596Z",
+   "checkedAt": "2026-11-27T10:30:45.048Z",
+   "lastSuccessAt": "2026-11-27T10:30:45.048Z",
    "outcome": "ok",
    "status": 200,
    "items": 4
   },
   "gr-notice": {
    "name": "研究生院·通知",
-   "checkedAt": "2026-11-27T01:51:46.596Z",
-   "lastSuccessAt": "2026-11-27T01:51:46.596Z",
+   "checkedAt": "2026-11-27T10:30:53.428Z",
+   "lastSuccessAt": "2026-11-27T10:30:53.428Z",
    "outcome": "ok",
    "status": 200,
    "items": 20
   },
   "math-jwgg": {
    "name": "数学科学学院·教务公告",
-   "checkedAt": "2026-11-26T06:51:40.128Z",
-   "lastSuccessAt": "2026-11-26T06:51:40.128Z",
+   "checkedAt": "2026-11-27T06:43:51.474Z",
+   "lastSuccessAt": "2026-11-27T06:43:51.474Z",
    "outcome": "ok",
    "status": 200,
    "items": 15
   },
   "math-xsgz": {
    "name": "数学科学学院·学生工作",
-   "checkedAt": "2026-11-26T06:51:40.128Z",
-   "lastSuccessAt": "2026-11-26T06:51:40.128Z",
+   "checkedAt": "2026-11-27T06:43:51.474Z",
+   "lastSuccessAt": "2026-11-27T06:43:51.474Z",
    "outcome": "ok",
    "status": 200,
    "items": 15
   }
  },
  "items": [
+  {
+   "id": "58ec35a0225f1bee",
+   "sourceId": "jwc-important",
+   "sourceName": "教务处·重要公告",
+   "school": "uestc",
+   "title": "关于2026-2027-1学期大面积课程期末及重新学习考试安排的通知",
+   "url": "https://www.jwc.uestc.edu.cn/info/1126/24527.htm",
+   "date": "2026-11-27",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-27T10:30:45.055Z",
+   "unit": "教务处"
+  },
   {
    "id": "d8c34470bb95d584",
    "sourceId": "math-xsgz",
