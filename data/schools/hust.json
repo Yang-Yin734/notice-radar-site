@@ -3,13 +3,13 @@
  "name": "华中科技大学",
  "province": "湖北省",
  "city": "武汉市",
- "generatedAt": "2026-11-27T10:32:47.592Z",
- "total": 26,
+ "generatedAt": "2026-11-27T19:39:56.768Z",
+ "total": 28,
  "bySource": [
   {
    "sourceId": "ugs-tzgg",
    "sourceName": "本科生院·通知公告",
-   "count": 26
+   "count": 28
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "本科生院·通知公告"
    ],
-   "count": 26
+   "count": 28
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,44 @@
  "sourceChecks": {
   "ugs-tzgg": {
    "name": "本科生院·通知公告",
-   "checkedAt": "2026-11-27T10:31:40.682Z",
-   "lastSuccessAt": "2026-11-27T01:52:33.439Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-27T19:38:52.199Z",
+   "lastSuccessAt": "2026-11-27T19:38:52.199Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 20
   }
  },
  "items": [
+  {
+   "id": "b1d952ff83848c60",
+   "sourceId": "ugs-tzgg",
+   "sourceName": "本科生院·通知公告",
+   "school": "hust",
+   "title": "2026年华中科技大学本科特优生候选人名单公示",
+   "url": "https://ugs.hust.edu.cn/info/1142/7735.htm",
+   "date": "2026-11-27",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-27T19:38:52.205Z",
+   "unit": "本科生院"
+  },
+  {
+   "id": "546b5a68d6c96176",
+   "sourceId": "ugs-tzgg",
+   "sourceName": "本科生院·通知公告",
+   "school": "hust",
+   "title": "关于做好2026年度普通全日制本科生转专业工作的通知",
+   "url": "https://ugs.hust.edu.cn/info/1142/7734.htm",
+   "date": "2026-11-27",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-27T19:38:52.205Z",
+   "unit": "本科生院"
+  },
   {
    "id": "b1a7922ce16004ff",
    "sourceId": "ugs-tzgg",

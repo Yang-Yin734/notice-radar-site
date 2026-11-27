@@ -3,13 +3,13 @@
  "name": "西安电子科技大学",
  "province": "陕西省",
  "city": "西安市",
- "generatedAt": "2026-11-27T10:32:47.592Z",
- "total": 12,
+ "generatedAt": "2026-11-27T19:39:56.768Z",
+ "total": 13,
  "bySource": [
   {
    "sourceId": "jwc-tzgg",
    "sourceName": "教务处·通知公告",
-   "count": 12
+   "count": 13
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务处·通知公告"
    ],
-   "count": 12
+   "count": 13
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,29 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务处·通知公告",
-   "checkedAt": "2026-11-27T10:32:36.775Z",
-   "lastSuccessAt": "2026-11-27T01:53:29.641Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-27T19:39:44.871Z",
+   "lastSuccessAt": "2026-11-27T19:39:44.871Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 13
   }
  },
  "items": [
+  {
+   "id": "5156be985a280ea4",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "xidian",
+   "title": "2026年12月12日全国大学英语四六级考试考生须知",
+   "url": "https://jwc.xidian.edu.cn/info/1012/24033.htm",
+   "date": "2026-11-27",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-27T19:39:44.874Z",
+   "unit": "教务处"
+  },
   {
    "id": "2375c6615a8a1ae9",
    "sourceId": "jwc-tzgg",

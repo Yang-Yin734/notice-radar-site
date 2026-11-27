@@ -3,13 +3,13 @@
  "name": "东北农业大学",
  "province": "黑龙江省",
  "city": "哈尔滨市",
- "generatedAt": "2026-11-27T10:32:47.592Z",
- "total": 10,
+ "generatedAt": "2026-11-27T19:39:56.768Z",
+ "total": 11,
  "bySource": [
   {
    "sourceId": "jwc-tzgg",
    "sourceName": "教务·通知公告",
-   "count": 10
+   "count": 11
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务·通知公告"
    ],
-   "count": 10
+   "count": 11
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,30 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务·通知公告",
-   "checkedAt": "2026-11-27T10:32:01.539Z",
-   "lastSuccessAt": "2026-11-22T03:23:35.619Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-27T19:39:08.983Z",
+   "lastSuccessAt": "2026-11-27T19:39:08.983Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 20
   }
  },
  "items": [
+  {
+   "id": "dcbfb5aa78ca45de",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "neau",
+   "title": "关于2026-2027-2学期线上线下混合式教学课程开课申请的通知",
+   "url": "https://jwc.neau.edu.cn/info/1003/7417.htm",
+   "date": "2026-11-27",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "deadline": "2026-12-02",
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-27T19:39:08.986Z",
+   "unit": "教务"
+  },
   {
    "id": "15b53c5ca74d35dd",
    "sourceId": "jwc-tzgg",

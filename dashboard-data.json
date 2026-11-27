@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-27T10:32:47.592Z",
-  "total": 771,
+  "generatedAt": "2026-11-27T19:39:56.768Z",
+  "total": 782,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
       "sourceName": "教务处·通知公告",
-      "count": 318
+      "count": 322
     },
     {
       "sourceId": "jwb-tzgg",
@@ -35,7 +35,7 @@
     {
       "sourceId": "ugs-tzgg",
       "sourceName": "本科生院·通知公告",
-      "count": 26
+      "count": 28
     },
     {
       "sourceId": "gs-gg",
@@ -60,7 +60,12 @@
     {
       "sourceId": "jwc-xwkd",
       "sourceName": "教务部·新闻快递",
-      "count": 21
+      "count": 22
+    },
+    {
+      "sourceId": "bksy-tzgg",
+      "sourceName": "本科生院·通知公告",
+      "count": 19
     },
     {
       "sourceId": "math-xsgz",
@@ -93,11 +98,6 @@
       "count": 15
     },
     {
-      "sourceId": "bksy-tzgg",
-      "sourceName": "本科生院·通知公告",
-      "count": 15
-    },
-    {
       "sourceId": "jwc-tztg",
       "sourceName": "教务处·通知通告",
       "count": 13
@@ -119,6 +119,107 @@
     }
   ],
   "items": [
+    {
+      "id": "94f7eff007bd8127",
+      "sourceId": "jwc-xwkd",
+      "sourceName": "教务部·新闻快递",
+      "school": "zzu",
+      "title": "郑州大学智慧课程建设系列培训会成功举办",
+      "url": "https://www5.zzu.edu.cn/jwc/info/1124/5474.htm",
+      "date": "2026-11-27",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-27T19:39:56.495Z"
+    },
+    {
+      "id": "5156be985a280ea4",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "xidian",
+      "title": "2026年12月12日全国大学英语四六级考试考生须知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/24033.htm",
+      "date": "2026-11-27",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-27T19:39:44.874Z"
+    },
+    {
+      "id": "dcbfb5aa78ca45de",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "neau",
+      "title": "关于2026-2027-2学期线上线下混合式教学课程开课申请的通知",
+      "url": "https://jwc.neau.edu.cn/info/1003/7417.htm",
+      "date": "2026-11-27",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "deadline": "2026-12-02",
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-27T19:39:08.986Z"
+    },
+    {
+      "id": "b1d952ff83848c60",
+      "sourceId": "ugs-tzgg",
+      "sourceName": "本科生院·通知公告",
+      "school": "hust",
+      "title": "2026年华中科技大学本科特优生候选人名单公示",
+      "url": "https://ugs.hust.edu.cn/info/1142/7735.htm",
+      "date": "2026-11-27",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-27T19:38:52.205Z"
+    },
+    {
+      "id": "546b5a68d6c96176",
+      "sourceId": "ugs-tzgg",
+      "sourceName": "本科生院·通知公告",
+      "school": "hust",
+      "title": "关于做好2026年度普通全日制本科生转专业工作的通知",
+      "url": "https://ugs.hust.edu.cn/info/1142/7734.htm",
+      "date": "2026-11-27",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-27T19:38:52.205Z"
+    },
+    {
+      "id": "35115875484e2591",
+      "sourceId": "bksy-tzgg",
+      "sourceName": "本科生院·通知公告",
+      "school": "ecnu",
+      "title": "关于国家留学基金委2027年加拿大阿尔伯塔大学本科生实习合作奖学金项目的申报通知",
+      "url": "http://www.jiaoliu.ecnu.edu.cn/29/e3/c11184a797155/page.htm",
+      "date": "2026-11-27",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "deadline": "2008-01-01",
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-27T19:38:40.552Z"
+    },
+    {
+      "id": "5907634343fdd858",
+      "sourceId": "bksy-tzgg",
+      "sourceName": "本科生院·通知公告",
+      "school": "ecnu",
+      "title": "关于报名2027年日本高校交换生项目（第二批）的通知",
+      "url": "http://www.jiaoliu.ecnu.edu.cn/29/f3/c11184a797171/page.htm",
+      "date": "2026-11-27",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "deadline": "2026-12-13",
+      "tier": "digest",
+      "firstSeenAt": "2026-11-27T19:38:40.552Z"
+    },
     {
       "id": "44f2d73ceb84c42c",
       "sourceId": "jiaowu-tzgg",
@@ -174,6 +275,34 @@
       "alsoIn": [],
       "tier": "digest",
       "firstSeenAt": "2026-11-27T01:52:02.848Z"
+    },
+    {
+      "id": "9d8f2b0ce1816f57",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "shu",
+      "title": "关于上海大学2026年市级本科教育教学改革推荐项目公示",
+      "url": "https://bksy.shu.edu.cn/info/1015/322944.htm",
+      "date": "2026-11-26",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-27T19:39:29.667Z"
+    },
+    {
+      "id": "d7764cd956c839e2",
+      "sourceId": "bksy-tzgg",
+      "sourceName": "本科生院·通知公告",
+      "school": "ecnu",
+      "title": "2026-2027学年春季学期本科生选课通知",
+      "url": "https://bksy.ecnu.edu.cn/28/8b/c40503a796811/page.htm",
+      "date": "2026-11-26",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-27T19:38:40.552Z"
     },
     {
       "id": "e25f049b92284728",
@@ -371,6 +500,20 @@
       "alsoIn": [],
       "tier": "urgent",
       "firstSeenAt": "2026-11-25T05:29:03.666Z"
+    },
+    {
+      "id": "c0ef0de7e12e118b",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "ouc",
+      "title": "（公示已到期）关于中国海洋大学2026年山东省本科教学改革研究项目拟推荐名单的公示",
+      "url": "https://jwc.ouc.edu.cn/2026/1124/c6517a542416/page.htm",
+      "date": "2026-11-24",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-27T19:39:21.031Z"
     },
     {
       "id": "02f592de6e2d4d32",
@@ -8271,6 +8414,21 @@
       "tag": "考试",
       "alsoIn": [],
       "firstSeenAt": "2026-09-28T12:00:56.521Z"
+    },
+    {
+      "id": "0d6fb8d308ed324a",
+      "sourceId": "bksy-tzgg",
+      "sourceName": "本科生院·通知公告",
+      "school": "ecnu",
+      "title": "关于2027年加拿大阿尔伯塔大学UARE科研实习项目的报名通知",
+      "url": "http://www.jiaoliu.ecnu.edu.cn/c0/05/c11184a770053/page.htm",
+      "date": "2026-07-10",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "deadline": "2026-07-23",
+      "tier": "digest",
+      "firstSeenAt": "2026-11-27T19:38:40.552Z"
     },
     {
       "id": "bb25deaf2c7c7dac",

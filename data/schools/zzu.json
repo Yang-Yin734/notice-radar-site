@@ -3,9 +3,14 @@
  "name": "郑州大学",
  "province": "河南省",
  "city": "郑州市",
- "generatedAt": "2026-11-27T10:32:47.592Z",
- "total": 150,
+ "generatedAt": "2026-11-27T19:39:56.768Z",
+ "total": 151,
  "bySource": [
+  {
+   "sourceId": "jwc-xwkd",
+   "sourceName": "教务部·新闻快递",
+   "count": 22
+  },
   {
    "sourceId": "news",
    "sourceName": "新闻网·综合",
@@ -15,11 +20,6 @@
    "sourceId": "gs-gg",
    "sourceName": "研究生院·公告",
    "count": 26
-  },
-  {
-   "sourceId": "jwc-xwkd",
-   "sourceName": "教务部·新闻快递",
-   "count": 21
   },
   {
    "sourceId": "rsc-tzgg",
@@ -59,7 +59,7 @@
     "教务部·新闻快递",
     "教务部·通知公告"
    ],
-   "count": 40
+   "count": 41
   },
   {
    "id": "新闻网",
@@ -133,62 +133,77 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务部·通知公告",
-   "checkedAt": "2026-11-27T10:32:47.116Z",
-   "lastSuccessAt": "2026-11-27T10:32:47.116Z",
+   "checkedAt": "2026-11-27T19:39:56.491Z",
+   "lastSuccessAt": "2026-11-27T19:39:56.491Z",
    "outcome": "ok",
    "status": 200,
    "items": 15
   },
   "jwc-xwkd": {
    "name": "教务部·新闻快递",
-   "checkedAt": "2026-11-27T10:32:47.116Z",
-   "lastSuccessAt": "2026-11-27T10:32:47.116Z",
+   "checkedAt": "2026-11-27T19:39:56.491Z",
+   "lastSuccessAt": "2026-11-27T19:39:56.491Z",
    "outcome": "ok",
    "status": 200,
    "items": 15
   },
   "gs-gg": {
    "name": "研究生院·公告",
-   "checkedAt": "2026-11-27T10:32:47.116Z",
-   "lastSuccessAt": "2026-11-27T10:32:47.116Z",
+   "checkedAt": "2026-11-27T19:39:56.491Z",
+   "lastSuccessAt": "2026-11-27T19:39:56.491Z",
    "outcome": "ok",
    "status": 200,
    "items": 28
   },
   "gs-xw": {
    "name": "研究生院·新闻",
-   "checkedAt": "2026-11-27T10:32:47.116Z",
-   "lastSuccessAt": "2026-11-27T10:32:47.116Z",
+   "checkedAt": "2026-11-27T19:39:56.491Z",
+   "lastSuccessAt": "2026-11-27T19:39:56.491Z",
    "outcome": "ok",
    "status": 200,
    "items": 28
   },
   "rsc-tzgg": {
    "name": "人事部·通知公告",
-   "checkedAt": "2026-11-27T10:32:47.116Z",
-   "lastSuccessAt": "2026-11-27T10:32:47.116Z",
+   "checkedAt": "2026-11-27T19:39:56.491Z",
+   "lastSuccessAt": "2026-11-27T19:39:56.491Z",
    "outcome": "ok",
    "status": 200,
    "items": 14
   },
   "news": {
    "name": "新闻网·综合",
-   "checkedAt": "2026-11-27T10:32:47.116Z",
-   "lastSuccessAt": "2026-11-27T10:32:47.116Z",
+   "checkedAt": "2026-11-27T19:39:56.491Z",
+   "lastSuccessAt": "2026-11-27T19:39:56.491Z",
    "outcome": "ok",
    "status": 200,
    "items": 10
   },
   "sthj-notices": {
    "name": "生态与环境学院·通知公告",
-   "checkedAt": "2026-11-27T10:32:47.116Z",
-   "lastSuccessAt": "2026-11-27T10:32:47.116Z",
+   "checkedAt": "2026-11-27T19:39:56.491Z",
+   "lastSuccessAt": "2026-11-27T19:39:56.491Z",
    "outcome": "ok",
    "status": 200,
    "items": 10
   }
  },
  "items": [
+  {
+   "id": "94f7eff007bd8127",
+   "sourceId": "jwc-xwkd",
+   "sourceName": "教务部·新闻快递",
+   "school": "zzu",
+   "title": "郑州大学智慧课程建设系列培训会成功举办",
+   "url": "https://www5.zzu.edu.cn/jwc/info/1124/5474.htm",
+   "date": "2026-11-27",
+   "tag": null,
+   "category": "教务",
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-27T19:39:56.495Z",
+   "unit": "教务部"
+  },
   {
    "id": "e25f049b92284728",
    "sourceId": "news",

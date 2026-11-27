@@ -3,13 +3,13 @@
  "name": "华东师范大学",
  "province": "上海市",
  "city": "",
- "generatedAt": "2026-11-27T10:32:47.592Z",
- "total": 15,
+ "generatedAt": "2026-11-27T19:39:56.768Z",
+ "total": 19,
  "bySource": [
   {
    "sourceId": "bksy-tzgg",
    "sourceName": "本科生院·通知公告",
-   "count": 15
+   "count": 19
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "本科生院·通知公告"
    ],
-   "count": 15
+   "count": 19
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,61 @@
  "sourceChecks": {
   "bksy-tzgg": {
    "name": "本科生院·通知公告",
-   "checkedAt": "2026-11-27T10:31:26.959Z",
-   "lastSuccessAt": "2026-11-22T11:48:06.060Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-27T19:38:40.549Z",
+   "lastSuccessAt": "2026-11-27T19:38:40.549Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 14
   }
  },
  "items": [
+  {
+   "id": "35115875484e2591",
+   "sourceId": "bksy-tzgg",
+   "sourceName": "本科生院·通知公告",
+   "school": "ecnu",
+   "title": "关于国家留学基金委2027年加拿大阿尔伯塔大学本科生实习合作奖学金项目的申报通知",
+   "url": "http://www.jiaoliu.ecnu.edu.cn/29/e3/c11184a797155/page.htm",
+   "date": "2026-11-27",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "deadline": "2008-01-01",
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-27T19:38:40.552Z",
+   "unit": "本科生院"
+  },
+  {
+   "id": "5907634343fdd858",
+   "sourceId": "bksy-tzgg",
+   "sourceName": "本科生院·通知公告",
+   "school": "ecnu",
+   "title": "关于报名2027年日本高校交换生项目（第二批）的通知",
+   "url": "http://www.jiaoliu.ecnu.edu.cn/29/f3/c11184a797171/page.htm",
+   "date": "2026-11-27",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "deadline": "2026-12-13",
+   "tier": "digest",
+   "firstSeenAt": "2026-11-27T19:38:40.552Z",
+   "unit": "本科生院"
+  },
+  {
+   "id": "d7764cd956c839e2",
+   "sourceId": "bksy-tzgg",
+   "sourceName": "本科生院·通知公告",
+   "school": "ecnu",
+   "title": "2026-2027学年春季学期本科生选课通知",
+   "url": "https://bksy.ecnu.edu.cn/28/8b/c40503a796811/page.htm",
+   "date": "2026-11-26",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-27T19:38:40.552Z",
+   "unit": "本科生院"
+  },
   {
    "id": "1166eba1e42cc2d4",
    "sourceId": "bksy-tzgg",
@@ -244,6 +291,22 @@
    "alsoIn": [],
    "firstSeenAt": "2026-10-04T06:59:36.935Z",
    "deadline": "2026-09-28",
+   "unit": "本科生院"
+  },
+  {
+   "id": "0d6fb8d308ed324a",
+   "sourceId": "bksy-tzgg",
+   "sourceName": "本科生院·通知公告",
+   "school": "ecnu",
+   "title": "关于2027年加拿大阿尔伯塔大学UARE科研实习项目的报名通知",
+   "url": "http://www.jiaoliu.ecnu.edu.cn/c0/05/c11184a770053/page.htm",
+   "date": "2026-07-10",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "deadline": "2026-07-23",
+   "tier": "digest",
+   "firstSeenAt": "2026-11-27T19:38:40.552Z",
    "unit": "本科生院"
   }
  ]
