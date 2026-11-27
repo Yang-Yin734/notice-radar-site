@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-26T18:25:27.254Z",
-  "total": 752,
+  "generatedAt": "2026-11-27T01:53:41.617Z",
+  "total": 767,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
-      "sourceName": "教务·通知公告",
-      "count": 309
+      "sourceName": "教务处·通知公告",
+      "count": 318
     },
     {
       "sourceId": "jwb-tzgg",
       "sourceName": "教务部·通知公告",
-      "count": 35
+      "count": 36
     },
     {
       "sourceId": "gs-xw",
@@ -33,6 +33,16 @@
       "count": 28
     },
     {
+      "sourceId": "ugs-tzgg",
+      "sourceName": "本科生院·通知公告",
+      "count": 26
+    },
+    {
+      "sourceId": "gs-gg",
+      "sourceName": "研究生院·公告",
+      "count": 26
+    },
+    {
       "sourceId": "aao-tzgg",
       "sourceName": "教务处·通知公告",
       "count": 26
@@ -41,16 +51,6 @@
       "sourceId": "jwc-jxtz",
       "sourceName": "教务处·教学通知",
       "count": 25
-    },
-    {
-      "sourceId": "ugs-tzgg",
-      "sourceName": "本科生院·通知公告",
-      "count": 24
-    },
-    {
-      "sourceId": "gs-gg",
-      "sourceName": "研究生院·公告",
-      "count": 24
     },
     {
       "sourceId": "jwc-student",
@@ -100,7 +100,7 @@
     {
       "sourceId": "jwc-tztg",
       "sourceName": "教务处·通知通告",
-      "count": 12
+      "count": 13
     },
     {
       "sourceId": "news-academic",
@@ -120,6 +120,77 @@
   ],
   "items": [
     {
+      "id": "66695891f827bff5",
+      "sourceId": "jwb-tzgg",
+      "sourceName": "教务部·通知公告",
+      "school": "bnu",
+      "title": "【教师教育】 关于公示2026年北京师范大学“国优计划”在读研究生二次遴选结果的通知",
+      "url": "https://jwb.bnu.edu.cn/jsjy/jspymsgg/137c61f4901d487a91d25905a50db35b.htm",
+      "date": "2026-11-27",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-27T01:52:02.848Z"
+    },
+    {
+      "id": "c70d32d0250bc617",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "xmu",
+      "title": "关于2026—2027学年第一学期本科生转专业名单的公示",
+      "url": "https://jwc.xmu.edu.cn/detail-v2.jsp?urltype=news.NewsContentUrl&wbtreeid=1911&wbnewsid=70072",
+      "date": "2026-11-26",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-27T01:53:33.626Z"
+    },
+    {
+      "id": "c0fcd854549e4d78",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "nankai",
+      "title": "关于2026年度教师系列教学为主型高级专业技术职务评审分委员会成员名单的公示",
+      "url": "https://jwc.nankai.edu.cn/2026/1126/c35436a607667/page.htm",
+      "date": "2026-11-26",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-27T01:52:41.048Z"
+    },
+    {
+      "id": "b1a7922ce16004ff",
+      "sourceId": "ugs-tzgg",
+      "sourceName": "本科生院·通知公告",
+      "school": "hust",
+      "title": "关于公示我校2026年度学生修读校内辅修学士学位预录取及可改报名单的通知",
+      "url": "https://ugs.hust.edu.cn/info/1142/7724.htm",
+      "date": "2026-11-26",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "deadline": "2026-11-30",
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-27T01:52:33.446Z"
+    },
+    {
+      "id": "9e65493b666f63b5",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "hlju",
+      "title": "关于核算2026-2027学年第一学期本科教学工作量的通知",
+      "url": "https://jwc.hlju.edu.cn/info/1059/3239.htm",
+      "date": "2026-11-26",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-27T01:52:26.997Z"
+    },
+    {
       "id": "315ebe2da57ace0f",
       "sourceId": "jwc-tzgg",
       "sourceName": "教务·通知公告",
@@ -132,6 +203,62 @@
       "alsoIn": [],
       "tier": "urgent",
       "firstSeenAt": "2026-11-26T18:24:34.363Z"
+    },
+    {
+      "id": "efbc3e3cf74b6b1a",
+      "sourceId": "gs-gg",
+      "sourceName": "研究生院·公告",
+      "school": "zzu",
+      "title": "关于刘东林研究员做客我校研究生“名师名家讲坛”的公告",
+      "url": "https://gs.zzu.edu.cn/info/1071/13947.htm",
+      "date": "2026-11-25",
+      "tag": null,
+      "category": "研究生",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-27T01:53:41.213Z"
+    },
+    {
+      "id": "e8f357eb7dd676cd",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "nankai",
+      "title": "关于南开大学2023年教材建设立项项目（本科）第二批和2024年教材建设立项项目（本科）首批结题验收结果公示",
+      "url": "https://jwc.nankai.edu.cn/2026/1125/c35436a607622/page.htm",
+      "date": "2026-11-25",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-27T01:52:41.048Z"
+    },
+    {
+      "id": "a52fae2b798bf77d",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "nankai",
+      "title": "2026-2027学年第一学期本科课堂教学质量评价结论公示",
+      "url": "https://jwc.nankai.edu.cn/2026/1125/c35436a607560/page.htm",
+      "date": "2026-11-25",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-27T01:52:41.048Z"
+    },
+    {
+      "id": "c7e0eb14cefd5681",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "hnu",
+      "title": "关于同意倪雍博同学转学的公示",
+      "url": "https://jwc.hnu.edu.cn/info/1022/14866.htm",
+      "date": "2026-11-25",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-27T01:52:30.849Z"
     },
     {
       "id": "1370ac8951d44cb0",
@@ -188,6 +315,49 @@
       "alsoIn": [],
       "tier": "urgent",
       "firstSeenAt": "2026-11-25T05:29:03.666Z"
+    },
+    {
+      "id": "02f592de6e2d4d32",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "xmu",
+      "title": "关于遴选优秀本科生申请2027年加拿大阿尔伯塔大学本科生实习合作奖学金的通知",
+      "url": "https://jwc.xmu.edu.cn/info/1911/70042.htm",
+      "date": "2026-11-24",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "deadline": "2026-12-14",
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-27T01:53:33.626Z"
+    },
+    {
+      "id": "a5213b028c4c18c1",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "ouc",
+      "title": "关于中国海洋大学2026年山东省本科教学改革研究项目拟推荐名单的公示",
+      "url": "https://jwc.ouc.edu.cn/2026/1124/c6517a542416/page.htm",
+      "date": "2026-11-24",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-27T01:52:59.839Z"
+    },
+    {
+      "id": "ce14e1ddada1e580",
+      "sourceId": "ugs-tzgg",
+      "sourceName": "本科生院·通知公告",
+      "school": "hust",
+      "title": "关于主校区考点举行2026年下半年全国大学英语四、六级考试笔试的通知",
+      "url": "https://ugs.hust.edu.cn/info/1142/7722.htm",
+      "date": "2026-11-24",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-27T01:52:33.446Z"
     },
     {
       "id": "768c4fb00d909279",
@@ -287,6 +457,20 @@
       "deadline": "2026-11-27",
       "tier": "urgent",
       "firstSeenAt": "2026-11-24T03:04:41.671Z"
+    },
+    {
+      "id": "426f3a54ade3d994",
+      "sourceId": "gs-gg",
+      "sourceName": "研究生院·公告",
+      "school": "zzu",
+      "title": "关于举办2026年“我和我的导师”羽毛球、乒乓球第二阶段比赛的通知",
+      "url": "https://gs.zzu.edu.cn/info/1071/13944.htm",
+      "date": "2026-11-23",
+      "tag": null,
+      "category": "研究生",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-27T01:53:41.213Z"
     },
     {
       "id": "f6a9cfa4fa7a7e9d",
@@ -1572,6 +1756,20 @@
       "firstSeenAt": "2026-11-11T02:53:47.514Z"
     },
     {
+      "id": "1bc5800767bfd788",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务处·通知公告",
+      "school": "xmu",
+      "title": "关于组织2026届第二批本科毕业审查工作的通知",
+      "url": "https://jwc.xmu.edu.cn/info/1911/70052.htm",
+      "date": "2026-11-10",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-27T01:53:33.626Z"
+    },
+    {
       "id": "673c4956df309d3f",
       "sourceId": "sthj-notices",
       "sourceName": "生态与环境学院·通知公告",
@@ -1963,6 +2161,20 @@
       "alsoIn": [],
       "tier": "urgent",
       "firstSeenAt": "2026-11-06T01:09:40.259Z"
+    },
+    {
+      "id": "31eea85779612f52",
+      "sourceId": "jwc-tztg",
+      "sourceName": "教务处·通知通告",
+      "school": "ustb",
+      "title": "教通知【2026】172号-关于开展2026年北京高校优秀教学创新示范案例（竞赛指导类）建设工作的通知",
+      "url": "https://jwc.ustb.edu.cn/tztg/e919051efab74a10b580fa9ec33fa93b.htm",
+      "date": "2026-11-05",
+      "tag": null,
+      "category": "教务",
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-27T01:53:26.083Z"
     },
     {
       "id": "0afba272457c91cd",

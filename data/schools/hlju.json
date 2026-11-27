@@ -3,13 +3,13 @@
  "name": "黑龙江大学",
  "province": "黑龙江省",
  "city": "哈尔滨市",
- "generatedAt": "2026-11-26T18:25:27.254Z",
- "total": 14,
+ "generatedAt": "2026-11-27T01:53:41.617Z",
+ "total": 15,
  "bySource": [
   {
    "sourceId": "jwc-tzgg",
    "sourceName": "教务·通知公告",
-   "count": 14
+   "count": 15
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务·通知公告"
    ],
-   "count": 14
+   "count": 15
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,29 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务·通知公告",
-   "checkedAt": "2026-11-26T18:24:25.145Z",
-   "lastSuccessAt": "2026-11-23T05:46:07.080Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-27T01:52:26.992Z",
+   "lastSuccessAt": "2026-11-27T01:52:26.992Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 27
   }
  },
  "items": [
+  {
+   "id": "9e65493b666f63b5",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务·通知公告",
+   "school": "hlju",
+   "title": "关于核算2026-2027学年第一学期本科教学工作量的通知",
+   "url": "https://jwc.hlju.edu.cn/info/1059/3239.htm",
+   "date": "2026-11-26",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-27T01:52:26.997Z",
+   "unit": "教务"
+  },
   {
    "id": "f7f1a303d952f0ad",
    "sourceId": "jwc-tzgg",

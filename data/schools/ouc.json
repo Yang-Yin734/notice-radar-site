@@ -3,13 +3,13 @@
  "name": "中国海洋大学",
  "province": "山东省",
  "city": "青岛市",
- "generatedAt": "2026-11-26T18:25:27.254Z",
- "total": 13,
+ "generatedAt": "2026-11-27T01:53:41.617Z",
+ "total": 14,
  "bySource": [
   {
    "sourceId": "jwc-tzgg",
    "sourceName": "教务处·通知公告",
-   "count": 13
+   "count": 14
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务处·通知公告"
    ],
-   "count": 13
+   "count": 14
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,29 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务处·通知公告",
-   "checkedAt": "2026-11-26T18:24:46.991Z",
-   "lastSuccessAt": "2026-11-23T05:46:39.705Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-27T01:52:59.832Z",
+   "lastSuccessAt": "2026-11-27T01:52:59.832Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 14
   }
  },
  "items": [
+  {
+   "id": "a5213b028c4c18c1",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "ouc",
+   "title": "关于中国海洋大学2026年山东省本科教学改革研究项目拟推荐名单的公示",
+   "url": "https://jwc.ouc.edu.cn/2026/1124/c6517a542416/page.htm",
+   "date": "2026-11-24",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-27T01:52:59.839Z",
+   "unit": "教务处"
+  },
   {
    "id": "251e83c0a1645fb0",
    "sourceId": "jwc-tzgg",

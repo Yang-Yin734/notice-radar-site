@@ -3,13 +3,13 @@
  "name": "华中科技大学",
  "province": "湖北省",
  "city": "武汉市",
- "generatedAt": "2026-11-26T18:25:27.254Z",
- "total": 24,
+ "generatedAt": "2026-11-27T01:53:41.617Z",
+ "total": 26,
  "bySource": [
   {
    "sourceId": "ugs-tzgg",
    "sourceName": "本科生院·通知公告",
-   "count": 24
+   "count": 26
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "本科生院·通知公告"
    ],
-   "count": 24
+   "count": 26
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,45 @@
  "sourceChecks": {
   "ugs-tzgg": {
    "name": "本科生院·通知公告",
-   "checkedAt": "2026-11-26T18:24:28.122Z",
-   "lastSuccessAt": "2026-11-23T05:46:10.792Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-27T01:52:33.439Z",
+   "lastSuccessAt": "2026-11-27T01:52:33.439Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 20
   }
  },
  "items": [
+  {
+   "id": "b1a7922ce16004ff",
+   "sourceId": "ugs-tzgg",
+   "sourceName": "本科生院·通知公告",
+   "school": "hust",
+   "title": "关于公示我校2026年度学生修读校内辅修学士学位预录取及可改报名单的通知",
+   "url": "https://ugs.hust.edu.cn/info/1142/7724.htm",
+   "date": "2026-11-26",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "deadline": "2026-11-30",
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-27T01:52:33.446Z",
+   "unit": "本科生院"
+  },
+  {
+   "id": "ce14e1ddada1e580",
+   "sourceId": "ugs-tzgg",
+   "sourceName": "本科生院·通知公告",
+   "school": "hust",
+   "title": "关于主校区考点举行2026年下半年全国大学英语四、六级考试笔试的通知",
+   "url": "https://ugs.hust.edu.cn/info/1142/7722.htm",
+   "date": "2026-11-24",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "urgent",
+   "firstSeenAt": "2026-11-27T01:52:33.446Z",
+   "unit": "本科生院"
+  },
   {
    "id": "1113a940dff6ca85",
    "sourceId": "ugs-tzgg",

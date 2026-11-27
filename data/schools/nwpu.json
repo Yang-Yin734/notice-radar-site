@@ -3,7 +3,7 @@
  "name": "西北工业大学",
  "province": "陕西省",
  "city": "西安市",
- "generatedAt": "2026-11-26T18:25:27.254Z",
+ "generatedAt": "2026-11-27T01:53:41.617Z",
  "total": 28,
  "bySource": [
   {
@@ -33,8 +33,8 @@
  "sourceChecks": {
   "jiaowu-tzgg": {
    "name": "教务部·通知公告",
-   "checkedAt": "2026-11-26T18:24:45.721Z",
-   "lastSuccessAt": "2026-11-26T18:24:45.721Z",
+   "checkedAt": "2026-11-27T01:52:55.934Z",
+   "lastSuccessAt": "2026-11-27T01:52:55.934Z",
    "outcome": "ok",
    "status": 200,
    "items": 15

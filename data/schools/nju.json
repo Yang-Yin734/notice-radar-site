@@ -3,7 +3,7 @@
  "name": "南京大学",
  "province": "江苏省",
  "city": "南京市",
- "generatedAt": "2026-11-26T18:25:27.254Z",
+ "generatedAt": "2026-11-27T01:53:41.617Z",
  "total": 16,
  "bySource": [
   {
@@ -33,11 +33,11 @@
  "sourceChecks": {
   "jw-ggtz": {
    "name": "本科生院·公告通知",
-   "checkedAt": "2026-11-26T18:24:41.012Z",
-   "lastSuccessAt": "2026-11-22T11:48:33.822Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-27T01:52:50.009Z",
+   "lastSuccessAt": "2026-11-27T01:52:50.009Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 14
   }
  },
  "items": [

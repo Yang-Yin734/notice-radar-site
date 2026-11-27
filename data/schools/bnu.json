@@ -3,13 +3,13 @@
  "name": "北京师范大学",
  "province": "北京市",
  "city": "",
- "generatedAt": "2026-11-26T18:25:27.254Z",
- "total": 32,
+ "generatedAt": "2026-11-27T01:53:41.617Z",
+ "total": 33,
  "bySource": [
   {
    "sourceId": "jwb-tzgg",
    "sourceName": "教务部·通知公告",
-   "count": 32
+   "count": 33
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务部·通知公告"
    ],
-   "count": 32
+   "count": 33
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,29 @@
  "sourceChecks": {
   "jwb-tzgg": {
    "name": "教务部·通知公告",
-   "checkedAt": "2026-11-26T18:24:10.022Z",
-   "lastSuccessAt": "2026-11-26T18:24:10.022Z",
+   "checkedAt": "2026-11-27T01:52:02.840Z",
+   "lastSuccessAt": "2026-11-27T01:52:02.840Z",
    "outcome": "ok",
    "status": 200,
    "items": 20
   }
  },
  "items": [
+  {
+   "id": "66695891f827bff5",
+   "sourceId": "jwb-tzgg",
+   "sourceName": "教务部·通知公告",
+   "school": "bnu",
+   "title": "【教师教育】 关于公示2026年北京师范大学“国优计划”在读研究生二次遴选结果的通知",
+   "url": "https://jwb.bnu.edu.cn/jsjy/jspymsgg/137c61f4901d487a91d25905a50db35b.htm",
+   "date": "2026-11-27",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-27T01:52:02.848Z",
+   "unit": "教务部"
+  },
   {
    "id": "98362090a0d0befb",
    "sourceId": "jwb-tzgg",

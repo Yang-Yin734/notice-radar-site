@@ -3,13 +3,13 @@
  "name": "湖南大学",
  "province": "湖南省",
  "city": "长沙市",
- "generatedAt": "2026-11-26T18:25:27.254Z",
- "total": 14,
+ "generatedAt": "2026-11-27T01:53:41.617Z",
+ "total": 15,
  "bySource": [
   {
    "sourceId": "jwc-tzgg",
    "sourceName": "教务处·通知公告",
-   "count": 14
+   "count": 15
   }
  ],
  "units": [
@@ -19,7 +19,7 @@
    "sources": [
     "教务处·通知公告"
    ],
-   "count": 14
+   "count": 15
   }
  ],
  "sourceCatalog": [
@@ -33,14 +33,29 @@
  "sourceChecks": {
   "jwc-tzgg": {
    "name": "教务处·通知公告",
-   "checkedAt": "2026-11-26T18:24:26.343Z",
-   "lastSuccessAt": "2026-11-25T05:29:40.169Z",
-   "outcome": "network",
-   "status": null,
-   "items": 0
+   "checkedAt": "2026-11-27T01:52:30.844Z",
+   "lastSuccessAt": "2026-11-27T01:52:30.844Z",
+   "outcome": "ok",
+   "status": 200,
+   "items": 15
   }
  },
  "items": [
+  {
+   "id": "c7e0eb14cefd5681",
+   "sourceId": "jwc-tzgg",
+   "sourceName": "教务处·通知公告",
+   "school": "hnu",
+   "title": "关于同意倪雍博同学转学的公示",
+   "url": "https://jwc.hnu.edu.cn/info/1022/14866.htm",
+   "date": "2026-11-25",
+   "tag": null,
+   "category": null,
+   "alsoIn": [],
+   "tier": "digest",
+   "firstSeenAt": "2026-11-27T01:52:30.849Z",
+   "unit": "教务处"
+  },
   {
    "id": "fde5fd6a7b830bba",
    "sourceId": "jwc-tzgg",
