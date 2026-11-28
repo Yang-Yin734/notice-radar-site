@@ -3,7 +3,7 @@
  "name": "华中科技大学",
  "province": "湖北省",
  "city": "武汉市",
- "generatedAt": "2026-11-28T02:11:32.465Z",
+ "generatedAt": "2026-11-28T10:26:02.374Z",
  "total": 28,
  "bySource": [
   {
@@ -33,11 +33,11 @@
  "sourceChecks": {
   "ugs-tzgg": {
    "name": "本科生院·通知公告",
-   "checkedAt": "2026-11-28T02:10:28.400Z",
+   "checkedAt": "2026-11-28T10:25:10.406Z",
    "lastSuccessAt": "2026-11-28T02:10:28.400Z",
-   "outcome": "ok",
-   "status": 200,
-   "items": 20
+   "outcome": "network",
+   "status": null,
+   "items": 0
   }
  },
  "items": [
