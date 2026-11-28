@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-27T19:39:56.768Z",
-  "total": 782,
+  "generatedAt": "2026-11-28T02:11:32.465Z",
+  "total": 784,
   "bySource": [
     {
       "sourceId": "jwc-tzgg",
       "sourceName": "教务处·通知公告",
-      "count": 322
+      "count": 324
     },
     {
       "sourceId": "jwb-tzgg",
@@ -656,6 +656,21 @@
       "deadline": "2026-11-27",
       "tier": "urgent",
       "firstSeenAt": "2026-11-24T03:04:41.671Z"
+    },
+    {
+      "id": "8981f5c89bd07579",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "hfuu",
+      "title": "关于开展2026年底批次毕业/学位审核工作的通知",
+      "url": "https://www.hfuu.edu.cn/jwc/85/c5/c7705a165317/page.htm",
+      "date": "2026-11-23",
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "deadline": "2026-12-16",
+      "tier": "urgent",
+      "firstSeenAt": "2026-11-28T02:10:22.116Z"
     },
     {
       "id": "426f3a54ade3d994",
@@ -10246,6 +10261,20 @@
       "alsoIn": [],
       "tier": "digest",
       "firstSeenAt": "2026-11-09T14:17:44.710Z"
+    },
+    {
+      "id": "0d0a91bfe172a408",
+      "sourceId": "jwc-tzgg",
+      "sourceName": "教务·通知公告",
+      "school": "hfuu",
+      "title": "学校召开2026-2027学年第一学期教学工作会议",
+      "url": "https://www.hfuu.edu.cn/jwc/85/df/c7704a165343/page.htm",
+      "date": null,
+      "tag": null,
+      "category": null,
+      "alsoIn": [],
+      "tier": "digest",
+      "firstSeenAt": "2026-11-28T02:10:22.116Z"
     },
     {
       "id": "5ce3733f613a1569",
